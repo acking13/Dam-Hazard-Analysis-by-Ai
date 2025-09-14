@@ -1,0 +1,1345 @@
+state,downstream_hazard_potential,incident_date,incident_driver,incident_mechanism_1,incident_mechanism_2,incident_mechanism_3,eap_enacted_y_n_due_to_incident,owner_type,dam_type,primary_purpose_s,eap,dam_height,max_storage_ac_ft,surface_area_acres,year_completed,latitude,longitude,year_modified,incident_time,incident_duration,incident_report_produced
+MS,L,8/30/2022,Hydrologic/Flooding,Animal Activity,Vegetation,Erosion,N,L,RE,O,NR,8 ft,96.0,0,-1,32.2595,-90.4113,-1,-1,-1,N
+SC,L,10/4/2015,Hydrologic/Flooding,Overtopping,-1,-1,-1,P,RE,R,N,10 ft,58.0,11,1955,33.6217,-81.2333,-1,-1,-1,-1
+MO,L,1/1/2008,Structural Stability,Sliding,-1,-1,No,S,RE,R,N,36 ft,117.0,8,1968,37.8231,-90.8224,-1,-1,-1,-1
+CO,H,3/22/2016,Seepage/Internal Erosion,Spillway Pipe Failure,Sinkhole,-1,Yes,P,RE,IR,Y,41 ft,85000.0,4105,1904,38.235,-103.281,-1,-1,-1,-1
+VA,U,8/19/2021,Deterioration or Poor Condition,Erosion,Overtopping,-1,-1,P,RE,F,N,7 ft,103.7,9,-1,37.2835,-77.2109,-1,-1,-1,-1
+MN,-1,4/24/2018,Hydrologic/Flooding,Animal Activity,Debris Clogging,Overtopping,No,S,OT,O,NR,55 ft,150.0,9,1945,47.541,-92.3108,-1,-1,1 day,Unknown
+TX,H,1/1/1960,Seepage/Internal Erosion,Piping,-1,-1,-1,L,RE,CI,N,48 ft,6144.0,30,1960,31.4051,-105.818,-1,-1,-1,-1
+TX,H,1/1/1970,Seepage/Internal Erosion,Piping,-1,-1,-1,L,RE,CI,N,48 ft,6144.0,30,1960,31.4051,-105.818,-1,-1,-1,-1
+CO,H,7/18/2017,Manmade Action,Other,-1,-1,Yes,S,RE,FR,Y,32 ft,812.0,39,1953,37.4703,-106.766,-1,-1,2 days,Yes
+MS,S,1/21/2015,Deterioration or Poor Condition,Spillway Pipe Failure,-1,-1,No,P,RE,R,NR,33 ft,1369.0,80,1995,30.9806,-89.6881,-1,-1,-1,-1
+MS,S,3/11/2016,Hydrologic/Flooding,Overtopping,-1,-1,-1,P,RE,R,NR,33 ft,1369.0,80,1995,30.9806,-89.6881,-1,5:00 AM,-1,-1
+MS,L,4/5/2021,Hydrologic/Flooding,-1,-1,-1,N,P,RE,R,NR,33 ft,1369.0,80,1995,30.9822,-89.6875,-1,-1,-1,N
+VA,U,5/17/2018,Unknown,Spillway Erosion/Head Cutting,-1,-1,No,P,RE,R,N,24 ft,91.5,9,-1,37.5636,-78.403,-1,-1,-1,-1
+IN,L,5/8/2013,Deterioration or Poor Condition,Spillway Pipe Failure,Sinkhole,-1,No,P,RE,R,N,32 ft,135.0,8,1981,39.4039,-86.1231,-1,-1,-1,-1
+SD,L,1/1/2019,Hydrologic/Flooding,Spillway Chute Failure,Slope Stability,-1,No,S,RE,CR,NR,36 ft,2150.0,46,1954,43.44,-96.6083,1994,-1,-1,-1
+TX,L,5/27/2016,Hydrologic/Flooding,Overtopping,-1,-1,-1,P,RE,R,NR,26 ft,1883.0,0,1959,30.8889,-94.4003,1996,-1,-1,-1
+TX,L,8/3/2007,Unknown,Spillway Deficiency,-1,-1,-1,P,RE,-1,NR,20 ft,134.0,5,1987,30.9145,-97.1999,-1,-1,-1,-1
+NC,-1,1/1/2008,Hydrologic/Flooding,Unknown,-1,-1,No,-1,-1,-1,-1,-1,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+CT,-1,5/28/1912,Unknown,Unknown,-1,-1,No,-1,-1,-1,-1,-1,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+TX,H,2/1/1972,Malfunction of Equipment/Gate,Gate/Valve Failure,-1,-1,-1,F,CN,CI,Y,23 ft,16400.0,1287,1960,26.137,-98.334,-1,-1,-1,-1
+CO,S,9/13/2013,Hydrologic/Flooding,Overtopping,-1,-1,-1,P,RE,R,Y,23 ft,45.0,4,1974,39.6057,-104.874,-1,-1,-1,-1
+TX,S,8/29/2017,Hydrologic/Flooding,Overtopping,Animal Activity,-1,-1,P,RE,-1,N,16 ft,47.0,0,1800,30.7896,-95.5282,-1,-1,-1,-1
+TX,L,8/29/2017,Hydrologic/Flooding,Sliding,-1,-1,-1,P,RE,I,NR,7 ft,1330.0,0,1960,26.3531,-97.4907,-1,-1,-1,-1
+NC,H,10/8/2016,Hydrologic/Flooding,Overtopping,-1,-1,No,L,RE,R,N,21 ft,144.0,0,-1,35.029,-78.981,-1,-1,1 day,-1
+PA,H,4/26/1994,Seepage/Internal Erosion,Piping,-1,-1,No,P,RE,R,Y,18 ft,2344.0,218,1954,41.1536,-75.5775,2002,-1,-1,-1
+MA,-1,1/7/1909,Seepage/Internal Erosion,Piping,-1,-1,No,-1,-1,-1,-1,-1,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+NH,S,7/30/2021,Hydrologic/Flooding,High Reservoir Level,-1,-1,Yes,L,RE,R,Y,13 ft,3588.0,360,1872,43.1507,-72.1569,1925,-1,1 day,-1
+CO,S,9/20/2013,Hydrologic/Flooding,Overtopping,-1,-1,-1,-1,-1,-1,-1,-1,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+TX,L,5/11/2015,Hydrologic/Flooding,Overtopping,-1,-1,-1,P,RE,R,NR,28 ft,1419.0,100,1920,32.2346,-95.7774,-1,-1,-1,-1
+NE,L,6/12/2010,Hydrologic/Flooding,Overtopping,-1,-1,No,L,RE,R,NR,13 ft,360.0,19,1992,42.5379,-99.0005,-1,-1,-1,-1
+CA,H,4/2/2018,Hydrologic/Flooding,Insufficient Spillway Capacity,Overtopping,-1,No,P,RE,S,N,17 ft,94.0,8,0,37.0676,-119.49,-1,-1,1 day,Yes
+PA,S,3/5/2018,Hydrologic/Flooding,Overtopping,Erosion,-1,No,P,RE,R,N,14 ft,10.0,0,-1,39.9511,-80.1628,-1,-1,-1,-1
+TX,-1,4/6/1900,Structural Stability,Slope Stability,-1,-1,No,-1,-1,-1,-1,-1,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+TX,H,5/2/2024,Hydrologic/Flooding,Spillway Erosion/Head Cutting,-1,-1,Yes,P,RE,R,N,20 ft,56.0,7,-1,30.6786,-95.5375,-1,-1,-1,Yes
+CA,-1,12/14/1963,Seepage/Internal Erosion,Piping,-1,-1,No,-1,RE,-1,-1,232 ft,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+CO,L,4/29/2015,Seepage/Internal Erosion,Piping,Vegetation,-1,-1,S,RE,FR,NR,13 ft,112.0,16,1960,40.0784,-104.564,2002,-1,-1,-1
+VA,-1,6/21/1972,Hydrologic/Flooding,Overtopping,-1,-1,No,-1,-1,-1,-1,-1,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+CO,H,9/13/2013,Hydrologic/Flooding,High Reservoir Level,-1,-1,-1,L,RE,IS,Y,50 ft,3005.0,108,1923,40.6,-105.836,-1,-1,-1,-1
+TX,L,5/8/1986,Seepage/Internal Erosion,Piping,-1,-1,-1,P,RE,O,NR,20 ft,11400.0,0,1973,27.6267,-97.3483,-1,-1,-1,-1
+MD,L,7/14/2016,Malfunction of Equipment/Gate,Gate/Valve Failure,Overtopping,-1,No,P,RE,R,NR,9 ft,90.0,14,-1,38.4617,-75.735,1979,-1,-1,-1
+NJ,L,8/1/2011,Seepage/Internal Erosion,Piping,-1,-1,No,P,PGRE,R,N,15 ft,59.0,20,1955,41.1969,-74.4412,-1,12:00 AM,-1,-1
+TX,L,6/13/1973,Hydrologic/Flooding,Overtopping,-1,-1,-1,P,RE,R,NR,20 ft,214.0,8,1955,30.3715,-95.3387,-1,-1,-1,-1
+NY,S,5/6/2018,Seepage/Internal Erosion,Cracking,Excessive/Increased Seepage,Sinkhole,Yes,P,CNOT,OR,Y,17 ft,70924.0,5066,1915,44.2506,-74.2942,-1,-1,3 days,Yes
+NY,L,8/28/2011,Hydrologic/Flooding,Overtopping,-1,-1,No,L,RE,S,N,14 ft,1447.0,70,1918,44.1,-73.5117,-1,-1,-1,-1
+CO,H,9/12/2013,Hydrologic/Flooding,Unknown,-1,-1,-1,P,RE,IS,Y,44 ft,6592.0,270,1905,39.9986,-105.198,-1,-1,-1,-1
+CO,H,9/12/2013,Structural Stability,Slope Stability,-1,-1,-1,P,RE,IS,Y,20 ft,6592.0,270,1905,40.0028,-105.206,-1,-1,-1,-1
+TX,L,8/17/1984,Unknown,Unknown,-1,-1,-1,P,RE,T,NR,30 ft,750.0,35,1974,32.0011,-95.9015,1986,-1,-1,-1
+TX,L,5/23/2015,Hydrologic/Flooding,Overtopping,-1,-1,-1,S,RE,R,NR,18 ft,110.0,0,1913,30.1124,-97.277,1935,-1,-1,Yes
+NY,H,8/28/2011,Hydrologic/Flooding,Spillway Erosion/Head Cutting,-1,-1,No,L,RE,C,Y,74 ft,1415.0,5,1970,42.3211,-74.2325,-1,-1,-1,-1
+NY,H,8/28/2011,Hydrologic/Flooding,Spillway Erosion/Head Cutting,-1,-1,-1,L,RE,C,Y,77 ft,2928.0,10,1967,42.3322,-74.2478,2013,-1,-1,-1
+TX,L,5/10/2009,Deterioration or Poor Condition,Spillway Riser Failure,-1,-1,No,L,RE,IR,NR,32 ft,916.0,30,1908,31.548,-96.901,-1,-1,-1,-1
+SC,S,9/16/2018,Hydrologic/Flooding,Overtopping,Erosion,-1,No,P,RE,R,Y,7 ft,141.0,22,1953,34.1114,-79.3352,-1,-1,-1,-1
+SC,S,10/8/2016,Hydrologic/Flooding,Unknown,-1,-1,No,P,RE,R,Y,13 ft,141.0,22,1953,34.1117,-79.335,-1,-1,3 Days,No
+PA,-1,9/30/1911,Unknown,Unknown,-1,-1,No,-1,-1,-1,-1,-1,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+TX,H,1/1/1989,Hydrologic/Flooding,Overtopping,-1,-1,-1,P,RE,R,N,27 ft,3207.0,0,1964,30.4819,-94.7734,-1,-1,-1,-1
+TX,H,6/26/1986,Hydrologic/Flooding,Overtopping,-1,-1,-1,P,RE,R,N,27 ft,3207.0,0,1964,30.4819,-94.7734,-1,-1,-1,-1
+TX,H,10/17/1994,Unknown,Spillway Erosion/Head Cutting,-1,-1,-1,P,RE,R,N,27 ft,3207.0,0,1964,30.4819,-94.7734,-1,-1,-1,-1
+VA,S,8/6/2014,Hydrologic/Flooding,Overtopping,-1,-1,-1,P,-1,-1,N,33 ft,139.0,0,-1,37.5078,-77.5312,-1,-1,-1,-1
+VA,H,5/21/2018,Hydrologic/Flooding,Spillway Chute Failure,-1,-1,No,L,RE,S,Y,71 ft,6603.0,206,-1,36.7433,-79.875,-1,-1,-1,-1
+CO,H,3/18/2016,Seepage/Internal Erosion,Sinkhole,-1,-1,Yes,S,ER,RFIO,Y,114 ft,5800.0,94,1912,37.5961,-106.667,-1,-1,-1,-1
+WI,S,8/23/2019,Malfunction of Equipment/Gate,Other,-1,-1,Yes,S,PGRE,R,Y,21 ft,800.0,73,1965,42.5819,-89.7745,-1,-1,3 days,No
+IA,S,10/11/2018,Deterioration or Poor Condition,Piping,Erosion,Spillway Pipe Failure,No,L,RE,S,NR,44 ft,598.0,30,1969,40.6822,-94.7127,-1,-1,-1,-1
+IA,S,10/11/2018,Deterioration or Poor Condition,Spillway Pipe Failure,Piping,-1,-1,L,RE,S,NR,44 ft,598.0,30,1969,40.6822,-94.7127,-1,-1,-1,-1
+WI,L,8/20/2018,Hydrologic/Flooding,Erosion,Excessive/Increased Seepage,-1,Yes,L,PGRE,R,Y,15 ft,260.0,112,1860,42.8605,-89.5358,1918,-1,-1,Unknown
+CO,S,5/1/2017,Deterioration or Poor Condition,Piping,Sinkhole,-1,No,P,RE,IP,Y,30 ft,647.0,30,1912,37.8136,-108.353,-1,-1,-1,No
+NY,S,8/28/2011,Hydrologic/Flooding,Overtopping,-1,-1,No,P,OTRE,R,N,20 ft,210.0,26,1900,42.745,-74.7603,-1,-1,-1,-1
+NC,H,10/8/2016,Hydrologic/Flooding,Overtopping,-1,-1,No,X,RE,F,N,6 ft,-1.0,0,-1,35.0773,-77.9099,-1,-1,1 day,-1
+MS,L,2/28/2020,Hydrologic/Flooding,Overtopping,Insufficient Spillway Capacity,-1,Y,P,RE,R,N,17 ft,98.0,7,-1,34.1555,-88.4259,-1,-1,-1,Y
+KY,L,6/17/2018,Seepage/Internal Erosion,Piping,-1,-1,-1,S,RE,R,Y,70 ft,218.0,9,1971,38.8845,-84.7429,-1,-1,-1,Yes
+TX,H,12/27/2015,Hydrologic/Flooding,Erosion,-1,-1,-1,L,RE,S,N,38 ft,6625.0,15,1987,33.3924,-95.6941,2001,-1,-1,-1
+PA,S,3/28/2011,Seepage/Internal Erosion,Excessive/Increased Seepage,-1,-1,No,P,MSREST,RS,Y,12 ft,740.0,79,1860,41.7528,-75.9547,2006,-1,2 DAYS,-1
+PA,S,6/26/2006,Hydrologic/Flooding,Overtopping,Erosion,-1,Yes,P,MSREST,RS,Y,12 ft,740.0,79,1860,41.7528,-75.9547,2006,-1,3 DAYS,-1
+PA,S,9/8/2011,Hydrologic/Flooding,High Reservoir Level,-1,-1,Yes,P,MSREST,RS,Y,12 ft,740.0,79,1860,41.7528,-75.9547,2006,-1,1 DAY,-1
+TX,S,9/27/1996,Hydrologic/Flooding,Overtopping,-1,-1,-1,P,RE,ISR,Y,21 ft,357.0,22,1949,30.6938,-94.423,1997,-1,-1,-1
+MD,L,9/30/2016,Hydrologic/Flooding,Unknown,-1,-1,No,L,RE,RFP,NR,9 ft,72.0,60,1900,38.0156,-75.4561,-1,-1,-1,-1
+MS,L,2/10/2020,Hydrologic/Flooding,Overtopping,-1,-1,N,P,RE,R,NR,12 ft,120.0,0,1955,32.758,-89.5672,-1,-1,-1,Y
+CO,S,7/3/2011,Hydrologic/Flooding,Overtopping,Animal Activity,-1,No,-1,RE,R,-1,8 ft,-1.0,0,1930,40.0,106.0,-1,-1,-1,-1
+NV,H,8/31/2021,Seismic,Other,Debris Clogging,-1,No,P,CNRE,CIR,Y,80 ft,28250.0,930,1912,41.2556,-114.913,-1,11:21,-1,No
+SC,L,10/4/2015,Hydrologic/Flooding,Overtopping,-1,-1,-1,P,RE,PR,N,20 ft,165.0,10,1970,33.8417,-80.3283,-1,-1,-1,-1
+WI,L,10/31/2023,Hydrologic/Flooding,Debris Clogging,-1,-1,Yes,L,CNPG,HR,NR,18 ft,6270.0,198,1912,44.2917,-90.8625,-1,-1,-1,-1
+TX,L,1/1/1993,Unknown,Spillway Deficiency,-1,-1,-1,P,RE,R,NR,18 ft,137.0,12,1950,31.3741,-94.8517,-1,-1,-1,-1
+SC,L,10/8/2016,Hydrologic/Flooding,Unknown,-1,-1,No,P,RE,R,N,16 ft,74.0,9,1960,34.045,-79.8183,-1,-1,1 Day,No
+DE,H,8/28/2011,Hydrologic/Flooding,Erosion,-1,-1,No,S,REPG,RF,N,15 ft,611.0,48,-1,38.904,-75.4848,-1,-1,-1,-1
+MI,L,10/7/2013,Deterioration or Poor Condition,Gate/Valve Failure,-1,-1,No,P,RE,R,NR,12 ft,300.0,13,1978,43.525,-85.075,-1,-1,-1,-1
+MS,-1,2/10/2020,Seepage/Internal Erosion,Piping,-1,-1,N,P,RE,-1,-1,-1,-1.0,0,-1,0.0,0.0,-1,-1,1 day,Y
+TX,L,3/30/2008,Hydrologic/Flooding,Overtopping,-1,-1,-1,P,RE,R,NR,12 ft,150.0,29,1890,31.5889,-94.1114,-1,-1,-1,-1
+NY,H,8/28/2011,Hydrologic/Flooding,High Reservoir Level,-1,-1,Yes,S,RECNPG,HR,Y,165 ft,16330.0,430,1974,42.4538,-74.4555,-1,-1,-1,-1
+NY,H,8/28/2011,Hydrologic/Flooding,High Reservoir Level,-1,-1,Yes,S,RE,HR,Y,170 ft,18500.0,355,1974,42.4451,-74.4384,-1,-1,-1,-1
+NE,H,5/19/2016,Unknown,Spillway Erosion/Head Cutting,-1,-1,No,-1,RE,-1,-1,33 ft,0.0,0,1960,42.4599,-96.7315,-1,5:00 PM,20 hours,No
+WA,S,4/13/2017,Hydrologic/Flooding,Insufficient Spillway Capacity,Overtopping,-1,No,P,RE,R,N,19 ft,36.0,4,1960,46.0947,-117.189,-1,-1,1 hour,Yes
+WI,L,4/12/2013,Hydrologic/Flooding,Spillway Pipe Failure,-1,-1,Yes,S,RE,R,N,10 ft,900.0,158,1972,42.625,-88.1139,2015,-1,-1,-1
+ND,S,5/1/2022,Hydrologic/Flooding,Spillway Erosion/Head Cutting,-1,-1,Yes,L,RE,C,Y,76 ft,1502.1,9,1957,48.7844,-97.9801,1984,-1,2 weeks,No
+ND,S,5/21/2013,Hydrologic/Flooding,High Reservoir Level,-1,-1,Yes,L,RE,CF,N,76 ft,1502.1,9,1957,48.7844,-97.9801,1984,-1,-1,-1
+VA,-1,8/6/2010,Structural Stability,Cracking,-1,-1,-1,-1,-1,-1,-1,-1,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+GA,U,8/6/2010,Unknown,Unknown,-1,-1,No,P,RE,R,NR,10 ft,104.0,14,-1,31.4389,-83.4083,-1,-1,-1,-1
+SC,L,10/8/2016,Hydrologic/Flooding,Unknown,-1,-1,No,P,RE,R,N,16 ft,70.0,7,1900,34.0367,-79.5383,-1,-1,1 Day,No
+WA,-1,12/1/1918,Seepage/Internal Erosion,Excessive/Increased Seepage,-1,-1,No,-1,MS,-1,-1,-1,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+SC,L,10/4/2015,Hydrologic/Flooding,Overtopping,-1,-1,-1,P,RE,IPR,N,13 ft,68.0,75,1963,33.9183,-80.7567,-1,-1,-1,-1
+TX,S,9/27/1996,Hydrologic/Flooding,Overtopping,-1,-1,-1,P,RE,IR,NR,15 ft,195.0,0,1976,30.7212,-94.4486,-1,-1,-1,-1
+SC,L,10/4/2015,Hydrologic/Flooding,Overtopping,-1,-1,-1,P,RE,R,N,16 ft,55.0,160,1957,33.88,-80.4383,-1,-1,-1,-1
+NJ,S,8/22/2012,Seepage/Internal Erosion,Piping,-1,-1,Yes,L,PGRE,R,Y,13 ft,152.0,22,1840,40.3098,-74.5166,-1,-1,-1,-1
+MN,L,2/24/2015,Deterioration or Poor Condition,Spillway Pipe Failure,-1,-1,No,S,PGRE,O,NR,32 ft,450.0,30,1952,44.3358,-95.9214,1997,-1,2 years to complete failure,No
+NY,S,8/28/2011,Hydrologic/Flooding,High Reservoir Level,-1,-1,No,-1,-1,R,N,18 ft,48.0,5,-1,41.4489,-73.9633,-1,-1,-1,-1
+NE,L,6/12/2010,Hydrologic/Flooding,Overtopping,-1,-1,-1,-1,RE,-1,-1,26 ft,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+MI,-1,1/1/2008,Hydrologic/Flooding,Unknown,-1,-1,No,-1,-1,-1,-1,-1,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+MD,H,6/1/2020,Deterioration or Poor Condition,Cracking,Excessive/Increased Seepage,-1,Yes,L,CBER,HS,Y,82 ft,19560.0,800,1943,39.1934,-77.0055,-1,-1,-1,Yes
+MD,H,9/28/2017,Manmade Action,Accident Or Misoperation,-1,-1,Yes,L,CBER,HS,Y,82 ft,19560.0,800,1943,39.1934,-77.0055,-1,-1,-1,-1
+CO,L,7/4/2017,Deterioration or Poor Condition,Piping,Sinkhole,-1,No,P,RE,I,NR,15 ft,200.0,16,1921,37.75,-107.04,-1,-1,-1,No
+WI,-1,7/23/1912,Unknown,Spillway Deficiency,-1,-1,No,-1,-1,-1,-1,-1,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+MS,H,6/10/2012,Seepage/Internal Erosion,Piping,Spillway Riser Failure,-1,No,P,RE,R,Y,18 ft,56.1,6,2007,32.4861,-90.1675,2013,-1,-1,-1
+PA,S,7/17/2012,Hydrologic/Flooding,Overtopping,-1,-1,No,L,RE,S,Y,24 ft,505.0,18,1912,41.17,-79.0731,2000,12:00:00 AM,1 DAY,Yes
+MI,H,10/8/2012,Seepage/Internal Erosion,Foundation Deficiency,-1,-1,-1,-1,PGRE,-1,Y,46 ft,2800.0,191,1921,44.6434,-85.5095,-1,-1,-1,-1
+PA,S,6/26/2006,Hydrologic/Flooding,Overtopping,-1,-1,No,P,STMSRE,R,-1,15 ft,-1.0,0,-1,41.5454,-75.3754,-1,-1,3 DAYS,-1
+TX,H,8/26/2015,Structural Stability,Slope Stability,-1,-1,-1,LP,RE,O,Y,59 ft,20763.0,829,1975,30.7101,-96.4537,2012,-1,-1,-1
+VA,H,1/31/2013,Hydrologic/Flooding,Overtopping,-1,-1,Yes,U,PGCN,HR,Y,45 ft,708.0,68,1912,36.8078,-80.9386,1993,-1,-1,-1
+OH,H,7/1/2021,Seepage/Internal Erosion,Excessive/Increased Seepage,-1,-1,No,L,RE,S,Y,38 ft,8035.0,4,2020,40.6394,-80.6786,-1,-1,6 months,Yes
+TX,S,1/28/1991,Seepage/Internal Erosion,Piping,-1,-1,-1,S,RE,R,N,26 ft,250.0,0,1936,30.0421,-97.1584,1993,-1,-1,-1
+WV,-1,2/26/1972,Unknown,Unknown,-1,-1,No,-1,-1,-1,-1,-1,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+SD,S,6/23/2014,Deterioration or Poor Condition,Spillway Pipe Failure,-1,-1,-1,S,RE,R,Y,95 ft,2650.0,0,1961,44.635,-101.897,1991,-1,-1,-1
+SD,S,6/23/2014,Deterioration or Poor Condition,Spillway Pipe Failure,Piping,Sinkhole,-1,S,RE,R,Y,82 ft,2850.0,0,1961,44.6217,-102.003,1991,-1,-1,-1
+PA,H,12/28/2007,Malfunction of Equipment/Gate,Debris Clogging,-1,-1,No,L,RE,C,Y,44 ft,383.0,20,1934,40.3478,-79.6056,-1,-1,-1,-1
+ND,L,4/11/2011,Hydrologic/Flooding,Piping,-1,-1,No,L,RE,IR,NR,27 ft,566.9,38,1935,48.2852,-101.455,1957,-1,-1,-1
+NJ,S,8/14/2011,Hydrologic/Flooding,Overtopping,-1,-1,No,L,PGRE,R,Y,9 ft,40.0,9,-1,39.5318,-75.0443,-1,-1,-1,-1
+OH,S,2/28/2011,Hydrologic/Flooding,Overtopping,-1,-1,Yes,L,RE,R,Y,9 ft,447.9,18,1952,41.43,-81.18,-1,-1,-1,-1
+OH,S,6/28/2018,Seepage/Internal Erosion,Piping,Spillway Chute Failure,-1,No,L,RE,R,Y,9 ft,447.9,18,1952,41.4303,-81.1861,-1,-1,6 months,No
+NE,L,6/12/2010,Hydrologic/Flooding,Overtopping,-1,-1,No,-1,RE,I,NR,21 ft,1100.0,1,1933,41.7909,-99.131,-1,-1,-1,-1
+CO,H,9/14/2013,Hydrologic/Flooding,Spillway Erosion/Head Cutting,-1,-1,-1,L,RE,S,Y,214 ft,20400.0,222,1969,40.2171,-105.367,1990,-1,-1,-1
+VA,H,1/31/2013,Hydrologic/Flooding,Overtopping,-1,-1,Yes,U,PGCN,HR,Y,63 ft,2034.0,242,1912,36.7858,-80.9336,1993,-1,-1,-1
+TX,S,3/27/1984,Unknown,Spillway Deficiency,-1,-1,-1,L,RE,R,N,20 ft,584.0,0,1972,30.5039,-96.7656,-1,-1,-1,-1
+TX,S,4/25/1990,Unknown,Spillway Deficiency,-1,-1,-1,L,RE,R,N,20 ft,584.0,0,1972,30.5039,-96.7656,-1,-1,-1,-1
+TX,S,10/17/1994,Unknown,Spillway Deficiency,-1,-1,-1,L,RE,R,N,20 ft,584.0,0,1972,30.5039,-96.7656,-1,-1,-1,-1
+TX,S,12/1/1991,Unknown,Spillway Deficiency,-1,-1,-1,L,RE,R,N,20 ft,584.0,0,1972,30.5039,-96.7656,-1,-1,-1,-1
+TX,-1,12/28/2018,Seepage/Internal Erosion,Piping,-1,-1,-1,-1,RE,-1,-1,21 ft,43.0,0,-1,0.0,0.0,-1,-1,-1,-1
+TX,L,5/13/2004,Hydrologic/Flooding,Overtopping,-1,-1,-1,P,RE,R,NR,20 ft,298.2,25,1961,30.9199,-96.5468,2006,-1,-1,-1
+TX,H,4/29/2024,Hydrologic/Flooding,Sliding,-1,-1,Unknown,P,RE,R,Y,14 ft,13.1,0,-1,32.6819,-95.7145,-1,-1,-1,Yes
+TX,H,4/9/2024,Hydrologic/Flooding,Spillway Erosion/Head Cutting,-1,-1,Unknown,P,RE,R,N,22 ft,130.0,4,1957,30.8521,-95.2061,2007,-1,-1,Yes
+TX,S,5/1/2000,Hydrologic/Flooding,Overtopping,-1,-1,-1,P,CNRE,R,Y,12 ft,25.0,3,1978,30.0679,-99.3349,2005,-1,-1,-1
+IN,-1,6/1/2008,Hydrologic/Flooding,Overtopping,-1,-1,No,-1,-1,-1,-1,-1,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+NH,H,8/28/2011,Hydrologic/Flooding,Overtopping,-1,-1,Yes,F,CN,H,Y,39 ft,650.0,60,1890,43.8619,-71.6325,2004,12:00 AM,-1,-1
+VA,H,5/18/2018,Hydrologic/Flooding,Overtopping,-1,-1,No,L,RE,R,Y,13 ft,162.0,11,-1,37.6024,-77.6062,-1,-1,-1,-1
+VA,H,12/12/2018,Malfunction of Equipment/Gate,Accident Or Misoperation,Erosion,-1,No,L,RE,R,Y,13 ft,162.0,11,-1,37.6024,-77.6062,-1,-1,-1,-1
+TX,H,12/3/1982,Deterioration or Poor Condition,Animal Activity,-1,-1,-1,L,RE,R,Y,18 ft,220.0,17,1930,32.5584,-95.872,1984,-1,-1,-1
+TX,L,5/10/2019,Unknown,Unknown,-1,-1,-1,P,RE,S,NR,18 ft,137.0,12,1972,32.4586,-95.6248,-1,-1,-1,-1
+TX,L,5/17/2018,Unknown,Unknown,-1,-1,-1,P,RE,S,NR,18 ft,137.0,12,1972,32.4586,-95.6248,-1,-1,-1,-1
+SD,-1,1/1/1972,Hydrologic/Flooding,Overtopping,-1,-1,No,-1,RE,-1,-1,20 ft,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+GA,L,1/1/2019,Deterioration or Poor Condition,Spillway Pipe Failure,-1,-1,No,P,RE,R,NR,27 ft,380.0,34,1959,33.975,-84.13,-1,-1,-1,Yes
+WI,L,4/28/2023,Malfunction of Equipment/Gate,Gate/Valve Failure,-1,-1,No,P,CN,F,Y,10 ft,65.0,20,-1,43.489,-89.3564,-1,-1,-1,-1
+WI,-1,1/1/2008,Hydrologic/Flooding,Overtopping,-1,-1,No,-1,-1,-1,-1,-1,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+MI,L,4/14/2014,Malfunction of Equipment/Gate,Gate/Valve Failure,-1,-1,No,P,PG,-1,NR,19 ft,900.0,200,1928,43.4617,-83.4167,-1,-1,-1,-1
+OH,S,5/1/2014,Hydrologic/Flooding,Overtopping,Spillway Erosion/Head Cutting,-1,No,P,RE,R,N,25 ft,41.0,4,1940,41.19,-81.83,-1,-1,-1,-1
+NC,S,4/25/2011,Deterioration or Poor Condition,Spillway Riser Failure,-1,-1,Yes,P,RE,R,N,24 ft,230.0,0,-1,35.3578,-79.2959,-1,-1,-1,-1
+PA,L,6/26/2006,Hydrologic/Flooding,Overtopping,Erosion,-1,-1,P,REST,P,-1,12 ft,-1.0,0,-1,41.42,-75.4518,-1,-1,3 DAYS,-1
+CO,L,9/13/2013,Hydrologic/Flooding,Overtopping,-1,-1,-1,-1,-1,-1,-1,-1,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+CO,L,9/19/2013,Hydrologic/Flooding,Overtopping,-1,-1,-1,-1,-1,-1,-1,-1,-1.0,0,-1,0.0,0.0,-1,-1,-1,Yes
+TN,S,6/5/2014,Malfunction of Equipment/Gate,Gate/Valve Failure,-1,-1,No,S,RE,-1,NR,20 ft,1848.0,110,1949,36.1003,-88.4847,-1,-1,-1,-1
+TN,S,5/2/2010,Unknown,Other,-1,-1,No,P,RE,-1,NR,14 ft,161.0,20,1988,35.1836,-89.7689,-1,-1,-1,-1
+TX,L,1/1/1997,Hydrologic/Flooding,Overtopping,-1,-1,-1,P,RE,-1,NR,15 ft,334.0,56,1993,28.6057,-99.7697,-1,-1,-1,-1
+MD,S,4/16/2018,Seepage/Internal Erosion,Excessive/Increased Seepage,-1,-1,Yes,P,ER,R,Y,20 ft,58.0,5,1900,39.6167,-76.8883,1976,-1,6 months,No
+NJ,S,8/27/2011,Hydrologic/Flooding,Overtopping,-1,-1,No,P,PGRE,R,Y,6 ft,-1.0,14,-1,40.1107,-74.3889,-1,-1,-1,-1
+NJ,S,8/27/2011,Hydrologic/Flooding,Overtopping,-1,-1,No,-1,-1,R,-1,6 ft,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+TX,S,3/9/2016,Hydrologic/Flooding,Sliding,-1,-1,-1,LP,RE,C,Y,31 ft,760.0,15,1975,31.422,-97.1069,-1,-1,-1,-1
+WI,-1,6/22/2023,Seepage/Internal Erosion,Sinkhole,-1,-1,No,-1,-1,-1,-1,0 ft,0.0,0,0,0.0,0.0,-1,-1,-1,-1
+NJ,L,8/27/2011,Hydrologic/Flooding,Spillway Chute Failure,-1,-1,No,-1,-1,-1,-1,-1,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+TX,L,6/10/2010,Hydrologic/Flooding,Overtopping,-1,-1,No,L,RE,CRP,NR,33 ft,590.0,14,1965,32.4522,-96.0635,2010,-1,-1,-1
+TX,L,6/10/2010,Hydrologic/Flooding,Overtopping,-1,-1,No,L,RE,CRP,NR,29 ft,831.0,21,1968,32.426,-96.0689,-1,-1,-1,-1
+TX,H,5/30/2015,Hydrologic/Flooding,Sliding,-1,-1,-1,L,RE,CRP,Y,43 ft,20147.0,840,1969,32.7275,-96.1722,1969,-1,-1,-1
+TX,H,5/3/2024,Hydrologic/Flooding,Excessive/Increased Seepage,-1,-1,Yes,L,RE,C,Y,25 ft,205.0,13,1971,32.847,-96.3935,-1,-1,-1,Yes
+CO,L,9/19/2013,Hydrologic/Flooding,Overtopping,-1,-1,-1,P,RE,FRP,NR,37 ft,50.0,3,1969,40.4614,-105.32,-1,-1,-1,-1
+NJ,S,8/14/2011,Hydrologic/Flooding,Overtopping,-1,-1,Yes,P,PGRE,R,Y,12 ft,576.0,37,1942,39.525,-75.1699,-1,-1,-1,-1
+VA,L,9/1/2020,Structural Stability,Spillway Erosion/Head Cutting,-1,-1,-1,P,RE,R,Y,32 ft,125.0,12,-1,37.7407,-77.1443,-1,-1,-1,Yes
+TX,H,6/18/2007,Unknown,Spillway Deficiency,-1,-1,-1,L,RE,I,N,15 ft,2312.0,107,1912,29.2366,-98.8739,-1,-1,-1,-1
+MD,S,5/1/2014,Deterioration or Poor Condition,Spillway Pipe Failure,Sinkhole,-1,No,P,RE,C,Y,20 ft,0.0,0,1981,39.1896,-77.2293,2015,-1,-1,-1
+WA,S,8/21/2014,Hydrologic/Flooding,Other,-1,-1,-1,P,RE,IR,N,17 ft,80.0,9,1940,48.332,-119.998,1992,-1,-1,Yes
+VA,S,1/17/2022,Deterioration or Poor Condition,Erosion,Overtopping,-1,-1,S,RE,R,N,15 ft,475.0,0,-1,38.0974,-76.8484,-1,-1,-1,-1
+VA,S,1/17/2022,Manmade Action,Other,-1,-1,Yes,S,RE,R,N,15 ft,475.0,0,-1,38.0974,-76.8484,-1,15:30,-1,Unknown
+VA,S,11/12/2020,Hydrologic/Flooding,Overtopping,-1,-1,-1,S,RE,R,N,15 ft,475.0,0,-1,38.0974,-76.8484,-1,-1,-1,Yes
+VA,H,2/7/2018,Deterioration or Poor Condition,Spillway Riser Failure,-1,-1,No,-1,-1,-1,N,-1,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+TX,L,5/5/1989,Hydrologic/Flooding,Overtopping,-1,-1,-1,P,RE,-1,NR,25 ft,-1.0,0,1800,32.7257,-97.8913,-1,-1,-1,-1
+NV,L,4/16/2019,Manmade Action,Overtopping,Insufficient Spillway Capacity,Other,No,P,RE,IP,NR,16 ft,500.0,50,1920,41.5823,-115.497,1963,-1,-1,Yes
+MD,-1,1/1/2008,Unknown,Unknown,-1,-1,No,-1,-1,-1,-1,-1,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+CO,H,9/12/2013,Seepage/Internal Erosion,Excessive/Increased Seepage,-1,-1,-1,L,ER,S,Y,100 ft,1250.0,25,1996,39.8165,-105.53,-1,-1,-1,-1
+SC,S,9/16/2018,Hydrologic/Flooding,Overtopping,Erosion,Spillway Erosion/Head Cutting,No,P,RE,R,Y,17 ft,53.0,7,1978,34.6732,-79.9104,-1,-1,-1,-1
+CO,H,6/17/2015,Hydrologic/Flooding,High Reservoir Level,-1,-1,Yes,U,MSVA,S,Y,221 ft,87227.0,874,1905,39.2083,-105.274,-1,-1,-1,-1
+LA,L,8/26/2022,Seepage/Internal Erosion,Piping,Foundation Deficiency,Other,No,L,RE,R,NR,25 ft,53000.0,3600,1943,32.4528,-92.1917,-1,12:00,2 days,Investigation
+GA,H,4/19/2019,Hydrologic/Flooding,Sinkhole,Insufficient Spillway Capacity,Spillway Pipe Failure,Yes,P,RE,R,Y,33 ft,34.4,2,1966,33.9951,-84.3639,-1,-1,-1,Yes
+ME,H,9/2/2022,Other,Accident Or Misoperation,-1,-1,No,P,RE,HS,NR,30 ft,13900.0,480,1967,46.69,-67.8917,-1,-1,-1,Unknown
+TX,L,12/27/2015,Hydrologic/Flooding,Spillway Deficiency,-1,-1,-1,L,RE,R,NR,31 ft,673.0,64,1924,32.6839,-95.7361,-1,-1,-1,-1
+TN,-1,11/4/1912,Seepage/Internal Erosion,Piping,-1,-1,No,-1,-1,-1,-1,-1,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+NY,L,8/28/2011,Hydrologic/Flooding,High Reservoir Level,-1,-1,Yes,P,CNCB,HC,NR,23 ft,875.0,89,1904,43.1185,-73.555,1990,-1,-1,-1
+VT,L,7/10/2023,Hydrologic/Flooding,Unknown,-1,-1,No,P,MSPG,O,NR,14 ft,21.0,3,0,44.3911,-72.331,-1,-1,-1,No
+MD,L,3/2/2020,Seepage/Internal Erosion,Spillway Pipe Failure,Piping,Sinkhole,No,-1,RE,R,NR,11 ft,28.0,3,1960,38.2835,-76.5378,-1,-1,3 months,No
+ND,H,4/8/2011,Hydrologic/Flooding,High Reservoir Level,-1,-1,No,L,RE,FR,Y,52 ft,1274.6,42,1967,46.6832,-98.0369,1968,-1,-1,-1
+GA,H,12/1/2015,Hydrologic/Flooding,Other,-1,-1,-1,L,RE,R,N,19 ft,106.0,13,1967,33.5253,-84.3128,2006,-1,-1,-1
+TX,L,5/30/2015,Hydrologic/Flooding,Spillway Deficiency,-1,-1,-1,L,RE,CPD,NR,51 ft,2750.0,20,1961,33.5346,-97.3762,-1,-1,-1,-1
+TX,L,5/30/2015,Hydrologic/Flooding,Spillway Deficiency,-1,-1,-1,L,RE,C,NR,37 ft,3124.0,46,1965,33.4571,-97.3167,-1,-1,-1,-1
+TX,L,5/30/2015,Hydrologic/Flooding,Spillway Deficiency,-1,-1,-1,LP,RE,C,NR,50 ft,2824.0,34,1961,33.3941,-97.2742,-1,-1,-1,-1
+PA,S,05/04/1892,Unknown,Overtopping,-1,-1,No,L,CNPG,R,Y,11 ft,782.0,118,1855,41.8247,-79.6856,2008,11:30:00 PM,3 DAYS,Yes
+PA,S,5/23/1928,Hydrologic/Flooding,Overtopping,-1,-1,No,L,CNPG,R,Y,11 ft,782.0,118,1855,41.8247,-79.6856,2008,-1,1 DAY,-1
+TX,H,1/15/2012,Hydrologic/Flooding,Overtopping,-1,-1,-1,P,RE,R,N,19 ft,350.0,25,1950,30.1127,-97.4648,-1,-1,-1,-1
+NJ,L,6/1/2019,Hydrologic/Flooding,Overtopping,Insufficient Spillway Capacity,-1,No,L,RE,-1,NR,-1,-1.0,0,0,39.8364,-74.957,-1,-1,1 day,Unknown
+TX,L,8/29/2017,Hydrologic/Flooding,Spillway Erosion/Head Cutting,-1,-1,-1,P,RE,P,NR,25 ft,520.0,37,1962,30.4391,-96.2221,-1,-1,-1,-1
+OH,H,6/9/2016,Deterioration or Poor Condition,Spillway Pipe Failure,-1,-1,No,P,RE,O,Y,47 ft,191.9,8,2003,39.8861,-81.3214,-1,-1,-1,Yes
+VA,S,6/3/2018,Hydrologic/Flooding,Overtopping,Erosion,-1,No,P,RE,R,Y,24 ft,98.0,7,-1,38.0622,-78.5829,-1,-1,-1,-1
+TX,L,6/10/2010,Hydrologic/Flooding,Overtopping,-1,-1,No,P,RE,R,NR,28 ft,324.0,172,1966,32.2792,-95.4188,-1,-1,-1,-1
+TX,S,1/1/2011,Seepage/Internal Erosion,Sinkhole,-1,-1,-1,P,RE,IR,Y,29 ft,269.0,23,1962,32.5386,-95.7741,2002,-1,-1,-1
+KY,-1,12/1/1981,Unknown,Unknown,-1,-1,No,-1,-1,-1,-1,-1,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+ME,S,4/13/2022,Seepage/Internal Erosion,Sinkhole,-1,-1,No,L,CN,HRS,Y,9 ft,1590.0,403,1900,44.2397,-70.0377,1962,-1,-1,Yes
+TX,H,1/1/1971,Structural Stability,Cracking,-1,-1,-1,L,RE,ISRO,Y,90 ft,91680.0,1886,1966,32.0314,-99.4651,-1,-1,-1,-1
+VA,H,8/3/2018,Hydrologic/Flooding,Overtopping,-1,-1,Yes,L,RE,CR,Y,35 ft,710.5,15,-1,37.4016,-79.184,-1,-1,-1,-1
+SC,S,10/4/2015,Malfunction of Equipment/Gate,Debris Clogging,Insufficient Spillway Capacity,Overtopping,Yes,L,REST,HS,Y,8 ft,800.0,265,1882,34.0333,-81.0665,-1,8:00 PM,-1,Yes
+TX,H,6/3/2024,Hydrologic/Flooding,Spillway Pipe Failure,-1,-1,Unknown,P,RE,IR,Y,24 ft,345.0,26,1905,32.9666,-96.8716,2017,-1,-1,Yes
+CA,H,4/20/2011,Seepage/Internal Erosion,Spillway Pipe Failure,Piping,-1,No,U,RE,IS,NR,24 ft,62.0,3,1963,37.3542,-121.793,-1,12:00 AM,-1,-1
+TX,H,4/4/2004,Hydrologic/Flooding,Overtopping,-1,-1,-1,L,RE,I,N,22 ft,1113.0,100,1955,30.8747,-102.878,-1,-1,-1,-1
+TX,H,8/30/1986,Hydrologic/Flooding,Overtopping,-1,-1,-1,L,RE,R,Y,19 ft,520.0,22,1914,32.2249,-101.471,1988,-1,-1,-1
+MS,U,4/20/2020,Hydrologic/Flooding,Spillway Deficiency,-1,-1,N,P,RE,R,NR,25 ft,350.0,0,-1,32.1482,-90.1664,-1,-1,-1,N
+MD,H,1/19/1996,Hydrologic/Flooding,High Reservoir Level,Debris Clogging,-1,Yes,U,CNPG,HRS,Y,94 ft,310000.0,8563,1928,39.661,-76.1735,1978,-1,-1,Yes
+PA,L,4/14/2008,Seepage/Internal Erosion,Sinkhole,-1,-1,No,P,RE,R,-1,18 ft,-1.0,0,1917,40.4725,-80.0621,-1,-1,-1,-1
+SC,S,10/4/2015,Hydrologic/Flooding,Overtopping,-1,-1,-1,P,RE,R,Y,13 ft,53.0,7,1963,34.1517,-80.775,-1,-1,-1,-1
+WI,L,8/29/2018,Hydrologic/Flooding,Abutment Failure,Erosion,-1,Yes,L,RE,CD,N,46 ft,271.0,2,1963,43.7314,-90.8419,-1,-1,1 day,Yes
+WI,L,8/29/2018,Hydrologic/Flooding,Abutment Failure,Erosion,-1,Yes,L,RE,CD,N,39 ft,95.5,0,1961,43.743,-90.8418,-1,-1,1 day,Yes
+WI,L,8/29/2018,Hydrologic/Flooding,Abutment Failure,Erosion,-1,Yes,L,RE,CD,Y,34 ft,207.0,5,1961,43.7674,-90.8976,-1,-1,1 day,Yes
+OH,L,10/1/2015,Malfunction of Equipment/Gate,Gate/Valve Failure,-1,-1,No,P,RE,O,N,24 ft,84.0,9,1971,40.7333,-81.1444,-1,-1,-1,Yes
+OH,S,7/1/2015,Deterioration or Poor Condition,Overtopping,-1,-1,No,P,RE,O,N,42 ft,48.0,2,1963,40.3158,-80.7733,-1,-1,1 week,No
+SC,L,10/8/2016,Hydrologic/Flooding,Unknown,-1,-1,No,P,RE,R,N,12 ft,81.0,11,1959,34.1683,-80.1583,-1,-1,1 Day,No
+VA,H,5/14/2014,Seepage/Internal Erosion,Piping,-1,-1,-1,-1,-1,-1,-1,1989 ft,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+MI,S,6/26/2012,Deterioration or Poor Condition,Other,-1,-1,Yes,L,TC,R,Y,15 ft,80.0,17,1843,42.9857,-84.1179,-1,12:00 AM,-1,-1
+TX,L,5/12/2019,Unknown,Unknown,-1,-1,-1,P,RE,S,NR,16 ft,96.0,10,1970,32.5709,-95.9518,-1,-1,-1,-1
+TX,L,5/17/2018,Unknown,Unknown,-1,-1,-1,P,RE,S,NR,16 ft,96.0,10,1970,32.5709,-95.9518,-1,-1,-1,-1
+ND,S,4/4/2019,Hydrologic/Flooding,High Reservoir Level,-1,-1,No,L,RE,R,N,76 ft,16839.0,494,1973,46.299,-98.2671,1979,-1,1 week,No
+MD,H,8/12/2017,Hydrologic/Flooding,Insufficient Spillway Capacity,-1,-1,Yes,L,RE,RI,Y,12 ft,70.0,13,1947,38.3308,-75.5982,2006,-1,-1,-1
+VA,U,11/24/2022,Hydrologic/Flooding,Unknown,-1,-1,No,P,RE,O,N,29 ft,69.7,4,0,37.4485,-78.6955,-1,-1,-1,Unknown
+VA,U,1/21/2022,Hydrologic/Flooding,Unknown,-1,-1,No,P,RE,R,N,8 ft,170.4,23,0,37.9988,-76.5733,-1,-1,-1,Unknown
+SC,L,9/16/2018,Hydrologic/Flooding,Overtopping,Erosion,-1,No,P,RE,IR,NR,11 ft,400.0,32,1900,34.6077,-79.6314,-1,-1,-1,-1
+SC,L,10/8/2016,Hydrologic/Flooding,Unknown,-1,-1,No,P,RE,I,N,20 ft,400.0,32,1900,34.6083,-79.63,1999,-1,1 Day,No
+SC,S,10/4/2015,Hydrologic/Flooding,Overtopping,-1,-1,-1,P,RE,R,N,16 ft,76.0,10,1950,34.135,-80.975,-1,-1,-1,-1
+NH,S,8/28/2011,Hydrologic/Flooding,High Reservoir Level,-1,-1,Yes,P,CNPG,H,Y,33 ft,150.0,17,1922,43.3905,-72.3766,-1,12:00 AM,-1,-1
+DE,-1,9/8/2011,Hydrologic/Flooding,Overtopping,-1,-1,No,-1,-1,-1,-1,-1,-1.0,0,-1,0.0,0.0,-1,12:00 AM,-1,-1
+MD,S,9/14/2016,Deterioration or Poor Condition,Spillway Pipe Failure,Sinkhole,-1,Yes,L,RE,S,Y,32 ft,437.0,24,1957,39.6,-76.9633,1957,-1,-1,-1
+WI,L,4/25/2018,Hydrologic/Flooding,Overtopping,-1,-1,No,L,RE,R,Y,15 ft,300.0,55,1973,45.5961,-90.4247,-1,-1,-1,No
+WI,H,6/17/2018,Hydrologic/Flooding,Overtopping,-1,-1,Yes,L,RE,R,Y,12 ft,2500.0,346,1969,46.4524,-91.9517,-1,-1,-1,Unknown
+SC,L,9/16/2018,Hydrologic/Flooding,Overtopping,Erosion,-1,No,P,RE,R,NR,16 ft,71.0,8,1960,34.6639,-80.2922,-1,-1,-1,-1
+FL,L,4/29/2014,Hydrologic/Flooding,Overtopping,-1,-1,-1,P,RE,RS,N,16 ft,396.0,0,1960,30.46,-87.27,-1,-1,-1,-1
+OH,H,11/7/2018,Seepage/Internal Erosion,Piping,Spillway Pipe Failure,-1,-1,L,RE,R,N,34 ft,96.0,7,1934,39.7611,-82.0472,-1,-1,-1,No
+MA,S,5/29/2015,Unknown,Unknown,-1,-1,-1,P,-1,R,NR,9 ft,30.0,0,1900,42.4503,-71.3239,-1,-1,-1,-1
+CO,H,9/19/2013,Hydrologic/Flooding,Other,-1,-1,-1,U,RE,S,Y,74 ft,52.0,4,2008,40.2767,-105.358,-1,-1,-1,-1
+TX,L,8/29/2017,Hydrologic/Flooding,Unknown,-1,-1,-1,L,RE,C,NR,38 ft,950.0,16,1960,30.014,-96.6866,-1,-1,-1,-1
+TX,L,4/18/2016,Hydrologic/Flooding,Spillway Deficiency,-1,-1,-1,L,RE,C,NR,42 ft,3202.0,33,1969,29.9169,-96.6341,-1,-1,-1,-1
+TX,L,8/29/2017,Hydrologic/Flooding,Unknown,-1,-1,-1,L,RE,C,NR,42 ft,3202.0,33,1969,29.9169,-96.6341,-1,-1,-1,-1
+TX,L,8/29/2017,Hydrologic/Flooding,Spillway Deficiency,-1,-1,-1,L,RE,C,Y,25 ft,3676.0,54,1959,30.0989,-96.7636,-1,-1,-1,-1
+TX,L,8/29/2017,Hydrologic/Flooding,Spillway Deficiency,-1,-1,-1,L,RE,C,NR,26 ft,1636.0,23,1958,30.1166,-96.7433,-1,-1,-1,-1
+NH,L,8/28/2011,Hydrologic/Flooding,Overtopping,-1,-1,Yes,P,ER,R,NR,13 ft,1090.0,136,1880,43.7777,-72.0155,2008,12:00 AM,-1,-1
+CO,L,9/14/2013,Hydrologic/Flooding,Spillway Erosion/Head Cutting,-1,-1,-1,-1,-1,-1,-1,-1,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+WI,-1,1/1/2008,Hydrologic/Flooding,Overtopping,-1,-1,No,-1,RE,-1,-1,-1,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+NJ,L,8/14/2011,Hydrologic/Flooding,Overtopping,-1,-1,-1,P,PGRE,R,NR,17 ft,-1.0,62,-1,39.5956,-74.8668,-1,-1,-1,-1
+SC,L,10/4/2015,Hydrologic/Flooding,Overtopping,-1,-1,-1,P,RE,R,N,18 ft,90.0,10,1960,33.8167,-80.1967,-1,-1,-1,-1
+NE,L,1/1/2019,Deterioration or Poor Condition,Spillway Pipe Failure,-1,-1,No,P,RE,C,NR,20 ft,73.2,7,1980,40.1219,-97.5903,-1,-1,-1,No
+TX,-1,5/1/2019,Unknown,Spillway Deficiency,-1,-1,-1,-1,RE,-1,-1,19 ft,57.0,0,-1,0.0,0.0,-1,-1,-1,-1
+NE,L,5/7/2015,Hydrologic/Flooding,Overtopping,-1,-1,No,-1,RE,P,NR,25 ft,411.0,21,-1,40.177,-97.5594,-1,-1,-1,No
+NC,H,2/2/2014,Deterioration or Poor Condition,Spillway Pipe Failure,-1,-1,-1,U,RE,O,Y,40 ft,-1.0,0,-1,36.4883,-79.7148,-1,-1,-1,-1
+OH,L,1/1/2019,Seepage/Internal Erosion,Excessive/Increased Seepage,Piping,Spillway Pipe Failure,Yes,S,RE,R,Y,26 ft,54.5,4,1966,40.1206,-84.5214,-1,-1,-1,No
+OH,S,11/14/2017,Deterioration or Poor Condition,Spillway Pipe Failure,Sinkhole,-1,-1,P,RE,R,Y,38 ft,78.1,4,1987,39.9056,-81.4292,-1,-1,-1,Yes
+ND,S,4/10/2018,Seepage/Internal Erosion,Erosion,Piping,Excessive/Increased Seepage,Yes,S,RE,R,Y,79 ft,1346.0,43,1971,47.2361,-101.223,1987,-1,-1,No
+SC,S,9/16/2018,Hydrologic/Flooding,Insufficient Spillway Capacity,Overtopping,Erosion,No,P,RE,O,Y,9 ft,394.0,45,1870,34.6443,-79.7482,-1,-1,-1,-1
+NY,L,8/28/2011,Hydrologic/Flooding,High Reservoir Level,-1,-1,No,P,RE,R,Y,10 ft,160.0,26,1956,41.6183,-74.6031,-1,-1,-1,-1
+VA,U,9/15/2018,Unknown,Unknown,-1,-1,No,P,-1,-1,NR,20 ft,106.4,13,-1,37.4475,-77.8359,-1,-1,-1,-1
+ND,L,4/23/2019,Seepage/Internal Erosion,Spillway Pipe Failure,Piping,Sinkhole,No,S,RE,R,NR,31 ft,307.4,15,1963,46.546,-103.658,1985,-1,-1,No
+MD,-1,9/1/2003,Hydrologic/Flooding,Unknown,-1,-1,No,-1,RE,-1,-1,4 ft,1000.0,0,-1,38.1717,-75.8933,-1,-1,-1,-1
+MD,-1,1/1/2008,Unknown,Unknown,-1,-1,Yes,-1,-1,-1,-1,-1,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+NH,H,8/28/2011,Hydrologic/Flooding,Sinkhole,-1,-1,Yes,L,ER,R,Y,20 ft,80.0,3,1935,44.3122,-71.7977,-1,-1,-1,-1
+CO,L,7/1/2013,Seepage/Internal Erosion,Piping,-1,-1,-1,L,RE,S,NR,32 ft,54.0,4,1961,38.81,-108.071,-1,-1,-1,-1
+MS,L,12/29/2015,Hydrologic/Flooding,Overtopping,-1,-1,-1,P,RE,R,NR,16 ft,120.0,0,-1,34.8283,-90.195,-1,-1,-1,-1
+TX,L,5/30/2015,Hydrologic/Flooding,Overtopping,-1,-1,-1,L,RE,CPD,NR,21 ft,84.0,7,1978,33.5892,-97.7107,-1,-1,-1,-1
+TX,L,5/30/2015,Hydrologic/Flooding,Spillway Deficiency,-1,-1,-1,L,RE,C,NR,38 ft,89.0,0,1973,33.5185,-97.5959,-1,-1,-1,-1
+TX,L,5/30/2015,Hydrologic/Flooding,Spillway Erosion/Head Cutting,-1,-1,-1,L,RE,C,NR,54 ft,2100.0,22,1968,33.4131,-97.5039,-1,-1,-1,-1
+TX,L,5/30/2015,Hydrologic/Flooding,Spillway Pipe Failure,-1,-1,-1,L,RE,CPF,NR,29 ft,600.0,15,1966,33.6093,-97.7465,-1,-1,-1,-1
+TX,H,5/30/2015,Hydrologic/Flooding,Spillway Deficiency,-1,-1,-1,L,RE,C,N,53 ft,2274.0,27,1963,33.2728,-97.5585,-1,-1,-1,-1
+TX,H,5/30/2015,Hydrologic/Flooding,Spillway Deficiency,-1,-1,-1,L,RE,C,N,55 ft,1969.0,24,1963,33.2668,-97.5607,-1,-1,-1,-1
+TX,L,5/30/2015,Hydrologic/Flooding,Spillway Deficiency,-1,-1,-1,L,RE,CI,NR,40 ft,2360.0,39,1963,33.1854,-97.4177,-1,-1,-1,-1
+TX,L,5/30/2015,Hydrologic/Flooding,Spillway Deficiency,-1,-1,-1,L,RE,CPD,NR,35 ft,4469.0,71,1972,33.5639,-97.6928,-1,-1,-1,-1
+WI,S,3/5/2023,Seepage/Internal Erosion,Sinkhole,-1,-1,-1,F,PGCN,CHNFR,Y,17 ft,10790.0,536,1929,44.4483,-88.0633,-1,-1,-1,-1
+WI,S,4/4/2023,Seepage/Internal Erosion,Sinkhole,-1,-1,-1,F,PGCN,CHNFR,Y,17 ft,10790.0,536,1929,44.4483,-88.0633,-1,-1,-1,-1
+SC,H,6/1/2017,Hydrologic/Flooding,Spillway Erosion/Head Cutting,-1,-1,No,P,RE,R,N,12 ft,109.0,13,1965,33.8146,-80.9929,-1,-1,-1,-1
+PA,L,7/22/2013,Hydrologic/Flooding,Spillway Pipe Failure,-1,-1,-1,L,RECN,C,-1,-1,-1.0,0,-1,39.5802,-76.4822,-1,-1,1 DAY,-1
+WA,L,10/4/2014,Malfunction of Equipment/Gate,Gate/Valve Failure,-1,-1,-1,S,RE,R,NR,45 ft,4300.0,270,1951,47.0435,-122.909,-1,-1,-1,-1
+NC,H,10/8/2016,Hydrologic/Flooding,Overtopping,-1,-1,No,P,RE,R,Y,25 ft,175.0,0,-1,35.075,-78.995,2002,-1,1 day,-1
+NJ,S,8/27/2011,Hydrologic/Flooding,Overtopping,-1,-1,No,L,PGRE,R,N,9 ft,24.0,4,1937,40.7311,-74.3071,-1,-1,-1,-1
+MO,-1,7/20/2015,Seepage/Internal Erosion,Piping,-1,-1,-1,-1,-1,-1,-1,-1,0.0,0,0,38.8492,90.9522,-1,-1,-1,-1
+CO,H,8/17/2021,Malfunction of Equipment/Gate,Gate/Valve Failure,-1,-1,No,L,RE,HRS,Y,310 ft,305000.0,3300,1963,39.6217,-106.062,-1,11:00 AM,2 hours,No
+TX,S,12/23/1939,Hydrologic/Flooding,Overtopping,-1,-1,-1,P,RE,R,N,17 ft,1420.0,122,1943,32.1281,-94.3657,-1,-1,-1,-1
+NE,L,3/1/2019,Hydrologic/Flooding,Overtopping,-1,-1,No,P,RE,P,NR,43 ft,86.0,6,1981,42.62,-98.094,-1,-1,-1,No
+SC,L,10/4/2015,Hydrologic/Flooding,Overtopping,-1,-1,-1,P,RE,R,N,14 ft,67.0,16,1850,33.8017,-80.33,-1,-1,-1,-1
+TX,L,11/1/2006,Unknown,Spillway Deficiency,-1,-1,-1,P,RE,R,NR,32 ft,209.0,13,1965,30.725,-94.8771,2007,-1,-1,-1
+TX,S,8/29/2017,Hydrologic/Flooding,Overtopping,-1,-1,-1,P,RE,R,NR,15 ft,164.0,11,1942,30.6965,-94.7329,-1,-1,-1,-1
+CA,H,2/4/2021,Seepage/Internal Erosion,Excessive/Increased Seepage,Slope Stability,-1,No,P,RE,O,N,21 ft,90.0,0,2019,41.4555,-120.901,-1,-1,-1,Yes
+VA,L,10/30/2020,Structural Stability,Spillway Pipe Failure,Erosion,-1,-1,S,RE,R,Y,30 ft,32.7,4,-1,37.6354,-78.7944,-1,-1,-1,Yes
+OH,H,1/13/2012,Structural Stability,Slope Stability,-1,-1,Yes,S,RE,R,Y,66 ft,7018.3,161,1959,39.33,-82.01,-1,12:00 AM,-1,-1
+NE,L,9/1/2019,Deterioration or Poor Condition,Spillway Pipe Failure,-1,-1,No,L,RE,C,NR,26 ft,32.1,3,1980,40.0526,-97.2591,-1,-1,-1,No
+SC,L,10/4/2015,Hydrologic/Flooding,Overtopping,-1,-1,-1,P,RE,R,N,14 ft,720.0,32,1967,33.825,-80.7283,-1,-1,-1,-1
+MD,H,4/17/2012,Unknown,Under Investigation,-1,-1,Yes,L,RE,S,Y,118 ft,1880.0,48,1871,39.3186,-76.6315,1999,-1,-1,-1
+ID,L,4/24/2021,Unknown,Unknown,-1,-1,No,P,RE,I,NR,35 ft,77.0,6,1976,44.0864,-116.553,2014,-1,-1,Yes
+NY,L,8/28/2011,Hydrologic/Flooding,Overtopping,-1,-1,-1,S,TC,R,N,14 ft,380.0,58,-1,44.14,-74.1083,-1,-1,-1,-1
+SC,L,10/4/2015,Hydrologic/Flooding,Overtopping,-1,-1,-1,P,RE,R,N,14 ft,720.0,120,1967,33.8417,-80.8517,-1,-1,-1,-1
+WY,L,3/21/2019,Deterioration or Poor Condition,Erosion,-1,-1,No,P,RE,I,NR,29 ft,616.0,48,1937,43.4133,-104.507,-1,-1,5 months,No
+NJ,L,4/17/2011,Hydrologic/Flooding,Other,-1,-1,Yes,P,MSPGCN,HS,Y,16 ft,3584.0,224,1854,40.8833,-74.1271,-1,-1,-1,-1
+KY,L,5/2/2010,Unknown,Under Investigation,-1,-1,-1,L,RE,R,NR,25 ft,-1.0,17,1955,36.9908,-85.6144,-1,-1,-1,-1
+MS,L,1/11/2020,Deterioration or Poor Condition,Vegetation,-1,-1,N,P,RE,R,No,-1,-1.0,0,-1,34.9097,-89.8342,-1,-1,-1,N
+CO,H,12/2/2014,Seepage/Internal Erosion,Piping,-1,-1,-1,L,RE,S,Y,45 ft,341.0,19,1954,37.2907,-107.847,-1,-1,-1,-1
+NC,L,10/8/2016,Hydrologic/Flooding,Overtopping,-1,-1,No,P,RE,R,NR,13 ft,112.0,0,-1,35.281,-78.057,-1,-1,1 day,-1
+PA,H,9/17/2004,Hydrologic/Flooding,Spillway Chute Failure,-1,-1,No,S,RE,RS,Y,42 ft,1850.0,91,1959,40.1458,-80.4675,2012,-1,8 YEARS,Yes
+IN,H,7/14/2015,Hydrologic/Flooding,High Reservoir Level,-1,-1,Yes,L,CN,C,Y,92 ft,110000.0,1350,1967,39.825,-86.3075,-1,-1,-1,-1
+TX,H,12/1/1967,Structural Stability,Slope Stability,-1,-1,-1,S,RE,IS,Y,85 ft,680335.0,6160,1932,32.8739,-97.461,-1,-1,-1,-1
+NM,H,12/23/2016,Seismic,Unknown,-1,-1,No,S,VA,I,Y,149 ft,98000.0,2768,1918,36.5318,-105.23,-1,19:31,1 day,Yes
+IN,-1,6/1/2008,Unknown,Spillway Deficiency,-1,-1,No,-1,-1,-1,-1,-1,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+TX,H,5/30/2015,Hydrologic/Flooding,Spillway Deficiency,-1,-1,-1,L,RE,CRP,Y,43 ft,778.0,14,1952,33.3184,-96.6792,-1,-1,-1,-1
+TX,S,9/27/1996,Hydrologic/Flooding,Overtopping,-1,-1,-1,P,RE,ISR,Y,22 ft,327.0,19,1949,30.6995,-94.4207,1997,-1,-1,-1
+OH,L,4/1/2015,Seepage/Internal Erosion,Piping,-1,-1,No,P,RE,O,N,29 ft,114.0,10,1930,40.3664,-83.6033,-1,-1,2 weeks,Yes
+SD,L,9/11/2019,Hydrologic/Flooding,Spillway Erosion/Head Cutting,-1,-1,No,S,RE,CR,NR,41 ft,17400.0,294,1958,43.59,-97.1717,1994,-1,-1,-1
+MS,H,8/24/2022,Hydrologic/Flooding,Debris Clogging,Overtopping,-1,N,P,RE,R,N,16 ft,57.0,6,-1,32.2844,-89.9745,-1,-1,-1,N
+WI,L,10/7/2021,Malfunction of Equipment/Gate,Debris Clogging,Gate/Valve Failure,-1,No,L,PGRE,R,Y,20 ft,305.0,24,1855,43.839,-89.8064,1909,-1,1 day,Yes
+WA,-1,2/7/1932,Hydrologic/Flooding,Overtopping,-1,-1,No,-1,-1,-1,-1,-1,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+CO,S,10/20/2020,Structural Stability,Cracking,-1,-1,No,S,RE,FR,Y,82 ft,3063.0,118,1969,37.2074,-107.0,-1,9:00 AM,1 month,Yes
+NV,H,3/7/2019,Hydrologic/Flooding,Spillway Erosion/Head Cutting,-1,-1,No,S,RE,FR,Y,58 ft,1750.0,64,1970,37.9072,-114.272,-1,-1,2 days,-1
+OH,S,6/8/2018,Hydrologic/Flooding,Overtopping,-1,-1,No,P,RE,R,N,22 ft,28.6,2,0,40.4894,-81.3272,-1,7-8 PM,less than 1 day,No
+NY,L,8/28/2011,Hydrologic/Flooding,Unknown,-1,-1,No,P,MS,R,NR,12 ft,144.0,16,1880,41.2717,-74.1406,-1,-1,-1,-1
+MI,H,5/19/2020,Hydrologic/Flooding,Slope Stability,High Reservoir Level,-1,Yes,P,PGRE,CH,Y,54 ft,66200.0,2600,1925,43.8142,-84.3769,-1,-1,-1,Yes
+VA,L,10/23/2018,Unknown,Spillway Erosion/Head Cutting,-1,-1,-1,S,RE,R,N,28 ft,358.0,26,-1,36.7148,-78.6901,-1,-1,-1,-1
+SC,H,9/12/2017,Hydrologic/Flooding,Insufficient Spillway Capacity,Accident or Misoperation,Other,No,P,RE,R,N,17 ft,316.0,40,1962,33.6301,-81.2444,-1,-1,-1,-1
+WA,H,1/1/2019,Deterioration or Poor Condition,Spillway Pipe Failure,Insufficient Spillway Capacity,Reservoir Overfilling,Yes,U,ERRE,IR,Y,22 ft,1610.0,65,1933,47.5205,-120.858,-1,-1,10 Months,No
+PA,L,6/26/2006,Hydrologic/Flooding,Overtopping,-1,-1,-1,P,RE,R,-1,11 ft,-1.0,0,-1,41.5226,-75.4716,-1,-1,3 DAYS,-1
+NY,-1,1/1/1960,Unknown,Under Investigation,-1,-1,No,-1,-1,-1,-1,-1,-1.0,0,-1,1.0,1.0,-1,-1,-1,-1
+TX,S,8/29/2017,Hydrologic/Flooding,Unknown,-1,-1,-1,P,RE,R,Y,12 ft,50.0,9,1927,30.7266,-94.448,-1,-1,-1,-1
+TX,S,9/27/1996,Hydrologic/Flooding,Overtopping,-1,-1,-1,P,RE,R,Y,12 ft,50.0,9,1927,30.7266,-94.448,-1,-1,-1,-1
+WI,H,9/8/2015,Hydrologic/Flooding,Overtopping,-1,-1,-1,-1,PGRE,RS,N,14 ft,40.0,5,1877,44.5769,-91.4683,-1,-1,-1,-1
+CO,H,6/16/2015,Hydrologic/Flooding,High Reservoir Level,-1,-1,Yes,U,CNVA,S,Y,151 ft,128000.0,3500,1932,38.905,-105.477,-1,-1,-1,-1
+NY,L,8/28/2011,Hydrologic/Flooding,Overtopping,-1,-1,No,P,ERTC,R,N,23 ft,4200.0,525,1965,44.0225,-73.8308,-1,-1,-1,-1
+KY,H,11/10/2012,Seismic,Cracking,-1,-1,No,L,PG,S,NR,40 ft,-1.0,16,1930,37.1683,-82.635,-1,-1,-1,-1
+TX,H,5/18/2024,Hydrologic/Flooding,Spillway Chute Failure,-1,-1,Unknown,P,RE,IR,Y,31 ft,1766.0,85,1920,30.6569,-95.532,2002,-1,-1,Yes
+SC,L,10/4/2015,Hydrologic/Flooding,Overtopping,-1,-1,-1,P,RE,R,N,7 ft,151.0,42,1830,34.0683,-80.5317,-1,-1,-1,-1
+TX,L,5/30/2015,Hydrologic/Flooding,Spillway Deficiency,-1,-1,-1,LP,RE,C,NR,52 ft,1680.0,18,1954,33.6654,-97.4887,-1,-1,-1,-1
+TX,L,5/30/2015,Hydrologic/Flooding,Spillway Deficiency,-1,-1,-1,LP,RE,C,NR,46 ft,641.0,10,1957,33.5915,-97.3537,-1,-1,-1,-1
+TX,L,5/30/2015,Hydrologic/Flooding,Spillway Deficiency,-1,-1,-1,LP,RE,C,NR,50 ft,2424.0,45,1958,33.7018,-97.3634,-1,-1,-1,-1
+TX,L,5/30/2015,Hydrologic/Flooding,Spillway Deficiency,-1,-1,-1,LP,RE,C,NR,50 ft,1498.0,12,1957,33.6781,-97.3411,-1,-1,-1,-1
+TX,L,5/30/2015,Hydrologic/Flooding,Spillway Deficiency,-1,-1,-1,LP,RE,C,NR,44 ft,1628.0,32,1958,33.6553,-97.2839,-1,-1,-1,-1
+TX,L,5/30/2015,Hydrologic/Flooding,Spillway Deficiency,-1,-1,-1,LP,RE,C,NR,45 ft,411.0,7,1959,33.6825,-97.3288,-1,-1,-1,-1
+SD,H,7/24/2020,Hydrologic/Flooding,Spillway Chute Failure,Erosion,-1,No,S,RE,RS,Y,52 ft,28800.0,1150,1937,45.855,-98.705,2000,-1,-1,Yes
+ND,S,4/25/2018,Hydrologic/Flooding,High Reservoir Level,-1,-1,Yes,L,RE,C,Y,25 ft,5187.6,48,1964,47.3098,-97.4647,-1,-1,-1,No
+WI,-1,4/19/2023,Malfunction of Equipment/Gate,Gate/Valve Failure,-1,-1,No,-1,-1,-1,-1,0 ft,0.0,0,0,0.0,0.0,-1,-1,-1,-1
+CO,L,9/16/2013,Hydrologic/Flooding,Unknown,-1,-1,-1,-1,-1,-1,-1,-1,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+CO,L,9/16/2013,Hydrologic/Flooding,Unknown,-1,-1,-1,-1,-1,-1,-1,-1,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+CO,H,6/11/2018,Seepage/Internal Erosion,Sinkhole,Piping,-1,Yes,P,RE,FIR,Y,37 ft,50900.0,2842,1905,40.2732,-104.189,-1,6:00 PM,-1,Yes
+IA,L,11/20/2018,Seepage/Internal Erosion,Piping,Sliding,-1,No,L,RE,PC,NR,38 ft,32.0,2,1970,43.4418,-91.4662,-1,-1,-1,-1
+IA,L,11/20/2018,Structural Stability,Piping,Slope Stability,-1,-1,L,RE,PC,NR,38 ft,32.0,2,1970,43.4418,-91.4662,-1,-1,-1,-1
+NE,L,6/13/2010,Hydrologic/Flooding,Spillway Erosion/Head Cutting,-1,-1,No,P,RE,C,NR,35 ft,968.0,123,1916,41.7584,-98.6529,2004,-1,-1,-1
+GA,H,2/22/2019,Hydrologic/Flooding,High Reservoir Level,-1,-1,No,S,RE,R,Y,48 ft,1691.0,46,1969,34.3153,-84.1964,-1,-1,-1,Unknown
+NC,-1,1/1/2008,Seepage/Internal Erosion,Piping,-1,-1,No,-1,-1,-1,-1,-1,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+SC,L,10/8/2016,Hydrologic/Flooding,Unknown,-1,-1,No,S,RE,I,N,18 ft,90.0,11,1964,34.295,-79.73,-1,-1,1 Day,No
+PA,L,6/29/2006,Hydrologic/Flooding,Overtopping,Erosion,-1,-1,P,RE,PG,-1,10 ft,-1.0,0,-1,41.1024,-76.003,-1,-1,3 DAYS,-1
+VA,H,8/15/2020,Hydrologic/Flooding,Overtopping,-1,-1,-1,L,CB,R,Y,34 ft,1511.0,92,-1,37.4618,-77.4655,-1,-1,-1,Yes
+WV,U,1/1/2008,Unknown,Unknown,-1,-1,No,P,RE,O,N,31 ft,16.1,0,-1,39.4161,-80.1611,-1,-1,-1,-1
+TX,L,5/30/2015,Hydrologic/Flooding,Spillway Deficiency,-1,-1,-1,LP,RE,CPFD,NR,36 ft,83.0,4,1975,33.6745,-97.6433,-1,-1,-1,-1
+TX,L,5/30/2015,Hydrologic/Flooding,Spillway Deficiency,-1,-1,-1,LP,RE,CPFD,NR,41 ft,99.0,6,1975,33.68,-97.6461,-1,-1,-1,-1
+VA,S,9/23/2011,Hydrologic/Flooding,Spillway Chute Failure,-1,-1,No,P,RE,R,N,22 ft,300.0,12,-1,37.2383,-78.42,-1,12:00 AM,-1,-1
+PA,H,3/2/2009,Unknown,Spillway Chute Failure,-1,-1,No,P,RE,R,Y,44 ft,675.0,27,1972,40.5867,-76.19,2012,-1,-1,-1
+MN,-1,9/24/1909,Unknown,Unknown,-1,-1,No,-1,-1,-1,-1,-1,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+TN,L,5/2/2010,Hydrologic/Flooding,Spillway Erosion/Head Cutting,-1,-1,No,P,RE,-1,-1,-1,-1.0,0,1969,0.0,0.0,2012,-1,-1,-1
+SC,H,5/1/2018,Deterioration or Poor Condition,Spillway Pipe Failure,Piping,Sinkhole,No,P,RE,R,Y,34 ft,715.0,55,1988,34.8867,-83.0442,-1,-1,-1,-1
+WI,-1,1/1/2008,Hydrologic/Flooding,Overtopping,-1,-1,No,-1,RE,-1,-1,-1,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+NC,S,11/28/2015,Deterioration or Poor Condition,Erosion,-1,-1,-1,P,RE,R,N,15 ft,469.0,0,1924,35.763,-77.997,-1,-1,-1,-1
+OH,H,7/1/2014,Deterioration or Poor Condition,Spillway Pipe Failure,-1,-1,No,L,RE,S,Y,32 ft,19478.0,624,1971,41.01,-83.57,-1,-1,-1,-1
+MO,H,1/5/2017,Deterioration or Poor Condition,Spillway Pipe Failure,-1,-1,No,S,RE,R,Y,44 ft,585.0,79,-1,39.0871,-92.3161,-1,-1,2 weeks,No
+IN,-1,6/1/2008,Hydrologic/Flooding,Overtopping,-1,-1,No,-1,-1,-1,-1,-1,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+CO,L,9/19/2013,Hydrologic/Flooding,Spillway Erosion/Head Cutting,-1,-1,-1,-1,-1,-1,-1,-1,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+PA,L,4/28/1994,Seepage/Internal Erosion,Erosion,-1,-1,Yes,P,RE,R,-1,39 ft,-1.0,0,1975,40.5436,-76.2218,-1,-1,1 DAY,Yes
+OH,S,1/28/2019,Deterioration or Poor Condition,Spillway Riser Failure,-1,-1,No,P,RE,R,N,22 ft,79.0,6,1960,39.6167,-83.8867,-1,-1,-1,No
+CO,S,9/19/2013,Hydrologic/Flooding,Overtopping,Slope Stability,Sinkhole,-1,-1,-1,-1,-1,-1,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+VA,U,10/8/2016,Hydrologic/Flooding,Unknown,-1,-1,No,P,RE,R,N,14 ft,91.0,9,-1,36.8121,-77.7596,-1,-1,-1,-1
+WI,-1,6/6/2023,Deterioration or Poor Condition,Excessive/Increased Seepage,-1,-1,No,-1,-1,-1,-1,0 ft,0.0,0,0,0.0,0.0,-1,-1,-1,-1
+SC,S,10/8/2016,Hydrologic/Flooding,Unknown,-1,-1,No,P,RE,R,Y,11 ft,75.0,12,1957,34.3572,-79.2,-1,-1,1 Day,No
+SC,L,10/8/2016,Hydrologic/Flooding,Unknown,-1,-1,No,P,RE,R,N,21 ft,68.0,6,1950,33.985,-79.5183,-1,-1,1 Day,No
+SC,L,10/8/2016,Hydrologic/Flooding,Unknown,-1,-1,No,P,RE,D,N,15 ft,400.0,22,-1,34.3083,-80.2683,-1,-1,1 Day,No
+MS,L,4/6/2021,Hydrologic/Flooding,Overtopping,Debris Clogging,Animal Activity,N,-1,-1,"R, F",No,-1,-1.0,0,-1,0.0,0.0,-1,-1,-1,N
+WY,H,9/4/1965,Seepage/Internal Erosion,Piping,-1,-1,-1,F,RE,FHRS,Y,139 ft,405160.0,8058,1963,42.0286,-107.867,1989,7:00 PM,12 Days,Yes
+NH,L,1/1/2021,Deterioration or Poor Condition,Spillway Riser Failure,Sinkhole,Excessive/Increased Seepage,-1,P,RE,R,NR,16 ft,134.0,16,1971,43.6097,-71.4888,-1,-1,-1,No
+NC,H,7/7/2011,Deterioration or Poor Condition,Spillway Chute Failure,-1,-1,Yes,P,RE,R,Y,15 ft,60.0,0,-1,35.205,-80.719,-1,-1,-1,-1
+NH,L,7/9/2023,Hydrologic/Flooding,Overtopping,-1,-1,No,P,REST,R,NR,8 ft,378.0,93,1925,42.7988,-72.3697,-1,22:00,1 Day,Yes
+IN,H,7/14/2015,Hydrologic/Flooding,Spillway Deficiency,-1,-1,-1,P,RE,-1,N,19 ft,55.0,5,1965,39.755,-86.4083,-1,-1,-1,No
+NH,L,7/18/2021,Hydrologic/Flooding,High Reservoir Level,Overtopping,Erosion,-1,P,REST,R,NR,8 ft,378.0,93,1925,42.7988,-72.3697,-1,-1,2 days,Yes
+TX,S,8/29/2017,Hydrologic/Flooding,Unknown,-1,-1,-1,P,RE,R,Y,16 ft,148.6,10,1940,30.7871,-94.4087,1989,-1,-1,-1
+PA,-1,7/5/1903,Hydrologic/Flooding,Overtopping,-1,-1,No,-1,-1,-1,-1,-1,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+GA,H,1/1/2019,Hydrologic/Flooding,High Reservoir Level,-1,-1,No,S,RE,C,Y,49 ft,7460.0,263,1964,33.9621,-83.7246,-1,-1,-1,Unknown
+OH,H,6/26/2012,Structural Stability,Slope Stability,-1,-1,Yes,L,RE,S,Y,36 ft,2900.0,129,1958,41.11,-83.44,-1,12:00 AM,-1,-1
+MN,S,5/1/2020,Structural Stability,Foundation Deficiency,Sliding,Slope Stability,No,L,RE,O,Y,25 ft,560.0,32,2017,43.6959,-93.3798,-1,-1,-1,Yes
+NY,L,3/10/2011,Seepage/Internal Erosion,Piping,-1,-1,No,P,RE,R,N,16 ft,200.0,21,1958,42.3106,-75.2375,-1,-1,-1,-1
+IN,L,7/17/2013,Deterioration or Poor Condition,Spillway Pipe Failure,-1,-1,No,L,RE,R,N,22 ft,253.0,22,1958,39.3386,-87.3739,-1,-1,-1,-1
+NE,L,1/1/2017,Deterioration or Poor Condition,Spillway Pipe Failure,-1,-1,No,P,RE,I,NR,11 ft,77.0,9,1951,42.9579,-100.916,-1,-1,-1,No
+VA,U,9/16/2019,Deterioration or Poor Condition,Abutment Failure,Erosion,-1,-1,P,-1,-1,NR,30 ft,65.1,5,-1,37.2411,-76.7003,-1,-1,-1,Yes
+TX,H,6/28/2007,Hydrologic/Flooding,Overtopping,-1,-1,-1,P,RE,-1,Y,25 ft,114.0,11,1964,30.6195,-97.8003,-1,-1,-1,-1
+TX,H,9/8/2010,Hydrologic/Flooding,Overtopping,-1,-1,-1,P,RE,-1,Y,25 ft,114.0,11,1964,30.6195,-97.8003,-1,-1,-1,-1
+SC,S,10/8/2016,Hydrologic/Flooding,Unknown,-1,-1,No,P,RE,R,Y,8 ft,518.0,144,1830,34.3933,-79.2383,-1,-1,1 Day,No
+VA,U,6/22/2020,Structural Stability,Spillway Erosion/Head Cutting,-1,-1,-1,X,RE,OR,N,15 ft,150.0,27,-1,37.5877,-77.3021,-1,-1,-1,Yes
+MD,L,6/25/2006,Hydrologic/Flooding,Overtopping,-1,-1,No,L,RE,RI,NR,9 ft,228.0,44,1972,38.5676,-75.7135,2008,-1,-1,-1
+VA,L,10/15/2018,Unknown,Spillway Erosion/Head Cutting,-1,-1,No,P,RE,R,Y,16 ft,672.0,56,-1,37.9588,-76.7062,-1,-1,-1,-1
+DE,H,8/28/2011,Hydrologic/Flooding,Overtopping,-1,-1,No,S,REPG,RF,N,11 ft,1164.0,86,1964,39.244,-75.5884,-1,12:00 AM,-1,-1
+OH,-1,2/28/2011,Hydrologic/Flooding,Overtopping,-1,-1,No,-1,PG,R,-1,7 ft,-1.0,0,1903,41.0,81.0,-1,12:00 AM,-1,-1
+MS,L,2/15/2016,Hydrologic/Flooding,Overtopping,-1,-1,-1,P,RE,R,NR,25 ft,125.0,0,-1,31.5167,-90.7083,-1,-1,-1,-1
+CO,S,9/18/2013,Seepage/Internal Erosion,Piping,-1,-1,-1,L,RE,IR,Y,10 ft,840.0,70,-1,40.1225,-105.11,1960,-1,-1,-1
+CO,S,11/28/2012,Seepage/Internal Erosion,Excessive/Increased Seepage,-1,-1,-1,L,RE,IR,Y,10 ft,840.0,70,-1,40.1225,-105.11,1960,-1,-1,-1
+GA,L,1/1/2015,Hydrologic/Flooding,Spillway Chute Failure,-1,-1,-1,L,ER,R,NR,40 ft,4685.0,222,1962,33.7583,-84.6292,-1,-1,-1,-1
+MA,S,10/15/2022,Deterioration or Poor Condition,Other,-1,-1,No,P,RE,R,N,13 ft,64.0,12,1970,42.4582,-73.0852,-1,-1,1 day,Investigation
+OH,L,1/18/2012,Deterioration or Poor Condition,Other,-1,-1,No,-1,PG,S,-1,15 ft,-1.0,0,1938,0.0,0.0,-1,-1,-1,-1
+SC,S,10/4/2015,Hydrologic/Flooding,Overtopping,-1,-1,-1,L,RE,R,Y,15 ft,240.0,28,1900,33.9683,-81.2433,-1,-1,-1,-1
+NY,H,8/28/2011,Hydrologic/Flooding,High Reservoir Level,-1,-1,Yes,L,MSRE,S,Y,183 ft,95575.0,1159,1926,42.3911,-74.45,-1,-1,-1,-1
+PA,S,6/26/2006,Hydrologic/Flooding,Overtopping,-1,-1,No,P,STRE,R,-1,10 ft,-1.0,0,-1,41.5043,-75.4333,-1,-1,3 DAYS,-1
+NJ,H,1/28/2015,Seepage/Internal Erosion,Piping,-1,-1,No,P,PGRE,R,Y,12 ft,66.0,14,1922,41.0392,-74.6074,-1,-1,-1,-1
+WI,H,12/15/2021,Deterioration or Poor Condition,Other,-1,-1,Yes,L,PG,RS,Y,37 ft,1000.0,45,1875,44.9569,-91.3998,1959,-1,1 day,Yes
+NH,S,8/28/2011,Hydrologic/Flooding,Overtopping,-1,-1,Yes,P,CNPG,H,Y,16 ft,10.2,2,1988,43.635,-72.3043,-1,12:00 AM,-1,-1
+IN,S,5/30/2011,Seepage/Internal Erosion,Piping,-1,-1,No,P,RE,R,N,14 ft,54.0,6,1945,40.5,-85.6708,-1,-1,-1,-1
+VA,L,10/12/2018,Hydrologic/Flooding,Overtopping,Erosion,-1,No,S,RE,R,Y,32 ft,212.25,11,-1,37.1753,-78.2815,-1,-1,-1,-1
+OH,H,3/5/2011,Hydrologic/Flooding,High Reservoir Level,-1,-1,Yes,U,CN,S,Y,57 ft,1149.0,34,1912,41.12,-81.49,-1,-1,-1,-1
+NH,L,10/17/2013,Deterioration or Poor Condition,Spillway Chute Failure,-1,-1,-1,P,TCERRE,H,NR,24 ft,370.0,45,1904,44.4082,-71.1952,-1,-1,-1,-1
+PA,H,6/2/2014,Seepage/Internal Erosion,Piping,-1,-1,No,P,RE,R,-1,11 ft,-1.0,0,1929,41.1051,-74.5605,-1,-1,-1,Yes
+NY,H,8/28/2011,Hydrologic/Flooding,Spillway Erosion/Head Cutting,-1,-1,No,L,RE,S,Y,37 ft,867.0,66,1963,41.3833,-74.3333,-1,-1,-1,-1
+TX,L,6/1/1982,Unknown,Spillway Deficiency,-1,-1,-1,P,RE,S,NR,39 ft,577.0,27,1961,33.292,-97.9597,-1,-1,-1,-1
+NE,L,6/12/2010,Hydrologic/Flooding,Overtopping,-1,-1,No,F,RE,-1,-1,20 ft,-1.0,0,1980,0.0,0.0,2003,-1,-1,-1
+SC,S,10/8/2016,Hydrologic/Flooding,Unknown,-1,-1,No,P,RE,R,Y,13 ft,119.0,17,1930,34.0183,-79.1733,-1,-1,1 Day,No
+MD,S,3/29/2006,Deterioration or Poor Condition,Spillway Pipe Failure,Sinkhole,-1,No,P,RE,R,Y,22 ft,76.0,8,1969,39.6826,-76.3531,2008,-1,-1,-1
+GA,L,9/29/2019,Unknown,Unknown,-1,-1,No,P,RE,O,NR,12 ft,30.0,1,2019,32.78,-83.63,-1,-1,-1,Yes
+CO,H,9/12/2013,Hydrologic/Flooding,High Reservoir Level,-1,-1,-1,-1,-1,-1,-1,-1,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+TX,L,5/19/2021,Unknown,Unknown,-1,-1,-1,L,CNRE,IR,NR,35 ft,462.0,33,1940,27.88,-97.2917,-1,-1,-1,-1
+MD,-1,1/1/2008,Seepage/Internal Erosion,Unknown,-1,-1,No,-1,-1,-1,-1,-1,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+MD,H,7/20/2018,Hydrologic /Flooding,Overtopping,-1,-1,Yes,S,RE,R,Y,64 ft,734.0,27,1965,39.5389,-77.6213,1996,-1,3 weeks,No
+VA,L,8/19/2018,Deterioration or Poor Condition,Spillway Pipe Failure,-1,-1,No,-1,-1,-1,-1,-1,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+PA,H,7/17/1904,Seepage/Internal Erosion,Piping,-1,-1,No,L,RE,S,-1,60 ft,-1.0,0,1901,40.0618,-79.31,-1,10:00:00 PM,1 DAY,Yes
+IN,-1,6/1/2008,Hydrologic/Flooding,Overtopping,-1,-1,No,-1,-1,-1,-1,-1,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+DE,H,8/16/2023,Seepage/Internal Erosion,Piping,Spillway Chute Failure,-1,-1,S,PGRE,FR,Y,13 ft,310.0,40,-1,38.9112,-75.4648,2006,-1,-1,-1
+IN,H,2/25/2019,Deterioration or Poor Condition,Spillway Pipe Failure,Sinkhole,-1,-1,P,RE,R,NR,22 ft,82.0,6,1964,39.4406,-87.3558,-1,-1,-1,-1
+MD,H,7/21/2016,Manmade Action,Accident Or Misoperation,-1,-1,Yes,L,RE,S,Y,35 ft,134.0,7,1893,39.345,-76.6167,2006,-1,-1,-1
+MD,H,9/17/2015,Manmade Action,Accident Or Misoperation,-1,-1,No,L,RE,S,Y,35 ft,134.0,7,1893,39.345,-76.6167,2006,-1,-1,-1
+NC,L,10/8/2016,Hydrologic/Flooding,Overtopping,-1,-1,No,P,RE,R,NR,14 ft,72.0,0,-1,35.488,-78.71,-1,-1,1 day,-1
+NY,S,8/28/2011,Hydrologic/Flooding,Sinkhole,-1,-1,No,LP,RE,R,N,35 ft,600.0,33,1858,41.4319,-74.5958,-1,-1,-1,-1
+TX,L,9/1/1980,Hydrologic/Flooding,Overtopping,-1,-1,-1,P,RE,O,NR,35 ft,300.0,16,1960,32.4814,-100.595,-1,-1,-1,-1
+NC,H,10/8/2016,Hydrologic/Flooding,Overtopping,-1,-1,Yes,U,RE,O,N,17 ft,5446.0,0,-1,35.381,-78.085,-1,-1,1 day,-1
+TX,-1,1/2/2019,Unknown,Spillway Deficiency,-1,-1,-1,-1,RE,-1,-1,12 ft,53.0,0,-1,0.0,0.0,-1,-1,-1,-1
+SC,L,10/8/2016,Hydrologic/Flooding,Unknown,-1,-1,No,P,RE,R,Y,9 ft,90.0,14,1949,34.7583,-79.79,-1,-1,1 Day,No
+SC,L,10/4/2015,Hydrologic/Flooding,Overtopping,-1,-1,-1,P,RE,R,N,11 ft,147.0,26,1946,33.9583,-80.755,-1,-1,-1,-1
+MS,L,4/16/2021,Deterioration or Poor Condition,Spillway Pipe Failure,Vegetation,-1,N,P,RE,R,NR,14 ft,280.0,0,-1,30.8412,-89.0682,-1,-1,-1,N
+CO,H,6/10/2014,Seepage/Internal Erosion,Cracking,Other,-1,Yes,L,RE,SR,Y,43 ft,1155.0,62,1970,38.9693,-108.294,-1,-1,-1,-1
+SC,L,10/8/2016,Hydrologic/Flooding,Unknown,-1,-1,No,P,RE,R,N,12 ft,63.0,9,1972,34.5283,-79.435,-1,-1,1 Day,No
+OH,S,5/12/2017,Deterioration or Poor Condition,Spillway Pipe Failure,Sinkhole,-1,-1,P,RE,R,N,34 ft,124.0,5,1950,39.1111,-84.2311,-1,-1,2 days,Yes
+MI,-1,6/1/2008,Hydrologic/Flooding,Unknown,-1,-1,Yes,-1,-1,-1,-1,-1,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+VT,S,7/10/2023,Hydrologic/Flooding,Unknown,-1,-1,No,L,RE,O,NR,20 ft,16.0,2,1860,44.1054,-72.4298,-1,-1,-1,No
+MN,-1,3/21/2019,Hydrologic/Flooding,Erosion,Overtopping,-1,No,S,REPG,-1,NR,6 ft,13777.0,1740,1930,44.11,-94.5663,1986,-1,1 day,Yes
+TX,L,1/1/1991,Unknown,Spillway Deficiency,-1,-1,-1,P,RE,P,NR,16 ft,130.0,13,1957,30.9274,-95.382,-1,-1,-1,-1
+NE,L,6/12/2010,Hydrologic/Flooding,Overtopping,-1,-1,No,-1,RE,-1,-1,10 ft,-1.0,0,1939,0.0,0.0,-1,-1,-1,-1
+MO,H,1/1/2008,Structural Stability,Sliding,-1,-1,No,P,RE,R,N,38 ft,83.0,6,1978,37.9924,-90.3557,-1,-1,-1,-1
+TX,H,3/29/1989,Seepage/Internal Erosion,Piping,-1,-1,-1,P,RE,R,N,17 ft,214.0,15,1900,32.5574,-94.3443,2006,-1,-1,-1
+RI,-1,1/1/1955,Unknown,Unknown,-1,-1,No,-1,RE,-1,-1,-1,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+TX,S,10/5/2023,Hydrologic/Flooding,Overtopping,Spillway Chute Failure,-1,-1,P,OT,O,NR,18 ft,63.0,8,-1,32.4811,-95.4058,-1,-1,-1,-1
+TX,L,11/11/1985,Unknown,Spillway Chute Failure,-1,-1,-1,S,RE,O,NR,24 ft,135.0,0,1932,30.7408,-95.4748,-1,-1,-1,-1
+MT,-1,4/14/1908,Unknown,Unknown,-1,-1,No,-1,-1,-1,-1,-1,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+WA,S,8/21/2014,Hydrologic/Flooding,Spillway Erosion/Head Cutting,-1,-1,-1,P,RE,IR,N,33 ft,60.0,3,1940,48.3139,-120.002,1992,-1,-1,Yes
+GA,H,3/27/2023,Hydrologic/Flooding,High Reservoir Level,-1,-1,Yes,L,RE,S,Y,32 ft,7588.0,300,1963,33.2804,-84.3744,1983,-1,-1,No
+GA,H,4/19/2019,Hydrologic/Flooding,Spillway Erosion/Head Cutting,High Reservoir Level,-1,Unknown,L,RE,S,Y,32 ft,7588.0,300,1963,33.2804,-84.3744,1983,-1,-1,Unknown
+TX,S,8/29/2017,Hydrologic/Flooding,Unknown,-1,-1,-1,P,RE,R,Y,17 ft,68.0,0,-1,30.7407,-94.4424,-1,-1,-1,-1
+TX,S,9/27/1996,Hydrologic/Flooding,Overtopping,-1,-1,-1,P,RE,R,Y,17 ft,68.0,0,1800,30.7407,-94.4424,-1,-1,-1,-1
+DE,H,9/8/2011,Hydrologic/Flooding,Overtopping,-1,-1,No,S,REPG,RF,N,14 ft,1434.0,24,1912,38.6793,-75.594,2002,12:00 AM,-1,-1
+OR,S,11/23/2016,Other,Spillway Pipe Failure,Sliding,-1,No,P,RE,I,NR,28 ft,42.5,4,1981,44.884,-122.709,-1,-1,-1,-1
+NJ,H,3/1/2010,Hydrologic/Flooding,Overtopping,-1,-1,-1,L,PGRE,R,Y,8 ft,-1.0,38,1910,41.0728,-74.586,-1,-1,-1,-1
+TX,S,5/16/2024,Hydrologic/Flooding,Spillway Erosion/Head Cutting,-1,-1,Yes,P,RE,R,NR,21 ft,400.0,0,1940,30.6646,-95.563,-1,-1,-1,Yes
+TX,S,5/21/2010,Deterioration or Poor Condition,Spillway Pipe Failure,-1,-1,No,P,RE,R,N,21 ft,400.0,0,1940,30.6646,-95.563,-1,-1,-1,-1
+NY,H,8/28/2011,Hydrologic/Flooding,High Reservoir Level,-1,-1,Yes,P,-1,RS,Y,35 ft,330.0,27,1944,42.5972,-74.0125,-1,-1,-1,-1
+NJ,S,4/17/2011,Seepage/Internal Erosion,Sinkhole,-1,-1,Yes,P,PGRE,R,Y,10 ft,-1.0,45,1926,41.019,-74.363,-1,12:00 AM,-1,-1
+MS,L,2/22/2012,Seepage/Internal Erosion,Spillway Pipe Failure,-1,-1,No,P,RE,R,NR,17 ft,287.0,24,1999,31.4153,-89.52,-1,-1,-1,-1
+MO,L,1/1/2008,Seepage/Internal Erosion,Piping,-1,-1,No,P,RE,R,N,50 ft,1750.0,46,1968,38.7593,-91.9629,-1,-1,-1,-1
+AK,H,4/27/2020,Deterioration or Poor Condition,High Reservoir Level,Debris Clogging,-1,No,P,RE,S,N,56 ft,10200.0,0,1946,65.5933,-148.392,-1,-1,1 month,Yes
+AK,H,4/28/2020,Other,Debris Clogging,Reservoir Overfilling,-1,No,P,RE,S,N,56 ft,10200.0,0,1946,65.5933,-148.392,-1,-1,-1,Yes
+NY,S,6/7/2011,Malfunction of Equipment/Gate,Gate/Valve Failure,-1,-1,Yes,P,CNPG,H,Y,35 ft,405.0,239,1923,44.6177,-75.4048,1993,-1,-1,-1
+SD,L,3/23/2019,Hydrologic/Flooding,Unknown,-1,-1,No,S,RE,PR,NR,18 ft,824.0,32,1933,43.2317,-100.415,1959,-1,-1,No
+IN,H,1/22/2018,Structural Stability,Sliding,-1,-1,Yes,P,RE,R,Y,135 ft,7750.0,139,1973,39.1525,-84.8472,-1,-1,-1,Yes
+IN,H,12/6/2011,Structural Stability,Slope Stability,-1,-1,Yes,P,RE,R,N,135 ft,7750.0,139,1973,39.1547,-84.8364,-1,-1,-1,-1
+MN,L,6/29/2014,Hydrologic/Flooding,Overtopping,-1,-1,No,S,PG,CO,NR,9 ft,50.0,0,1958,44.5756,-93.9924,-1,-1,<12 hours,No
+TX,L,7/1/2007,Hydrologic/Flooding,Overtopping,-1,-1,-1,P,RE,R,NR,17 ft,412.0,50,1919,32.9408,-94.9858,2007,-1,-1,-1
+TX,S,3/29/1989,Hydrologic/Flooding,Overtopping,-1,-1,-1,P,RE,R,Y,12 ft,75.0,4,1925,32.5065,-94.6162,1989,-1,-1,-1
+TX,S,3/24/2009,Unknown,Other,-1,-1,No,P,RE,R,Y,20 ft,150.0,16,1956,32.5014,-94.6182,-1,-1,-1,-1
+WI,H,8/28/2018,Hydrologic/Flooding,Overtopping,-1,-1,Yes,L,PGRE,R,Y,25 ft,430.0,42,1854,43.6487,-90.3374,1967,-1,1 day,Unknown
+MS,L,3/29/2021,Seepage/Internal Erosion,Excessive/Increased Seepage,-1,-1,N,-1,RE,R,No,-1,-1.0,0,-1,32.3631,-90.3247,-1,-1,-1,Y
+TX,L,1/1/1997,Structural Stability,Cracking,-1,-1,-1,L,CB,I,NR,13 ft,700.0,0,1911,28.3016,-99.1397,-1,-1,-1,-1
+MS,L,1/2/2020,Hydrologic/Flooding,Foundation Deficiency,Piping,-1,N,P,RE,R,NR,18 ft,165.0,0,1960,32.1894,-90.3943,-1,-1,I day,Y
+TX,L,5/13/1982,Deterioration or Poor Condition,Animal Activity,-1,-1,-1,L,RE,R,NR,23 ft,450.0,37,1902,33.6029,-95.9054,-1,-1,-1,-1
+NY,S,7/1/2017,Hydrologic/Flooding,Overtopping,Erosion,-1,No,P,RE,R,Y,25 ft,103.0,10,1950,42.8557,-73.3452,-1,-1,1 week,No
+WI,L,8/18/2023,Deterioration or Poor Condition,Foundation Deficiency,-1,-1,No,S,OTPG,O,Y,12 ft,20000.0,2500,1930,43.4462,-88.6311,-1,-1,-1,-1
+OH,S,10/1/2015,Structural Stability,Slope Stability,-1,-1,No,P,RE,O,Y,60 ft,2012.0,27,1952,39.7339,-81.7328,-1,-1,-1,Yes
+NC,H,10/8/2016,Hydrologic/Flooding,Overtopping,-1,-1,No,P,RE,R,Y,9 ft,307.5,0,-1,35.1869,-78.3762,-1,-1,1 day,-1
+DE,H,9/8/2011,Hydrologic/Flooding,Overtopping,-1,-1,-1,S,REPG,RF,N,9 ft,169.0,20,1958,38.8406,-75.4343,-1,12:00 AM,-1,-1
+WI,L,9/8/2015,Hydrologic/Flooding,Overtopping,-1,-1,-1,L,PGRE,R,N,19 ft,200.0,33,1871,44.5252,-90.892,1936,-1,-1,-1
+MD,-1,1/1/1909,Unknown,Unknown,-1,-1,No,-1,-1,-1,-1,-1,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+PA,L,6/27/2006,Hydrologic/Flooding,Piping,-1,-1,-1,P,RE,O,-1,13 ft,-1.0,0,-1,41.1754,-75.5554,-1,-1,3 DAYS,-1
+PA,L,6/28/2006,Hydrologic/Flooding,Overtopping,-1,-1,-1,P,STMS,O,-1,13 ft,-1.0,0,-1,41.1754,-75.5542,-1,-1,3 DAYS,-1
+TX,S,11/29/2010,Hydrologic/Flooding,Overtopping,-1,-1,No,-1,RE,R,-1,20 ft,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+TX,L,5/29/1987,Hydrologic/Flooding,Overtopping,-1,-1,-1,P,RE,R,NR,24 ft,87.0,0,1968,30.3527,-97.9867,-1,-1,-1,-1
+NY,L,8/28/2011,Hydrologic/Flooding,Overtopping,-1,-1,No,L,OT,R,N,12 ft,95.0,10,1912,42.7214,-73.6728,-1,-1,-1,-1
+CO,L,9/22/2013,Hydrologic/Flooding,Erosion,-1,-1,-1,-1,-1,-1,-1,-1,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+IN,S,6/1/2010,Hydrologic/Flooding,Overtopping,-1,-1,-1,-1,RE,R,-1,20 ft,-1.0,0,1979,40.0,-86.0,-1,-1,-1,-1
+TX,L,5/12/2014,Unknown,Spillway Deficiency,-1,-1,-1,P,RE,R,NR,28 ft,386.0,20,1960,30.8833,-95.6106,-1,-1,-1,-1
+NY,S,8/28/2011,Hydrologic/Flooding,Overtopping,-1,-1,-1,LPS,RE,S,Y,23 ft,728.0,52,1958,41.2367,-74.2083,-1,-1,-1,-1
+PA,H,8/23/2018,Seepage/Internal Erosion,Slope Stability,-1,-1,No,L,RE,S,Y,40 ft,92.0,5,1890,40.2406,-75.8181,-1,-1,-1,No
+WI,L,1/3/2023,Manmade Action,Sinkhole,-1,-1,No,L,PG,R,Y,13 ft,107000.0,10460,1932,42.8034,-89.0891,-1,-1,-1,-1
+MN,S,4/7/2014,Hydrologic/Flooding,Overtopping,-1,-1,No,P,RE,ST,NR,55 ft,14500.0,1800,1976,47.6025,-92.4607,-1,-1,<95 hours,Yes
+OH,L,8/7/2015,Deterioration or Poor Condition,Spillway Erosion/Head Cutting,-1,-1,No,P,RE,O,N,38 ft,46.8,3,-1,39.8589,-81.7375,-1,-1,-1,Yes
+NM,S,2/9/2022,Structural Stability,Slope Stability,-1,-1,-1,P,RE,T,N,29 ft,70.0,54,-1,32.4843,-103.792,-1,-1,-1,-1
+NM,S,12/31/2017,Seepage/Internal Erosion,Piping,Erosion,-1,No,P,RE,T,N,29 ft,70.0,54,-1,32.4843,-103.792,-1,8:30,2 days,Yes
+NM,L,10/17/2015,Seepage/Internal Erosion,Piping,Cracking,Settlement,No,P,RE,T,NR,68 ft,2078.0,128,1978,32.4836,-103.927,-1,7:15 AM,1 day,Yes
+GA,L,2/4/2022,Unknown,Unknown,-1,-1,No,P,RE,R,NR,27 ft,292.5,21,1960,33.4006,-84.1161,-1,-1,1 day,No
+GA,L,2/4/2022,Seepage/Internal Erosion,Piping,-1,-1,No,P,RE,R,NR,27 ft,292.5,21,1960,33.4006,-84.1161,-1,-1,-1,No
+OH,S,12/20/2018,Deterioration or Poor Condition,Spillway Pipe Failure,-1,-1,No,P,RE,R,Y,12 ft,139.0,20,-1,39.4472,-84.6883,-1,-1,1 week,No
+VA,H,8/2/2018,Seepage/Internal Erosion,Piping,-1,-1,No,-1,-1,-1,N,-1,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+CO,L,7/1/2014,Seepage/Internal Erosion,Settlement,Sinkhole,-1,Yes,U,RE,IS,Y,17 ft,1007.0,82,1928,39.2717,-106.509,1971,-1,-1,-1
+VA,U,8/15/2020,Hydrologic/Flooding,Overtopping,-1,-1,-1,X,RE,R,N,20 ft,174.0,0,-1,37.4758,-77.6294,-1,-1,-1,Yes
+MS,L,4/18/2021,Deterioration or Poor Condition,-1,-1,-1,N,P,RE,R,NR,15 ft,226.0,23,1998,32.5909,-89.929,-1,-1,-1,N
+GA,L,7/13/2013,Deterioration or Poor Condition,Spillway Pipe Failure,-1,-1,No,P,RE,I,NR,31 ft,1390.0,65,1977,32.6317,-81.7694,-1,-1,-1,-1
+TX,L,10/17/1998,Hydrologic/Flooding,Overtopping,-1,-1,-1,P,RE,R,NR,20 ft,206.0,13,1967,30.0095,-97.7982,-1,-1,-1,-1
+WI,L,8/24/2022,Hydrologic/Flooding,Unknown,-1,-1,No,P,RE,G,N,30 ft,38.0,0,0,44.1781,-91.5353,0,-1,-1,-1
+TX,L,7/5/2002,Hydrologic/Flooding,Overtopping,-1,-1,-1,P,RE,P,NR,19 ft,53.0,6,1967,29.7143,-98.6722,-1,-1,-1,-1
+NV,L,1/1/2020,Seepage/Internal Erosion,Animal Activity,Erosion,-1,No,P,RE,IP,Y,20 ft,300.0,30,-1,40.0905,-116.266,-1,-1,-1,Unknown
+TX,L,1/10/1992,Deterioration or Poor Condition,Spillway Pipe Failure,-1,-1,-1,P,RE,RP,NR,30 ft,1500.0,88,1953,32.0231,-95.7178,2012,-1,-1,-1
+CO,H,6/22/2017,Seepage/Internal Erosion,Excessive/Increased Seepage,Erosion,-1,Yes,L,RE,S,Y,33 ft,3417.0,126,1951,39.4506,-105.863,-1,14:20,2 days,Yes
+MS,L,2/5/2020,Hydrologic/Flooding,Animal Activity,Overtopping,Insufficient Spillway Capacity,N,P,RE,R,No,-1,-1.0,4,-1,31.8278,-89.4628,-1,10:00 AM,1 day,Y
+MS,L,2/5/2020,Hydrologic/Flooding,Animal Activity,Overtopping,Insufficient Spillway Capacity,N,P,RE,R,No,-1,-1.0,4,-1,31.8292,-89.4622,-1,-1,-1,Y
+TX,S,7/1/2005,Seepage/Internal Erosion,Piping,Animal Activity,-1,-1,P,RE,-1,N,15 ft,66.0,11,1945,33.1813,-95.0011,-1,-1,-1,-1
+TN,-1,8/2/1916,Unknown,Spillway Deficiency,-1,-1,No,-1,-1,-1,-1,-1,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+MN,L,1/1/2017,Unknown,Slope Stability,-1,-1,No,P,RE,FR,NR,12 ft,63.0,0,1966,46.1815,-94.65,-1,-1,-1,No
+NY,H,8/28/2011,Hydrologic/Flooding,High Reservoir Level,-1,-1,Yes,P,CNPG,H,Y,39 ft,6430.0,450,1909,42.9197,-73.5084,1989,-1,-1,-1
+CO,H,9/25/2020,Manmade Action,Accident Or Misoperation,Excessive/Increased Seepage,-1,Yes,L,RE,S,Y,16 ft,258.0,34,1953,40.3375,-104.959,-1,11:50 AM,2 days,Yes
+SD,H,6/13/2019,Unknown,Sinkhole,-1,-1,Yes,S,RE,R,Y,21 ft,1260.0,101,1938,44.4783,-98.9467,2000,-1,-1,-1
+MS,L,8/24/2022,Hydrologic/Flooding,Overtopping,-1,-1,N,P,RE,R,No,-1,-1.0,0,-1,0.0,-90.1275,-1,-1,-1,N
+NY,S,1/1/2019,Seepage/Internal Erosion,Excessive/Increased Seepage,Piping,Settlement,No,P,CNRE,R,Y,10 ft,37.0,11,1986,41.4511,-73.8672,-1,-1,4 weeks,-1
+SC,S,9/16/2018,Hydrologic/Flooding,Spillway Erosion/Head Cutting,-1,-1,No,P,RE,R,Y,19 ft,88.0,10,1956,34.423,-79.9951,-1,-1,-1,-1
+TX,S,5/29/2015,Hydrologic/Flooding,Overtopping,-1,-1,-1,L,RE,-1,Y,20 ft,49.0,7,1800,29.884,-98.8188,-1,-1,-1,-1
+TX,S,5/29/2015,Hydrologic/Flooding,Overtopping,-1,-1,-1,L,RE,-1,Y,36 ft,39.0,1,1800,29.8839,-98.8085,-1,-1,-1,-1
+HI,H,3/14/2006,Manmade Action,Other,Overtopping,-1,-1,P,RE,I,-1,42 ft,-1.0,0,1890,0.0,0.0,1912,-1,-1,-1
+MO,H,1/1/2008,Seepage/Internal Erosion,Piping,-1,-1,No,P,RE,SICR,Y,45 ft,273.0,14,1905,38.6985,-91.888,1987,-1,-1,-1
+PA,H,01/01/1892,Seepage/Internal Erosion,Piping,-1,-1,No,L,RE,S,Y,68 ft,413.0,19,1896,40.7653,-76.2192,-1,-1,2 DAYS,-1
+WI,S,8/29/2023,Seepage/Internal Erosion,Sinkhole,-1,-1,-1,F,-1,CHNSR,Y,22 ft,1300.0,234,1931,44.2817,-88.2717,-1,-1,-1,-1
+VA,U,5/9/2019,Deterioration or Poor Condition,Spillway Pipe Failure,-1,-1,No,P,RE,I,N,10 ft,251.0,0,1960,37.3695,-75.9825,-1,-1,-1,-1
+GA,H,11/6/1977,Unknown,Unknown,-1,-1,No,P,RE,R,N,38 ft,410.0,0,-1,0.0,0.0,-1,-1,-1,-1
+TX,L,5/30/2015,Hydrologic/Flooding,Overtopping,-1,-1,-1,P,RE,SR,NR,20 ft,76.0,8,1965,32.3856,-99.0237,-1,-1,-1,-1
+NJ,L,8/27/2011,Hydrologic/Flooding,Sinkhole,-1,-1,-1,-1,-1,R,-1,6 ft,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+TX,S,12/31/1984,Hydrologic/Flooding,Overtopping,-1,-1,-1,L,REOT,ISR,Y,21 ft,2499.0,106,1980,30.0535,-99.165,-1,-1,-1,-1
+PA,L,8/28/1911,Hydrologic/Flooding,Overtopping,-1,-1,No,P,RE,S,-1,45 ft,-1.0,0,1912,41.3251,-78.3743,-1,-1,1 DAY,Yes
+IN,H,3/31/2015,Seepage/Internal Erosion,Spillway Pipe Failure,Sinkhole,-1,No,P,RE,R,N,22 ft,179.0,7,1973,39.9464,-86.1056,-1,-1,-1,-1
+WY,L,7/15/2014,Seepage/Internal Erosion,Piping,-1,-1,No,P,RE,I,NR,24 ft,2449.0,230,1922,41.5933,-106.063,-1,12 a.m. to 4 a.m. Estimated,Less than 4 hours,Yes
+TN,-1,12/22/2008,Unknown,Unknown,-1,-1,No,-1,RE,T,-1,-1,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+OH,S,7/19/2019,Hydrologic/Flooding,Overtopping,-1,-1,No,P,RE,R,Y,23 ft,145.4,9,-1,41.4494,-80.58,-1,8:15 AM,-1,No
+MS,L,3/30/2021,Deterioration or Poor Condition,Excessive/Increased Seepage,-1,-1,N,-1,RE,F,No,-1,-1.0,0,-1,0.0,0.0,-1,-1,-1,N
+MO,H,4/30/2011,Structural Stability,Sliding,-1,-1,No,P,RE,R,N,41 ft,99.0,10,1971,37.9112,-90.6271,1997,-1,-1,-1
+MO,H,1/1/2008,Structural Stability,Sliding,-1,-1,No,L,RE,R,N,72 ft,2475.0,51,1979,37.8974,-90.6434,1995,-1,-1,-1
+NY,L,12/20/2016,Hydrologic/Flooding,Overtopping,-1,-1,-1,L,-1,R,N,15 ft,6110.0,360,1950,43.7983,-74.23,-1,-1,-1,-1
+MO,-1,1/1/2008,Seepage/Internal Erosion,Piping,-1,-1,No,-1,-1,-1,-1,-1,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+CO,H,10/10/2014,Seepage/Internal Erosion,Sinkhole,-1,-1,-1,P,RE,IR,Y,42 ft,562.0,20,1912,39.3033,-107.117,1953,-1,-1,-1
+MD,H,2/7/2022,Other,Other,-1,-1,Yes,L,REER,S,Y,40 ft,750.0,25,1910,39.3192,-76.6688,1910,-1,4 months,Unknown
+AR,L,4/30/2017,Hydrologic/Flooding,Insufficient Spillway Capacity,Overtopping,-1,No,S,ERRE,CFR,NR,41 ft,486.0,33,1940,35.2817,-92.285,-1,-1,4 hours,Unknown
+MO,H,1/1/2008,Structural Stability,Sliding,-1,-1,No,S,RE,R,N,46 ft,377.0,19,1961,37.4519,-89.4883,1991,-1,-1,-1
+OH,H,5/1/2014,Hydrologic/Flooding,Overtopping,-1,-1,No,L,RE,R,Y,16 ft,133.0,13,1930,41.23,-81.81,-1,-1,-1,-1
+MS,H,2/12/2020,Hydrologic/Flooding,Sliding,-1,-1,N,P,RE,R,Y,35 ft,2530.0,178,1954,32.4676,-90.2262,2005,-1,-1,Yes
+MS,H,7/9/2020,Hydrologic/Flooding,Slope Stability,-1,-1,N,P,RE,R,Y,35 ft,2530.0,178,1954,32.4676,-90.2262,2005,-1,-1,N
+TX,S,8/4/1991,Unknown,Spillway Deficiency,-1,-1,-1,L,RE,S,Y,17 ft,1825.0,93,1953,31.7383,-94.16,1993,-1,-1,-1
+TX,L,3/14/2004,Seepage/Internal Erosion,Piping,-1,-1,-1,L,RE,R,Y,24 ft,700.0,88,1965,30.6738,-94.4014,2004,-1,-1,-1
+TX,L,9/27/1996,Hydrologic/Flooding,Overtopping,-1,-1,-1,L,RE,R,Y,24 ft,700.0,88,1965,30.6738,-94.4014,2004,-1,-1,-1
+NY,S,8/28/2011,Hydrologic/Flooding,Overtopping,-1,-1,No,S,-1,R,Y,25 ft,373.0,37,1924,41.2761,-74.1142,-1,-1,-1,-1
+MS,L,5/25/2015,Seepage/Internal Erosion,Piping,-1,-1,-1,S,RE,R,NR,20 ft,990.0,96,-1,31.1833,-89.7383,-1,1:00 PM,-1,-1
+TX,L,9/13/2008,Unknown,Spillway Deficiency,-1,-1,-1,P,RE,RP,NR,20 ft,280.0,23,1965,30.5168,-94.8099,1988,-1,-1,-1
+SD,H,9/11/2019,Hydrologic/Flooding,High Reservoir Level,Gate/Valve Failure,-1,-1,L,RE,R,Y,32 ft,2020.0,116,1939,43.41,-98.2983,1986,-1,-1,-1
+IN,-1,9/1/2008,Hydrologic/Flooding,Overtopping,-1,-1,No,-1,RE,-1,-1,-1,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+SC,L,9/16/2018,Hydrologic/Flooding,Piping,Spillway Pipe Failure,-1,No,L,RE,R,NR,15 ft,146.0,20,1957,34.4573,-79.8804,-1,-1,-1,-1
+WA,-1,2/1/1950,Hydrologic/Flooding,Overtopping,-1,-1,No,-1,RE,-1,-1,-1,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+TX,S,10/13/1981,Hydrologic/Flooding,Overtopping,-1,-1,-1,P,RE,R,Y,24 ft,1187.0,0,1925,32.7332,-99.1085,1982,-1,-1,-1
+TX,S,3/10/2016,Hydrologic/Flooding,Erosion,-1,-1,-1,P,RE,R,Y,27 ft,396.0,25,1971,32.7131,-94.5612,-1,-1,-1,-1
+IA,S,6/14/2015,Unknown,Under Investigation,-1,-1,-1,P,PG,R,NR,55 ft,9920.0,440,1922,42.4081,-91.3454,-1,-1,-1,-1
+IA,S,7/25/2010,Unknown,Under Investigation,-1,-1,No,P,PG,R,NR,55 ft,9920.0,440,1922,42.4081,-91.3454,-1,12:00 AM,-1,-1
+WI,-1,1/1/2008,Unknown,Unknown,-1,-1,No,-1,-1,-1,-1,-1,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+TX,L,5/30/2016,Hydrologic/Flooding,Spillway Deficiency,-1,-1,-1,P,RE,R,NR,22 ft,664.0,60,1965,31.8441,-95.4949,-1,-1,-1,-1
+TX,L,4/3/1999,Hydrologic/Flooding,Overtopping,-1,-1,-1,P,RE,R,NR,21 ft,145.0,5,1963,30.6864,-94.756,-1,-1,-1,-1
+TX,L,5/6/1969,Hydrologic/Flooding,Overtopping,-1,-1,-1,P,RE,R,NR,21 ft,145.0,5,1963,30.6864,-94.756,-1,-1,-1,-1
+TX,H,2/1/1991,Unknown,Spillway Deficiency,-1,-1,-1,P,RE,R,N,26 ft,65.0,3,1963,30.6944,-94.74,1983,-1,-1,-1
+TX,H,8/29/2017,Hydrologic/Flooding,Spillway Deficiency,-1,-1,-1,P,RE,R,N,26 ft,65.0,3,1963,30.6944,-94.74,1983,-1,-1,-1
+TX,H,5/14/2019,Unknown,Gate/Valve Failure,-1,-1,-1,S,RE,HR,Y,41 ft,14330.0,410,1928,29.654,-98.0663,-1,-1,-1,-1
+TX,H,5/14/2019,Malfunction of Equipment/Gate,Gate/Valve Failure,-1,-1,-1,S,RE,HR,Y,41 ft,14330.0,410,1928,29.654,-98.0663,-1,-1,-1,-1
+TX,S,6/1/1988,Hydrologic/Flooding,Overtopping,-1,-1,-1,P,RE,I,Y,35 ft,2215.0,124,1926,31.8528,-98.6182,1988,-1,-1,-1
+AR,H,4/28/2017,Hydrologic/Flooding,Insufficient Spillway Capacity,-1,-1,No,S,RE,R,N,46 ft,2050.0,125,1952,36.1983,-94.2183,-1,-1,2 days,Yes
+AR,H,4/29/2017,Hydrologic/Flooding,Spillway Erosion/Head Cutting,Erosion,-1,No,S,RE,R,N,46 ft,2050.0,125,1952,36.1983,-94.2183,-1,-1,-1,No
+GA,U,2/22/2019,Deterioration or Poor Condition,Erosion,-1,-1,No,P,RE,R,NR,25 ft,25.0,2,-1,33.5656,-84.4239,-1,-1,-1,Yes
+MO,-1,5/31/2013,Hydrologic/Flooding,Overtopping,-1,-1,-1,-1,RE,-1,-1,30 ft,-1.0,0,-1,39.0,93.0,-1,-1,-1,-1
+TX,L,8/31/2017,Hydrologic/Flooding,Sinkhole,Settlement,-1,-1,P,RE,R,NR,23 ft,83.0,15,1969,30.8569,-95.4225,-1,-1,-1,-1
+OH,S,4/27/2017,Deterioration or Poor Condition,Spillway Pipe Failure,-1,-1,-1,P,RE,R,Y,21 ft,58.0,2,-1,41.2875,-81.4819,-1,-1,3 days,Yes
+OH,S,7/1/2021,Deterioration or Poor Condition,Spillway Riser Failure,Sinkhole,-1,No,P,RE,R,Y,21 ft,58.0,2,-1,41.2875,-81.4819,-1,-1,-1,Yes
+TX,H,5/16/1947,Unknown,Spillway Deficiency,-1,-1,-1,L,RE,R,N,40 ft,2792.0,90,1939,36.2201,-100.64,1957,-1,-1,-1
+TX,S,9/27/1996,Hydrologic/Flooding,Overtopping,-1,-1,-1,L,RE,R,Y,11 ft,730.0,0,1958,30.6745,-94.4206,2009,-1,-1,-1
+MS,L,1/21/2010,Structural Stability,Slope Stability,-1,-1,No,P,RE,R,NR,39 ft,340.0,29,2002,31.7061,-88.9683,-1,-1,-1,-1
+TX,L,5/16/1981,Unknown,Spillway Deficiency,-1,-1,-1,P,RE,IR,NR,19 ft,1365.0,84,1982,32.763,-95.2558,-1,-1,-1,-1
+TX,S,5/11/2015,Hydrologic/Flooding,Spillway Deficiency,-1,-1,-1,L,RE,S,Y,49 ft,14400.0,649,1921,32.0764,-96.4058,1994,-1,-1,-1
+TX,S,10/25/2015,Hydrologic/Flooding,Spillway Erosion/Head Cutting,-1,-1,-1,L,RE,S,Y,49 ft,14400.0,649,1921,32.0764,-96.4058,1994,-1,-1,-1
+SD,L,5/5/2007,Hydrologic/Flooding,Spillway Erosion/Head Cutting,-1,-1,No,S,RE,R,NR,24 ft,340.0,0,1932,43.625,-97.805,1996,-1,-1,-1
+SD,L,9/12/2019,Hydrologic/Flooding,Spillway Erosion/Head Cutting,-1,-1,No,S,RE,R,NR,24 ft,340.0,0,1932,43.625,-97.805,1996,-1,-1,-1
+NJ,L,8/27/2011,Hydrologic/Flooding,Overtopping,-1,-1,No,-1,RE,R,-1,10 ft,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+OH,L,2/1/2014,Deterioration or Poor Condition,Spillway Riser Failure,-1,-1,No,P,RE,R,N,22 ft,113.0,13,1960,41.42,-82.29,-1,-1,-1,-1
+MS,H,9/26/2011,Deterioration or Poor Condition,Spillway Pipe Failure,Sinkhole,-1,Yes,L,RE,R,Y,25 ft,390.0,26,1925,31.8667,-90.4033,-1,-1,-1,-1
+SD,L,5/18/2018,Hydrologic/Flooding,Overtopping,-1,-1,No,S,RE,R,NR,27 ft,474.0,27,1926,0.0,0.0,-1,-1,-1,No
+OH,S,1/3/2023,Manmade Action,High Reservoir Level,-1,-1,Yes,S,RE,R,Y,34 ft,2461.0,130,1939,39.32,-82.3564,-1,-1,3 days,Yes
+TX,S,8/29/2017,Seepage/Internal Erosion,Piping,-1,-1,-1,P,RE,R,Y,19 ft,218.0,10,1958,30.6855,-94.3998,-1,-1,-1,-1
+TX,S,8/29/2017,Hydrologic/Flooding,Unknown,-1,-1,-1,P,RE,R,NR,22 ft,45.0,5,1971,30.0009,-96.9606,-1,-1,-1,-1
+MD,L,11/19/2004,Hydrologic/Flooding,Overtopping,-1,-1,No,S,VAMS,R,NR,35 ft,43.0,3,1936,39.6374,-78.3048,1936,-1,-1,-1
+TX,L,4/3/1999,Hydrologic/Flooding,Overtopping,-1,-1,-1,P,RE,RP,NR,12 ft,63.0,8,1963,30.7087,-94.8888,-1,-1,-1,-1
+CO,S,4/1/2013,Other,Other,-1,-1,-1,S,RE,RF,Y,27 ft,16128.0,612,1957,40.7672,-106.462,-1,-1,-1,-1
+OH,S,5/23/2023,Manmade Action,Excessive/Increased Seepage,-1,-1,No,S,RE,R,Y,29 ft,560.0,52,1945,39.085,-82.6733,-1,-1,1 day,Yes
+TX,L,4/24/2022,Unknown,Piping,-1,-1,-1,P,RE,R,NR,23 ft,500.0,119,1964,30.511,-94.4396,-1,-1,-1,-1
+TX,L,11/30/2015,Deterioration or Poor Condition,Spillway Pipe Failure,-1,-1,-1,P,RE,R,NR,23 ft,500.0,119,1964,30.511,-94.4396,-1,-1,-1,-1
+MO,H,1/1/2008,Structural Stability,Sliding,-1,-1,No,P,-1,-1,Y,90 ft,103.0,19,1999,38.7625,-91.0742,1998,-1,-1,-1
+PA,H,8/23/2010,Seepage/Internal Erosion,Excessive/Increased Seepage,-1,-1,No,P,RE,SR,-1,52 ft,-1.0,0,-1,39.5147,-76.5139,-1,-1,-1,-1
+NJ,H,4/4/2011,Other,Other,-1,-1,Yes,L,PGRE,R,Y,29 ft,6610.0,300,1879,39.4548,-74.7353,-1,12:00 AM,-1,-1
+TX,H,5/30/2015,Hydrologic/Flooding,Slope Stability,-1,-1,-1,L,RE,SRO,N,90 ft,72250.0,1590,1954,32.3627,-98.6756,1987,-1,-1,-1
+TX,H,4/26/2024,Hydrologic/Flooding,Spillway Erosion/Head Cutting,-1,-1,Unknown,U,-1,-1,Y,90 ft,1750000.0,83000,1969,30.625,-95.0265,-1,-1,-1,Yes
+TX,H,5/6/1969,Hydrologic/Flooding,Overtopping,-1,-1,-1,P,RE,R,N,23 ft,905.0,53,1966,30.5595,-94.8821,2009,-1,-1,-1
+TX,L,4/19/2009,Deterioration or Poor Condition,Spillway Pipe Failure,-1,-1,No,P,RE,R,NR,24 ft,196.0,25,1963,30.3699,-95.6297,-1,-1,-1,-1
+OH,H,7/1/2015,Hydrologic/Flooding,High Reservoir Level,-1,-1,No,P,RE,O,Y,30 ft,160.0,15,1922,41.3989,-81.3458,-1,-1,1 day,No
+MD,L,8/5/2018,Other,Slope Stability,-1,-1,No,P,RE,R,NR,50 ft,113.0,3,1973,39.4172,-77.3268,2003,-1,1 year,No
+TX,L,5/6/1969,Hydrologic/Flooding,Overtopping,-1,-1,-1,P,RE,R,NR,23 ft,290.0,10,1964,30.6749,-94.7424,-1,-1,-1,-1
+TX,L,8/29/2017,Hydrologic/Flooding,Sinkhole,-1,-1,-1,P,RE,R,NR,23 ft,290.0,10,1964,30.6749,-94.7424,-1,-1,-1,-1
+TX,L,6/21/1993,Structural Stability,Erosion,-1,-1,-1,P,RE,R,NR,28 ft,370.0,21,1945,31.6945,-95.5461,-1,-1,-1,-1
+PA,H,11/12/2009,Seepage/Internal Erosion,Erosion,Spillway Chute Failure,-1,No,L,RE,R,Y,22 ft,271.0,24,1967,39.7414,-77.3719,2010,-1,-1,-1
+TX,L,3/23/2012,Structural Stability,Slope Stability,-1,-1,No,P,RE,P,NR,35 ft,355.0,25,1963,32.585,-98.3183,-1,-1,-1,-1
+OH,H,3/29/2023,Other,Slope Stability,-1,-1,No,S,RE,R,Y,53 ft,46605.0,1780,1916,41.1272,-80.9778,-1,-1,1 day,Yes
+MD,L,3/1/2012,Unknown,Spillway Chute Failure,-1,-1,No,P,RE,R,NR,10 ft,26.0,0,1924,39.4563,-79.4648,-1,-1,-1,-1
+VA,H,1/5/2022,Deterioration or Poor Condition,Spillway Pipe Failure,Spillway Riser Failure,-1,-1,P,RE,R,Y,41 ft,607.0,25,-1,38.2694,-77.2068,-1,-1,-1,-1
+VA,H,1/5/2022,Deterioration or Poor Condition,Spillway Riser Failure,-1,-1,Yes,P,RE,R,Y,41 ft,607.0,25,-1,38.2694,-77.2068,-1,10:30,-1,Unknown
+OH,H,12/27/2015,Hydrologic/Flooding,Erosion,-1,-1,No,P,RE,O,Y,25 ft,58.0,5,-1,39.1333,-84.09,-1,-1,-1,Yes
+NY,L,9/6/2017,Seepage/Internal Erosion,Excessive/Increased Seepage,Piping,-1,No,L,RE,R,NR,17 ft,1093.0,62,1977,43.1141,-74.0097,-1,-1,1 week,No
+MD,H,6/27/2006,Seepage/Internal Erosion,High Reservoir Level,Excessive/Increased Seepage,-1,Yes,L,RE,RC,Y,65 ft,7023.0,74,1965,39.114,-77.1295,2007,-1,-1,-1
+NJ,S,8/27/2011,Hydrologic/Flooding,Overtopping,-1,-1,No,L,RE,R,Y,22 ft,143.0,13,1927,41.2145,-74.6257,-1,-1,-1,-1
+AK,-1,4/29/1972,Seepage/Internal Erosion,Piping,-1,-1,No,-1,-1,-1,-1,-1,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+TX,L,7/1/2007,Hydrologic/Flooding,Overtopping,-1,-1,-1,P,RE,R,NR,16 ft,191.0,12,1957,32.6475,-95.2786,2008,-1,-1,-1
+SC,S,10/8/2016,Hydrologic/Flooding,Unknown,-1,-1,No,P,RE,R,Y,15 ft,560.0,80,1955,34.1717,-79.8783,-1,-1,3 Days,No
+MO,H,4/30/2011,Structural Stability,Sliding,-1,-1,No,P,RE,R,N,37 ft,1143.0,73,1960,37.2506,-90.0281,1993,-1,-1,-1
+TX,L,9/1/1981,Hydrologic/Flooding,Overtopping,-1,-1,-1,P,RE,-1,NR,28 ft,550.0,30,1956,31.1743,-95.1855,-1,-1,-1,-1
+PA,H,9/7/2011,Hydrologic/Flooding,Overtopping,Erosion,-1,No,P,RE,R,Y,6 ft,18.0,3,1910,40.1531,-76.5894,-1,-1,-1,-1
+PA,S,9/17/2004,Hydrologic/Flooding,Overtopping,Erosion,Sinkhole,No,P,RE,-1,-1,13 ft,-1.0,0,-1,40.5434,-75.0803,-1,-1,1 DAY,-1
+VA,H,2/23/2019,Deterioration or Poor Condition,Gate/Valve Failure,Spillway Pipe Failure,-1,-1,-1,-1,-1,-1,-1,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+PA,H,1/24/2018,Hydrologic/Flooding,Reservoir Overfilling,Other,-1,No,P,MSREST,R,Y,12 ft,1244.0,118,1946,41.5081,-75.4261,-1,-1,-1,No
+PA,H,11/23/2017,Hydrologic/Flooding,Overtopping,-1,-1,Yes,P,MSREST,R,Y,12 ft,1244.0,118,1946,41.5081,-75.4261,-1,11:00:00 PM,2-3 DAYS,-1
+WI,H,12/7/2015,Structural Stability,Cracking,-1,-1,-1,L,PGRE,R,Y,50 ft,15200.0,612,1967,43.5867,-90.0871,-1,-1,-1,-1
+GA,H,4/30/2019,Hydrologic/Flooding,Erosion,-1,-1,Unknown,P,RE,R,N,33 ft,1579.0,75,1961,33.7042,-83.9797,-1,-1,-1,Unknown
+TX,L,6/20/1993,Hydrologic/Flooding,Overtopping,-1,-1,-1,P,RE,P,NR,23 ft,300.0,26,1935,32.1947,-94.6472,-1,-1,-1,-1
+MS,H,10/16/2013,Deterioration or Poor Condition,Spillway Chute Failure,-1,-1,No,P,RE,R,Y,28 ft,1803.0,135,1968,31.3167,-89.4322,1992,-1,-1,-1
+MS,H,8/29/2012,Deterioration or Poor Condition,Spillway Pipe Failure,-1,-1,Yes,P,RE,R,Y,24 ft,1037.0,68,1969,31.2931,-89.4333,-1,-1,-1,-1
+NJ,S,3/13/2010,Hydrologic/Flooding,Overtopping,-1,-1,-1,P,PGRE,R,Y,9 ft,376.0,79,-1,40.9698,-74.5972,-1,12:00 AM,-1,-1
+PA,H,7/31/2009,Hydrologic/Flooding,Overtopping,-1,-1,Yes,P,MSST,R,Y,10 ft,834.0,63,1872,41.5953,-75.7664,-1,-1,-1,-1
+VA,-1,8/3/2018,Hydrologic/Flooding,Spillway Erosion/Head Cutting,-1,-1,No,-1,-1,-1,-1,-1,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+MS,H,6/9/2021,Hydrologic/Flooding,Spillway Pipe Failure,-1,-1,Y,P,RE,R,Y,20 ft,46.0,5,1985,34.4079,-89.5555,-1,-1,-1,N
+GA,L,3/28/2023,Seepage/Internal Erosion,Unknown,-1,-1,No,P,RE,R,NR,16 ft,3054.0,285,1959,32.8994,-83.2869,-1,-1,1 day,No
+GA,L,5/1/2020,Deterioration or Poor Condition,Spillway Erosion/Head Cutting,-1,-1,No,P,RE,R,NR,16 ft,3054.0,285,1959,32.8994,-83.2869,-1,-1,1 day,No
+MS,H,1/21/2015,Seepage/Internal Erosion,Piping,-1,-1,-1,P,RE,R,Y,33 ft,650.0,0,1954,33.0956,-89.0728,2010,-1,-1,-1
+MS,H,5/1/2021,Manmade Action,Slope Stability,Accident or Misoperation,-1,N,P,RE,R,Y,33 ft,650.0,64,1954,33.0958,-89.0729,2010,-1,-1,N
+TX,L,10/17/1994,Unknown,Spillway Erosion/Head Cutting,-1,-1,-1,P,RE,R,NR,20 ft,280.0,35,1949,31.7697,-94.4845,-1,-1,-1,-1
+NC,-1,8/13/1916,Seepage/Internal Erosion,Piping,-1,-1,No,-1,-1,-1,-1,-1,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+CA,H,4/30/2019,Deterioration or Poor Condition,Spillway Chute Failure,-1,-1,Yes,P,RE,HS,N,30 ft,300.0,135,1916,39.322,-120.377,-1,-1,1 week,Yes
+PA,H,6/26/2006,Hydrologic/Flooding,Erosion,-1,-1,No,P,REMS,R,-1,26 ft,-1.0,0,1850,41.1006,-76.0124,-1,-1,3 DAYS,-1
+OH,H,6/22/2017,Seepage/Internal Erosion,Piping,-1,-1,-1,S,RE,R,Y,39 ft,7633.0,400,1935,39.1061,-83.0092,-1,-1,6 months,Yes
+OH,H,8/29/2014,Unknown,Under Investigation,-1,-1,Yes,S,RE,R,Y,39 ft,7633.0,400,1935,39.1,-83.0,-1,-1,-1,-1
+TX,H,3/10/2016,Unknown,Gate/Valve Failure,-1,-1,-1,S,RE,HR,Y,42 ft,27450.0,488,1931,29.4684,-97.4921,-1,-1,-1,-1
+MN,L,11/22/2019,Structural Stability,Foundation Deficiency,Slope Stability,-1,No,L,RE,O,NR,37 ft,518.0,0,-1,44.1695,-92.4304,-1,-1,-1,Yes
+TX,H,4/12/1983,Structural Stability,Sliding,-1,-1,-1,L,RE,R,N,9 ft,192.0,22,1925,30.1906,-95.1764,-1,-1,-1,-1
+MS,H,1/14/2020,Seepage/Internal Erosion,Spillway Chute Failure,-1,-1,N,P,RE,R,Y,21 ft,120.0,9,1930,32.3471,-88.6912,-1,-1,I day,Y
+VA,H,8/15/2020,Hydrologic/Flooding,Overtopping,Erosion,-1,-1,L,CNPG,HR,Y,39 ft,610.0,38,1920,37.2717,-77.4182,1991,-1,-1,Yes
+SC,S,9/16/2018,Hydrologic/Flooding,Piping,Spillway Pipe Failure,-1,No,P,RE,R,Y,24 ft,173.0,17,1900,34.7336,-80.1717,-1,-1,-1,-1
+MS,L,1/26/2016,Seepage/Internal Erosion,Piping,-1,-1,-1,P,RE,R,NR,14 ft,54.0,0,-1,32.2167,-90.3517,-1,-1,-1,-1
+CO,-1,9/13/2013,Hydrologic/Flooding,High Reservoir Level,-1,-1,-1,-1,-1,-1,-1,-1,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+MS,S,3/25/2021,Deterioration or Poor Condition,Overtopping,Vegetation,Animal Activity,N,-1,RE,R,-1,-1,-1.0,0,-1,32.3658,-88.6514,-1,6:30 PM,-1,N
+VA,U,3/14/2019,Hydrologic/Flooding,Overtopping,Erosion,-1,-1,P,RE,R,N,24 ft,124.0,10,1974,36.7242,-81.3635,-1,-1,-1,-1
+OH,S,3/16/2012,Seepage/Internal Erosion,Piping,-1,-1,Yes,P,RE,R,N,20 ft,88.8,8,1955,40.56,-82.77,-1,12:00 AM,-1,-1
+NC,S,10/8/2016,Hydrologic/Flooding,Overtopping,-1,-1,No,P,RE,R,N,12 ft,50.0,0,-1,35.011,-78.489,-1,-1,1day,-1
+PA,-1,7/1/1977,Unknown,Unknown,-1,-1,No,-1,RE,-1,-1,42 ft,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+TX,-1,10/1/2018,Unknown,Overtopping,-1,-1,-1,-1,RE,-1,-1,9 ft,20.0,0,-1,0.0,0.0,-1,-1,-1,-1
+PA,H,4/18/1984,Seepage/Internal Erosion,Sinkhole,-1,-1,No,L,RE,C,Y,90 ft,1544.0,0,1976,41.2081,-75.2475,2008,-1,-1,-1
+NE,L,6/24/2023,Hydrologic/Flooding,Overtopping,Insufficient Spillway Capacity,-1,No,P,RE,I,NR,35 ft,559.5,26,1977,42.9075,-98.7811,1993,9:30 AM,3 hours,No
+NH,L,11/5/2021,Seepage/Internal Erosion,Excessive/Increased Seepage,Animal Activity,Vegetation,-1,P,RE,R,NR,11 ft,9.0,1,1936,43.0177,-71.4263,-1,-1,26 days,Yes
+MA,-1,3/24/1968,Unknown,Unknown,-1,-1,No,-1,-1,-1,-1,-1,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+CO,H,9/15/2013,Hydrologic/Flooding,High Reservoir Level,-1,-1,-1,P,RE,I,Y,68 ft,2814.0,113,1952,40.0997,-105.261,2002,-1,-1,-1
+SC,L,10/8/2016,Hydrologic/Flooding,Unknown,-1,-1,No,P,RE,R,N,9 ft,460.0,92,1840,34.04,-79.34,-1,-1,1 Day,No
+TN,H,2/21/2023,Seepage/Internal Erosion,Excessive/Increased Seepage,Spillway Pipe Failure,Other,No,P,RE,R,Y,33 ft,83.0,6,1999,35.0292,-88.2458,-1,-1,1 day,Yes
+TN,H,2/22/2023,Seepage/Internal Erosion,Piping,Spillway Pipe Failure,-1,No,P,RE,R,Y,33 ft,83.0,6,1999,35.0292,-88.2458,-1,-1,2 days,Yes
+MO,S,4/29/2008,Structural Stability,Sinkhole,-1,-1,No,-1,RE,R,N,39 ft,135.0,3,1960,40.104,-93.7353,-1,-1,-1,-1
+TX,H,4/25/2009,Deterioration or Poor Condition,Spillway Pipe Failure,-1,-1,No,P,RE,CR,N,25 ft,322.0,20,1964,30.6338,-96.4119,-1,-1,-1,-1
+NJ,L,8/27/2011,Hydrologic/Flooding,Overtopping,-1,-1,No,-1,-1,R,-1,7 ft,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+TX,H,5/25/2015,Hydrologic/Flooding,Sliding,-1,-1,-1,P,RE,SRO,Y,57 ft,22000.0,1010,1969,30.4345,-95.5431,2012,-1,-1,-1
+TX,H,12/14/2015,Structural Stability,Slope Stability,-1,-1,-1,F,RE,SRCH,Y,130 ft,1804300.0,23280,1955,33.0667,-97.0167,-1,-1,-1,-1
+SC,H,10/4/2015,Hydrologic/Flooding,Overtopping,-1,-1,-1,P,RE,R,Y,20 ft,440.0,28,1900,33.9767,-81.23,-1,-1,-1,-1
+CO,H,9/12/2013,Hydrologic/Flooding,Other,-1,-1,-1,L,RE,CR,Y,46 ft,1300.0,19,1902,39.8383,-105.171,2001,-1,-1,-1
+NY,S,8/28/2011,Hydrologic/Flooding,Overtopping,-1,-1,No,P,RE,O,Y,10 ft,-1.0,10,1949,41.2822,-74.2461,-1,-1,-1,-1
+NH,S,8/28/2011,Hydrologic/Flooding,Unknown,-1,-1,Yes,L,ER,O,NR,19 ft,126.0,10,1987,44.0372,-71.6741,-1,-1,-1,-1
+PA,S,2/26/1917,Hydrologic/Flooding,Overtopping,Insufficient Spillway Capacity,-1,No,P,RE,IR,-1,11 ft,-1.0,0,1955,40.0407,-79.4201,-1,8:00:00 AM,1 DAY,No
+NJ,H,8/27/2011,Hydrologic/Flooding,Overtopping,-1,-1,No,P,PGRE,R,Y,24 ft,-1.0,20,-1,41.0745,-74.3707,-1,-1,-1,-1
+IA,L,4/22/2019,Hydrologic/Flooding,Overtopping,-1,-1,-1,L,PG,R,NR,9 ft,416.0,90,1924,42.8956,-95.2448,-1,-1,-1,-1
+IA,L,4/22/2019,Hydrologic/Flooding,Overtopping,-1,-1,-1,L,PG,R,NR,9 ft,416.0,90,1924,42.8956,-95.2448,-1,-1,-1,-1
+MS,L,3/12/2016,Seepage/Internal Erosion,Piping,-1,-1,-1,P,RE,R,NR,28 ft,196.75,17,2009,31.6619,-88.5728,-1,-1,-1,-1
+WI,S,6/14/2022,Seepage/Internal Erosion,Piping,-1,-1,No,F,PGCN,CHNR,Y,20 ft,650.0,155,1932,44.275,-88.3183,-1,-1,-1,-1
+WI,S,10/16/2023,Seepage/Internal Erosion,Sinkhole,-1,-1,-1,F,PGCN,CHNR,Y,20 ft,650.0,155,1932,44.275,-88.3183,-1,-1,-1,-1
+UT,-1,6/16/1963,Unknown,Unknown,-1,-1,No,-1,-1,-1,-1,-1,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+MD,S,4/1/2014,Deterioration or Poor Condition,Spillway Riser Failure,Excessive/Increased Seepage,-1,Yes,P,RE,C,Y,44 ft,523.0,5,1962,39.6404,-76.5275,1962,-1,one week,-1
+MD,S,10/24/2017,Hydrologic/Flooding,Animal Activity,Debris Clogging,-1,Yes,P,RE,C,Y,44 ft,523.0,5,1962,39.6404,-76.5275,1962,-1,-1,-1
+TX,L,5/30/2015,Hydrologic/Flooding,Sliding,-1,-1,-1,L,RE,CRP,NR,24 ft,1094.0,38,1970,33.3278,-96.8344,-1,-1,-1,-1
+CO,S,6/1/2013,Seepage/Internal Erosion,High Reservoir Level,-1,-1,-1,P,RE,R,Y,65 ft,1570.0,52,1968,40.2617,-106.113,-1,-1,-1,-1
+MD,L,6/12/2014,Hydrologic/Flooding,High Reservoir Level,-1,-1,Yes,P,RE,R,NR,17 ft,66.0,7,1953,39.6844,-78.2553,1953,-1,-1,-1
+MD,-1,1/1/2008,Unknown,Unknown,-1,-1,Yes,-1,-1,-1,-1,-1,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+PA,H,9/8/2011,Hydrologic/Flooding,Overtopping,-1,-1,Yes,L,MSREST,R,Y,16 ft,41.0,6,1915,40.1558,-75.2047,-1,-1,1 DAY,-1
+NC,H,10/8/2016,Hydrologic/Flooding,Overtopping,-1,-1,No,P,RE,R,N,21 ft,109.2,0,-1,35.07,-78.998,-1,-1,1 day,-1
+NY,S,8/28/2011,Hydrologic/Flooding,Overtopping,-1,-1,No,P,-1,R,N,12 ft,98.0,19,1950,41.4156,-73.9072,-1,-1,-1,-1
+PA,S,6/10/1916,Structural Stability,Slope Stability,Sliding,-1,No,L,RE,S,Y,30 ft,431.0,31,1897,40.8722,-76.045,-1,-1,1 YEAR,-1
+NE,L,5/1/2015,Hydrologic/Flooding,Overtopping,-1,-1,No,P,RE,I,NR,19 ft,504.0,46,1954,42.9161,-103.316,-1,-1,-1,No
+AK,L,9/11/2015,Hydrologic/Flooding,Gate/Valve Failure,-1,-1,-1,U,CNPG,H,NR,30 ft,147000.0,1375,1973,58.1667,-133.733,-1,-1,-1,Yes
+AK,L,9/27/2021,Malfunction of Equipment/Gate,Gate/Valve Failure,-1,-1,No,U,CNPG,H,NR,30 ft,147000.0,1375,1973,58.1667,-133.733,-1,-1,-1,Yes
+NC,L,10/8/2016,Hydrologic/Flooding,Overtopping,-1,-1,No,S,RE,RI,NR,18 ft,672.0,0,-1,35.213,-78.976,2010,-1,1 day,-1
+NM,H,7/8/2011,Hydrologic/Flooding,Other,-1,-1,-1,L,RE,S,Y,40 ft,33.0,2,1943,35.8835,-106.354,2013,-1,-1,-1
+TX,S,1/1/1990,Structural Stability,Sliding,-1,-1,-1,L,RE,S,Y,99 ft,21831.0,0,1991,33.2404,-98.1203,-1,-1,-1,-1
+MI,L,5/21/2010,Hydrologic/Flooding,Overtopping,-1,-1,-1,-1,RE,R,Y,12 ft,210.0,25,1956,41.855,-84.5011,-1,-1,-1,-1
+TX,S,6/10/2010,Hydrologic/Flooding,Overtopping,-1,-1,No,P,RE,R,Y,23 ft,568.0,36,1929,32.3153,-95.4152,-1,-1,-1,-1
+WA,-1,4/1/1938,Unknown,Unknown,-1,-1,No,-1,HF,-1,-1,-1,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+PA,H,3/11/2011,Seepage/Internal Erosion,Excessive/Increased Seepage,-1,-1,No,P,MSREST,R,Y,15 ft,315.0,34,1919,41.8069,-75.7742,-1,-1,1 DAY,-1
+PA,H,6/26/2006,Hydrologic/Flooding,Overtopping,Erosion,-1,No,P,MSREST,R,Y,15 ft,315.0,34,1919,41.8069,-75.7742,-1,-1,3 DAYS,-1
+CO,H,5/5/2015,Hydrologic/Flooding,High Reservoir Level,-1,-1,Yes,L,ER,S,Y,46 ft,34.0,2,1903,39.706,-105.411,1936,-1,-1,-1
+CA,L,6/26/2018,Seepage/Internal Erosion,Excessive/Increased Seepage,-1,-1,No,P,RE,H,NR,40 ft,5091.0,198,1885,38.6088,-119.927,-1,-1,-1,Yes
+TX,L,5/26/2015,Structural Stability,Sliding,-1,-1,-1,L,RE,CP,NR,34 ft,710.0,19,1960,30.6204,-97.3388,-1,-1,-1,-1
+TX,L,5/26/2015,Structural Stability,Sliding,-1,-1,-1,L,RE,CIP,NR,34 ft,547.0,15,1960,30.6452,-97.2906,-1,-1,-1,-1
+NY,H,8/28/2011,Hydrologic/Flooding,Overtopping,-1,-1,No,F,RE,R,N,10 ft,-1.0,0,-1,41.3538,-73.9774,-1,-1,-1,-1
+TX,H,5/16/2024,Hydrologic/Flooding,Spillway Erosion/Head Cutting,-1,-1,Unknown,L,RE,CPR,Y,29 ft,2017.0,141,1953,32.5495,-96.4174,-1,-1,-1,Yes
+TX,H,5/30/2015,Hydrologic/Flooding,Spillway Deficiency,-1,-1,-1,L,RE,CRP,N,29 ft,2017.0,141,1953,32.5495,-96.4174,-1,-1,-1,-1
+TX,H,5/7/2024,Hydrologic/Flooding,Spillway Erosion/Head Cutting,-1,-1,Unknown,L,RE,CPR,Y,27 ft,1800.0,143,1953,32.5587,-96.3943,-1,-1,-1,Yes
+CA,-1,12/22/1964,Unknown,Unknown,-1,-1,No,-1,ER,-1,-1,410 ft,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+NH,S,6/22/2020,Seepage/Internal Erosion,Piping,Excessive/Increased Seepage,-1,No,P,CNTC,H,Y,16 ft,31.0,2,1934,43.6,-71.748,1937,-1,68 days,Yes
+WI,H,4/24/2023,Seepage/Internal Erosion,Piping,-1,-1,No,X,PGRE,HNR,Y,16 ft,200.0,40,1857,44.2798,-88.2556,1940,-1,-1,-1
+PA,H,7/16/2010,Seepage/Internal Erosion,Excessive/Increased Seepage,-1,-1,No,P,RE,R,Y,19 ft,254.0,22,1960,41.2533,-75.4508,2007,-1,-1,-1
+PA,H,10/22/2012,Seepage/Internal Erosion,Excessive/Increased Seepage,-1,-1,No,P,RE,R,Y,19 ft,254.0,22,1960,41.2533,-75.4508,2007,-1,-1,-1
+VA,S,6/11/2014,Seepage/Internal Erosion,Piping,-1,-1,-1,-1,-1,-1,N,11 ft,49.6,0,-1,37.4373,-77.4567,-1,-1,-1,-1
+CA,-1,1/21/1916,Hydrologic/Flooding,Overtopping,-1,-1,No,-1,-1,-1,-1,-1,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+AK,S,9/18/2023,Hydrologic/Flooding,Overtopping,Spillway Deficiency,Other,Yes,P,ER,T,Y,44 ft,910.0,75,2024,58.8136,-135.04,-1,7:00 AM,approx 1 month,Unknown
+WI,L,3/25/2022,Seepage/Internal Erosion,Piping,-1,-1,Yes,S,RE,R,Y,7 ft,150.0,40,1962,45.3972,-90.6176,-1,-1,-1,-1
+MT,-1,6/8/1964,Unknown,Unknown,-1,-1,No,-1,-1,-1,-1,-1,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+IN,-1,1/1/2008,Unknown,Unknown,-1,-1,No,-1,-1,-1,-1,-1,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+TX,S,5/30/2015,Hydrologic/Flooding,Spillway Deficiency,-1,-1,-1,L,RE,R,Y,25 ft,642.0,42,1933,33.7296,-96.588,-1,-1,-1,-1
+KY,H,2/26/2018,Structural Stability,Slope Stability,Sliding,-1,-1,L,RE,R,Y,25 ft,937.0,59,1940,37.2131,-87.196,-1,-1,-1,Yes
+AZ,-1,4/14/1915,Seepage/Internal Erosion,Piping,-1,-1,No,-1,-1,-1,-1,-1,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+VT00000,L,7/10/2023,Hydrologic/Flooding,Unknown,-1,-1,No,P,RE,R,NR,8 ft,12.0,3,-1,43.2341,-72.8944,-1,-1,-1,No
+SC,L,10/4/2015,Hydrologic/Flooding,Overtopping,-1,-1,-1,P,RE,R,N,24 ft,90.0,9,1971,33.8983,-80.7283,-1,-1,-1,-1
+NC,-1,1/1/2008,Hydrologic/Flooding,Unknown,-1,-1,No,-1,-1,-1,-1,-1,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+NE,L,1/1/2012,Seepage/Internal Erosion,Piping,-1,-1,No,P,RE,I,NR,25 ft,238.0,21,1947,42.987,-103.814,-1,-1,-1,No
+MS,L,12/27/2012,Deterioration or Poor Condition,Animal Activity,-1,-1,No,-1,RE,R,-1,8 ft,-1.0,0,-1,33.0,-90.0,-1,-1,-1,-1
+TX,S,6/14/1981,Hydrologic/Flooding,Overtopping,-1,-1,-1,P,RE,R,N,30 ft,140.0,0,1968,29.7406,-98.863,-1,-1,-1,-1
+VA,L,7/27/2022,Deterioration or Poor Condition,Other,-1,-1,No,P,RE,R,Y,34 ft,105.0,14,-1,38.3734,-78.2164,-1,-1,-1,Unknown
+UT,H,6/24/1917,Other,Overtopping,-1,-1,-1,P,RECN,I,-1,67 ft,-1.0,0,0,39.7157,-111.299,-1,-1,-1,YES
+CO,H,9/18/2013,Seepage/Internal Erosion,Excessive/Increased Seepage,-1,-1,-1,L,RE,S,Y,124 ft,1100.0,27,1971,38.8767,-104.994,1998,-1,-1,-1
+TX,S,10/25/2015,Hydrologic/Flooding,Spillway Deficiency,-1,-1,-1,P,RE,-1,Y,16 ft,108.0,0,1957,31.4314,-96.9698,-1,-1,-1,-1
+OH,S,1/27/2012,Deterioration or Poor Condition,Spillway Pipe Failure,-1,-1,No,P,RE,R,N,27 ft,22.9,2,1970,40.55,-81.63,-1,12:00 AM,-1,-1
+PA,L,12/1/2010,Deterioration or Poor Condition,Overtopping,-1,-1,No,L,CN,S,-1,6 ft,-1.0,0,-1,40.011,-80.0542,-1,-1,-1,-1
+KY,S,4/27/2022,Seepage/Internal Erosion,Piping,-1,-1,No,L,RE,S,NR,28 ft,804.0,51,1964,37.3024,-88.0906,-1,-1,-1,Yes
+WI,-1,5/27/2020,Unknown,Debris Clogging,Animal Activity,-1,No,-1,-1,-1,-1,0 ft,0.0,0,0,0.0,0.0,-1,-1,1 day,Yes
+CO,H,11/23/2015,Seepage/Internal Erosion,Excessive/Increased Seepage,-1,-1,-1,U,RE,S,Y,33 ft,21100.0,652,1899,39.6237,-105.062,-1,-1,-1,-1
+MD,-1,5/5/2016,Deterioration or Poor Condition,Spillway Pipe Failure,Accident or Misoperation,-1,No,-1,RE,-1,-1,22 ft,25.0,0,-1,39.5237,-76.4438,-1,-1,-1,-1
+PA,H,9/8/2011,Hydrologic/Flooding,Overtopping,Erosion,-1,Yes,L,RE,C,Y,52 ft,180.0,1,1967,41.7647,-75.7467,-1,-1,1 DAY,-1
+WY,L,5/23/2015,Hydrologic/Flooding,Spillway Pipe Failure,Overtopping,Piping,No,P,RE,I,NR,40 ft,106.0,9,1954,42.0217,-105.24,-1,-1,-1,-1
+GA,L,5/19/2013,Hydrologic/Flooding,Overtopping,-1,-1,No,P,RE,R,NR,25 ft,108.0,0,1930,34.1933,-84.1244,-1,12:00 AM,-1,-1
+DE,L,8/28/2011,Hydrologic/Flooding,Overtopping,-1,-1,No,S,REPG,RF,NR,12 ft,490.0,36,1933,39.2395,-75.6175,-1,-1,-1,-1
+VA,U,6/5/2020,Structural Stability,Sinkhole,-1,-1,-1,X,RE,R,N,14 ft,1162.0,0,-1,37.0414,-76.4873,-1,-1,-1,Yes
+NC,H,10/8/2016,Hydrologic/Flooding,Overtopping,-1,-1,No,P,RE,R,N,14 ft,130.0,0,-1,35.07,-77.7878,-1,-1,1 day,-1
+MS,H,12/28/2015,Hydrologic/Flooding,Overtopping,-1,-1,-1,P,RE,R,Y,21 ft,373.0,23,1948,34.9678,-89.8506,-1,-1,-1,-1
+OH,S,7/8/2016,Seepage/Internal Erosion,Cracking,-1,-1,No,S,RE,O,Y,21 ft,24.0,1,-1,38.6578,-83.1778,-1,-1,-1,No
+TX,S,8/4/1978,Hydrologic/Flooding,Overtopping,-1,-1,-1,L,RE,S,Y,50 ft,6696.0,263,1942,32.6582,-99.3597,1980,-1,-1,-1
+CA,H,12/14/2022,Unknown,Other,-1,-1,No,P,RE,H,Y,241 ft,35234.0,520,1965,41.1309,-122.071,-1,-1,2 weeks,Yes
+SC,L,9/16/2018,Hydrologic/Flooding,Overtopping,Erosion,-1,No,P,RE,R,NR,14 ft,72.0,10,-1,34.4948,-79.4096,-1,-1,-1,-1
+SC,L,10/4/2015,Hydrologic/Flooding,Overtopping,-1,-1,-1,P,RE,R,N,14 ft,71.0,52,1908,33.885,-80.4617,-1,-1,-1,-1
+WI,S,6/10/2011,Seepage/Internal Erosion,Piping,-1,-1,No,L,CNRE,-1,Y,21 ft,2160.0,261,1855,44.4928,-89.5558,1962,-1,-1,-1
+TN,L,2/27/2023,Seepage/Internal Erosion,Other,-1,-1,No,L,RE,-1,N,-1,-1.0,0,-1,35.4271,-85.1073,-1,-1,1 day,No
+NY,H,8/28/2011,Hydrologic/Flooding,Spillway Erosion/Head Cutting,-1,-1,No,S,CB,R,Y,37 ft,735.0,147,1968,44.8689,-73.675,-1,-1,-1,-1
+TX,L,5/13/2004,Hydrologic/Flooding,Overtopping,-1,-1,-1,P,RE,R,NR,15 ft,360.0,38,1961,30.9151,-96.5518,-1,-1,-1,-1
+VA,U,3/18/2022,Deterioration or Poor Condition,Erosion,Spillway Pipe Failure,-1,No,P,RE,R,N,23 ft,93.0,0,1969,37.7263,-78.2871,-1,-1,-1,-1
+VA,U,3/21/2022,Deterioration or Poor Condition,Spillway Pipe Failure,Spillway Riser Failure,-1,-1,P,RE,R,N,23 ft,93.0,0,1969,37.7263,-78.2871,-1,-1,-1,-1
+SC,S,9/16/2018,Hydrologic/Flooding,Debris Clogging,Overtopping,Erosion,No,P,RE,R,Y,11 ft,472.0,76,1900,34.6754,-79.7581,-1,-1,-1,-1
+NM,S,8/1/2022,Hydrologic/Flooding,Overtopping,-1,-1,-1,L,RE,C,N,25 ft,720.0,70,1951,32.7384,-107.257,1993,-1,-1,-1
+KY,H,5/14/2017,Seepage/Internal Erosion,Piping,-1,-1,Unknown,P,RE,R,NR,19 ft,126.0,19,1956,37.6098,-87.2526,-1,-1,-1,Yes
+CA,S,4/17/2012,Manmade Action,Spillway Pipe Failure,-1,-1,No,P,RE,IS,NR,52 ft,878.0,26,1957,37.6997,-120.201,-1,-1,-1,-1
+SC,L,9/16/2018,Hydrologic/Flooding,Spillway Erosion/Head Cutting,Overtopping,-1,No,P,RE,R,NR,7 ft,95.0,19,1950,34.7377,-79.7993,-1,-1,-1,-1
+TX,H,6/13/1973,Hydrologic/Flooding,Overtopping,-1,-1,-1,P,RE,R,Y,20 ft,305.0,17,1960,30.3845,-95.338,-1,-1,-1,-1
+CO,L,9/12/2013,Hydrologic/Flooding,Unknown,-1,-1,-1,-1,RE,R,NR,30 ft,92.0,6,1957,40.2621,-105.419,-1,-1,-1,-1
+NH,L,7/29/2021,Deterioration or Poor Condition,Spillway Riser Failure,Sinkhole,Spillway Pipe Failure,-1,S,RE,R,NR,14 ft,105.0,18,1975,43.201,-71.2054,1991,-1,-1,Yes
+TX,S,7/1/2007,Seepage/Internal Erosion,Piping,-1,-1,-1,P,RE,R,Y,16 ft,223.0,9,1950,32.6789,-96.3036,2008,-1,-1,-1
+TX,H,5/28/1982,Unknown,Spillway Deficiency,-1,-1,-1,P,RE,R,N,19 ft,129.0,0,1959,32.8332,-97.2478,-1,-1,-1,-1
+NY,-1,01/01/1897,Unknown,Unknown,-1,-1,No,-1,RE,-1,-1,-1,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+WI,H,7/19/2022,Seepage/Internal Erosion,Piping,-1,-1,No,F,PGCN,CSNFR,Y,16 ft,2430000.0,173000,1937,44.2,-88.4467,-1,-1,-1,-1
+SD,H,4/1/2019,Hydrologic/Flooding,Spillway Erosion/Head Cutting,Animal Activity,-1,No,S,RE,R,Y,53 ft,2050.0,48,1935,43.2617,-97.6167,1996,-1,-1,-1
+SD,H,6/12/1984,Hydrologic/Flooding,Overtopping,Insufficient Spillway Capacity,-1,-1,S,RE,R,Y,53 ft,2050.0,48,1935,43.2617,-97.6167,1996,7:00,-1,-1
+SD,H,8/1/2019,Hydrologic/Flooding,Spillway Erosion/Head Cutting,Animal Activity,-1,No,S,RE,R,Y,53 ft,2050.0,48,1935,43.2617,-97.6167,1996,-1,-1,-1
+NY,S,8/28/2011,Hydrologic/Flooding,High Reservoir Level,-1,-1,No,L,RE,R,Y,50 ft,96.0,10,1953,41.3753,-74.1853,-1,-1,-1,-1
+NY,S,8/28/2011,Hydrologic/Flooding,Spillway Chute Failure,High Reservoir Level,-1,Yes,P,-1,H,N,10 ft,80.0,9,1902,43.0864,-73.4956,-1,-1,-1,-1
+MO,L,12/29/2015,Deterioration or Poor Condition,Spillway Pipe Failure,-1,-1,No,P,RE,R,N,49 ft,270.0,18,1971,37.5711,-90.8693,2001,-1,-1,-1
+MT,-1,1/1/1975,Unknown,Unknown,-1,-1,No,-1,-1,-1,-1,-1,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+MS,S,8/29/2012,Hydrologic/Flooding,Overtopping,-1,-1,-1,-1,RE,R,-1,18 ft,-1.0,0,2005,0.0,0.0,-1,-1,-1,-1
+PA,H,9/8/2011,Hydrologic/Flooding,Overtopping,-1,-1,Yes,S,MS,OR,Y,25 ft,24.0,1,1937,40.3286,-76.1114,-1,-1,-1,-1
+MD,L,6/25/2006,Hydrologic/Flooding,Unknown,-1,-1,No,P,RE,RI,NR,11 ft,78.0,11,1930,38.5947,-75.8272,1999,-1,-1,-1
+MD,-1,7/7/2017,Hydrologic/Flooding,Unknown,-1,-1,No,-1,RE,-1,-1,10 ft,25.0,0,-1,38.3193,-76.5177,-1,-1,-1,-1
+MA,H,01/01/1874,Unknown,Unknown,-1,-1,No,-1,RE,O,-1,40 ft,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+AZ,H,7/24/2021,Malfunction of Equipment/Gate,High Reservoir Level,Piping,Animal Activity,No,P,RE,CI,N,35 ft,2800.0,125,1958,34.4306,-110.041,-1,7:00 PM,Hours,No
+CO,H,10/7/2020,Seepage/Internal Erosion,Excessive/Increased Seepage,Overtopping,-1,Yes,F,RE,IR,Y,25 ft,240.0,0,1953,37.6226,-106.67,2009,9:30 AM,3 hours,No
+PA,L,6/1/2013,Unknown,Overtopping,-1,-1,-1,F,RECN,F,-1,5 ft,-1.0,0,-1,41.2406,-79.0454,-1,-1,-1,-1
+SD,S,4/4/2019,Hydrologic/Flooding,Spillway Chute Failure,-1,-1,No,S,RE,R,N,32 ft,19000.0,850,1934,45.4417,-98.7317,2001,-1,-1,-1
+NY,S,8/28/2011,Hydrologic/Flooding,Overtopping,-1,-1,Yes,F,CN,TSR,Y,22 ft,235.0,25,1845,41.2045,-74.0236,1982,-1,-1,-1
+PA,H,4/1/2013,Deterioration or Poor Condition,Spillway Chute Failure,-1,-1,No,S,RE,R,Y,27 ft,1793.0,117,1970,40.9117,-75.1697,-1,-1,-1,-1
+CO,L,9/13/2013,Hydrologic/Flooding,Unknown,-1,-1,-1,-1,-1,-1,-1,-1,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+NC,H,10/8/2016,Hydrologic/Flooding,Overtopping,-1,-1,No,L,RE,R,Y,12 ft,24.0,0,-1,35.0544,-78.9222,2002,-1,1 day,-1
+CA,H,6/3/2019,Other,Other,-1,-1,Yes,U,RE,CS,Y,96 ft,3600.0,113,1920,40.5003,-122.697,-1,-1,-1,Yes
+GA,-1,6/5/2013,Hydrologic/Flooding,Spillway Pipe Failure,Slope Stability,-1,No,-1,-1,-1,-1,-1,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+NC,-1,1/1/2008,Hydrologic/Flooding,Unknown,-1,-1,No,-1,-1,-1,-1,-1,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+WI,H,8/28/2018,Hydrologic/Flooding,Abutment Failure,Erosion,-1,Yes,L,RE,CD,Y,35 ft,257.0,18,1956,43.7122,-90.7524,-1,-1,1 day,Yes
+CA,H,3/22/2018,Other,Insufficient Spillway Capacity,Reservoir Overfilling,Spillway Erosion/Head Cutting,Yes,L,RE,HOS,Y,60 ft,554.0,29,1930,37.8123,-120.306,-1,-1,2 days,Yes
+CO,L,8/8/2013,Seepage/Internal Erosion,Piping,-1,-1,-1,-1,RE,IP,NR,39 ft,29943.0,420,1921,37.3283,-104.389,-1,-1,-1,-1
+MO,L,3/15/2016,Structural Stability,Sliding,-1,-1,-1,P,RE,S,NR,26 ft,125.0,9,1970,37.7258,-91.2425,-1,-1,-1,-1
+NY,S,8/28/2011,Hydrologic/Flooding,Overtopping,-1,-1,No,L,OTRE,R,Y,14 ft,68.0,13,1936,41.3242,-74.1869,-1,-1,-1,-1
+WI,L,10/13/2021,Structural Stability,Erosion,Foundation Deficiency,Settlement,No,S,OTPG,O,Y,13 ft,19000.0,2210,1922,43.7857,-89.3287,-1,-1,1 day,Yes
+CO,H,6/5/2013,Seepage/Internal Erosion,Excessive/Increased Seepage,-1,-1,-1,L,ER,S,Y,112 ft,6100.0,95,1956,39.3533,-106.074,-1,-1,-1,-1
+PA,H,7/22/2018,Hydrologic/Flooding,Overtopping,Excessive/Increased Seepage,-1,Yes,P,CNRE,R,Y,12 ft,54.0,14,-1,40.7186,-76.38,-1,-1,5 DAYS,-1
+SC,H,6/1/2018,Deterioration or Poor Condition,Spillway Erosion/Head Cutting,-1,-1,No,P,RE,PR,Y,22 ft,74.0,7,1969,34.9828,-82.2257,-1,-1,-1,-1
+TX,L,12/27/2015,Hydrologic/Flooding,Spillway Deficiency,-1,-1,-1,P,RE,R,NR,21 ft,58.0,0,1969,32.1634,-95.7848,-1,-1,-1,-1
+NC,-1,1/1/2008,Seepage/Internal Erosion,Piping,-1,-1,No,-1,-1,-1,-1,-1,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+NC,-1,1/1/2008,Seepage/Internal Erosion,Piping,-1,-1,No,-1,-1,-1,-1,-1,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+PA,L,6/26/2006,Hydrologic/Flooding,Overtopping,-1,-1,-1,P,RE,R,-1,15 ft,-1.0,0,1969,41.5531,-75.4649,-1,-1,3 DAYS,-1
+NE,L,6/12/2010,Hydrologic/Flooding,Overtopping,-1,-1,No,-1,RE,O,-1,20 ft,-1.0,0,1960,0.0,0.0,-1,-1,-1,-1
+NC,S,6/7/2013,Hydrologic/Flooding,Overtopping,-1,-1,No,P,RE,P,N,12 ft,153.0,0,-1,35.379,-79.132,-1,-1,-1,-1
+MD,H,8/12/2017,Hydrologic/Flooding,Insufficient Spillway Capacity,Erosion,-1,Yes,L,RE,RI,Y,12 ft,191.0,11,1947,38.326,-75.6024,2018,-1,-1,-1
+MD,H,10/1/2018,Hydrologic/Flooding,Overtopping,Debris Clogging,-1,No,L,RE,RI,Y,12 ft,191.0,11,1947,38.326,-75.6024,2018,-1,1 year,No
+TX,S,5/30/2016,Hydrologic/Flooding,Overtopping,-1,-1,-1,P,RE,R,N,26 ft,342.0,39,1942,29.7839,-99.0648,1990,-1,-1,-1
+TX,H,2/23/2000,Unknown,Spillway Deficiency,-1,-1,-1,L,RE,SR,Y,67 ft,5700.0,146,1939,32.2436,-101.311,-1,-1,-1,-1
+PA,H,7/11/2012,Structural Stability,Cracking,-1,-1,Yes,L,MSRE,S,Y,39 ft,852.0,48,1879,40.7703,-76.2311,2013,5:00:00 PM,-1,-1
+TX,H,5/30/2015,Hydrologic/Flooding,Sliding,-1,-1,-1,P,RE,O,Y,47 ft,64372.0,2880,1936,32.7326,-96.9437,1999,-1,-1,-1
+TX,H,5/27/2015,Hydrologic/Flooding,Overtopping,-1,-1,-1,L,RE,CR,N,43 ft,6457.0,90,1956,32.498,-97.0421,-1,-1,-1,-1
+TX,H,2/22/2018,Unknown,Unknown,-1,-1,-1,P,RE,IR,Y,18 ft,150.0,15,1960,32.4897,-97.3652,1980,-1,-1,-1
+NY,L,8/28/2011,Hydrologic/Flooding,Overtopping,-1,-1,No,L,RE,R,N,16 ft,66.0,11,1973,41.6969,-74.5181,-1,-1,-1,-1
+MS,L,6/25/2021,Deterioration or Poor Condition,Vegetation,Animal Activity,Foundation Deficiency,N,P,RE,R,NR,11 ft,225.0,31,-1,30.7187,-89.5491,-1,Night,-1,Y
+MS,U,4/16/2021,Hydrologic/Flooding,-1,-1,-1,N,P,RE,R,NR,10 ft,79.0,12,-1,30.6417,-89.7075,-1,-1,-1,N
+MS,U,2/11/2020,Hydrologic/Flooding,Overtopping,-1,-1,N,P,RE,R,NR,9 ft,62.0,10,-1,32.8335,-90.3566,-1,-1,-1,N
+MS,L,4/6/2021,Hydrologic/Flooding,-1,-1,-1,N,P,RE,R,NR,18 ft,235.0,19,-1,34.5871,-89.3807,-1,-1,-1,Y
+MS,U,4/12/2020,Hydrologic/Flooding,Overtopping,Foundation Deficiency,-1,N,P,RE,R,NR,29 ft,131.0,7,-1,32.8735,-89.4027,-1,-1,1 day,N
+KY,S,6/1/2022,Structural Stability,Slope Stability,-1,-1,No,L,RE,S,NR,61 ft,5265.0,172,1960,38.0199,-83.8469,-1,-1,-1,No
+NC,H,10/8/2016,Hydrologic/Flooding,Overtopping,-1,-1,No,P,RE,R,N,14 ft,4056.0,0,-1,34.853,-78.876,-1,-1,1 day,-1
+MA,-1,01/01/1886,Seepage/Internal Erosion,Piping,-1,-1,No,-1,-1,-1,-1,-1,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+DE,-1,8/28/2011,Hydrologic/Flooding,Overtopping,-1,-1,No,-1,-1,-1,-1,-1,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+WI,L,5/28/2015,Seepage/Internal Erosion,Sinkhole,-1,-1,-1,S,RE,F,N,9 ft,1250.0,300,1971,43.7582,-88.176,-1,-1,-1,-1
+NJ,S,8/27/2011,Hydrologic/Flooding,Overtopping,-1,-1,No,S,PGRE,R,N,19 ft,-1.0,10,1922,39.7346,-75.2213,-1,-1,-1,-1
+MS,L,1/28/2020,Deterioration or Poor Condition,Sinkhole,-1,-1,N,P,RE,R,No,-1,-1.0,3,-1,32.3661,-88.77,-1,-1,-1,N
+SC,S,10/4/2015,Hydrologic/Flooding,Overtopping,-1,-1,-1,P,RE,R,N,16 ft,1310.0,148,1930,33.985,-80.7083,-1,-1,-1,-1
+OH,S,2/23/2012,Deterioration or Poor Condition,Other,-1,-1,Yes,S,OTOT,R,Y,15 ft,2999.0,442,1841,39.64,-81.85,-1,12:00 AM,-1,-1
+OH,S,4/1/2015,Deterioration or Poor Condition,Erosion,-1,-1,No,S,OT,O,Y,15 ft,2999.0,442,1841,39.6439,-81.8503,-1,-1,1 week,No
+CO,-1,1/1/1978,Seepage/Internal Erosion,Piping,-1,-1,No,-1,-1,-1,-1,-1,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+TX,L,4/25/1990,Hydrologic/Flooding,Overtopping,-1,-1,-1,P,RE,R,NR,33 ft,595.0,41,1947,32.123,-98.6038,1991,-1,-1,-1
+TX,S,7/18/2007,Unknown,Spillway Deficiency,-1,-1,-1,P,RE,R,Y,19 ft,293.0,18,1963,30.2923,-95.7233,2010,-1,-1,-1
+PA,H,2/23/2012,Seepage/Internal Erosion,Settlement,-1,-1,No,U,MSREST,HS,Y,101 ft,5034.0,116,1903,41.3264,-75.6536,2012,-1,-1,-1
+WI,H,10/21/2022,Deterioration or Poor Condition,Spillway Pipe Failure,-1,-1,Yes,P,PGRE,O,Y,15 ft,440.0,55,1914,44.1758,-87.6507,-1,-1,-1,-1
+OK,S,6/1/2022,Hydrologic/Flooding,Insufficient Spillway Capacity,Overtopping,-1,No,L,RE,S,NR,43 ft,1424.0,54,1965,35.742,-96.0256,-1,-1,-1,Investigation
+NJ,S,8/5/2014,Hydrologic/Flooding,Erosion,-1,-1,-1,P,PGRE,R,Y,40 ft,166.0,15,1967,40.5893,-74.9022,-1,-1,-1,-1
+NJ,L,10/2/2023,Hydrologic/Flooding,Overtopping,-1,-1,No,P,RE,I,NR,7 ft,-1.0,0,0,40.1758,-75.5676,-1,-1,-1,-1
+NJ,L,8/27/2011,Hydrologic/Flooding,Overtopping,-1,-1,No,L,PGRE,R,NR,15 ft,98.0,10,1970,40.0566,-74.5475,-1,-1,-1,-1
+SD,L,9/11/2019,Hydrologic/Flooding,Unknown,-1,-1,No,S,RE,R,NR,18 ft,177.0,14,1965,43.6217,-98.355,-1,-1,-1,-1
+OH,L,5/23/2022,Deterioration or Poor Condition,Spillway Riser Failure,Sinkhole,-1,No,P,RE,R,N,19 ft,83.1,4,1997,39.2917,-84.3036,-1,-1,1 day,Yes
+NH,S,12/5/2022,Deterioration or Poor Condition,Under Investigation,Excessive/Increased Seepage,-1,No,L,RE,S,Y,24 ft,335.0,22,1933,42.8422,-71.7711,-1,-1,-1,No
+NC,-1,2/22/1976,Unknown,Unknown,-1,-1,No,-1,-1,-1,-1,-1,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+SD,L,5/23/2019,Hydrologic/Flooding,Spillway Pipe Failure,-1,-1,No,S,RE,CPR,NR,28 ft,2550.0,158,1958,44.835,-103.385,1998,-1,-1,-1
+ID,L,8/4/2017,Hydrologic/Flooding,Overtopping,Erosion,-1,-1,-1,RE,-1,-1,0 ft,0.0,0,0,0.0,0.0,-1,-1,-1,Yes
+MI,-1,1/1/2008,Hydrologic/Flooding,Unknown,-1,-1,Yes,-1,-1,-1,-1,-1,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+VT,L,12/23/2022,Seepage/Internal Erosion,Excessive/Increased Seepage,-1,-1,No,P,RE,R,NR,41 ft,6.9,1,2022,44.5248,-72.7329,-1,-1,-1,No
+TX,L,3/29/1989,Hydrologic/Flooding,Overtopping,-1,-1,-1,P,RE,R,NR,23 ft,837.0,135,1940,32.2498,-94.6545,-1,-1,-1,-1
+NJ,L,12/17/2023,Hydrologic/Flooding,Overtopping,-1,-1,No,S,RE,R,NR,13 ft,-1.0,0,0,39.6771,-75.2961,-1,-1,-1,-1
+PA,L,7/6/1952,Hydrologic/Flooding,Spillway Chute Failure,-1,-1,No,P,RE,O,NR,8 ft,334.0,0,-1,41.1772,-75.4131,-1,-1,-1,-1
+PA,L,8/20/1955,Hydrologic/Flooding,Unknown,-1,-1,No,P,RE,O,NR,8 ft,334.0,0,-1,41.1772,-75.4131,-1,2:00:00 AM,-1,-1
+IA,-1,1/1/2008,Seepage/Internal Erosion,Piping,-1,-1,No,-1,-1,-1,-1,-1,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+NY,H,8/28/2011,Hydrologic/Flooding,High Reservoir Level,-1,-1,Yes,L,CB,HSRFP,Y,39 ft,5000.0,430,1916,42.7113,-73.9607,-1,-1,-1,-1
+OH,H,12/1/2018,Deterioration or Poor Condition,Gate/Valve Failure,-1,-1,No,S,RE,R,Y,13 ft,1111.0,166,1840,41.0056,-81.5508,-1,-1,1 day,No
+WA,-1,12/1/1967,Hydrologic/Flooding,Overtopping,-1,-1,No,-1,-1,-1,-1,40 ft,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+CO,S,11/11/2012,Deterioration or Poor Condition,Spillway Pipe Failure,-1,-1,-1,L,RE,S,Y,35 ft,147.0,9,1981,39.8979,-105.013,-1,-1,-1,-1
+NY,H,9/6/2018,Deterioration or Poor Condition,Cracking,Excessive/Increased Seepage,-1,No,P,CNERPG,H,Y,24 ft,1736.0,350,1928,44.7433,-75.0054,-1,-1,9 months,Yes
+OH,L,4/22/2022,Deterioration or Poor Condition,Spillway Pipe Failure,Sinkhole,Erosion,No,P,RE,R,N,24 ft,168.0,20,1968,41.6575,-80.7983,-1,-1,2 weeks,Yes
+MI,L,9/7/2014,Seepage/Internal Erosion,Piping,-1,-1,-1,S,PGRE,R,NR,10 ft,1250.0,138,1954,45.7117,-84.9067,-1,-1,-1,-1
+TX,S,8/29/2017,Seepage/Internal Erosion,Piping,-1,-1,-1,P,RE,R,N,30 ft,192.0,11,1974,30.776,-96.4889,-1,-1,-1,-1
+PA,-1,7/5/1903,Hydrologic/Flooding,Overtopping,-1,-1,No,-1,-1,-1,-1,-1,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+OH,S,2/28/2011,Deterioration or Poor Condition,High Reservoir Level,-1,-1,No,-1,RE,T,N,59 ft,818.0,27,1962,39.91,-81.72,-1,-1,-1,-1
+OH,L,1/28/2019,Structural Stability,Abutment Failure,Landslide,-1,No,P,RE,T,Y,30 ft,72.3,5,1968,39.7167,-81.7725,-1,-1,-1,No
+SD,S,4/1/2019,Unknown,Unknown,-1,-1,No,P,RE,PRS,NR,22 ft,3150.0,128,1938,44.6433,-100.427,-1,-1,-1,No
+MS,H,1/14/2020,Hydrologic/Flooding,Sliding,-1,-1,-1,L,RE,C,Y,43 ft,10430.0,479,1965,33.507,-88.932,2003,-1,-1,Yes
+MS,H,3/12/2015,Deterioration or Poor Condition,Unknown,-1,-1,-1,L,RE,C,Y,43 ft,10430.0,479,1965,33.505,-88.9317,2003,-1,-1,-1
+TX,S,3/12/2009,Deterioration or Poor Condition,Animal Activity,-1,-1,No,P,RE,R,N,14 ft,92.0,25,1956,32.6857,-95.8896,-1,-1,-1,-1
+TX,L,6/17/1981,Unknown,Unknown,-1,-1,-1,L,CN,IS,NR,15 ft,108.0,18,1963,31.795,-97.5765,-1,-1,-1,-1
+ND,H,5/21/2013,Hydrologic/Flooding,High Reservoir Level,-1,-1,Yes,L,RE,C,Y,74 ft,1077.0,7,1957,48.7304,-97.9466,1985,-1,-1,-1
+NJ,H,4/17/2011,Hydrologic/Flooding,High Reservoir Level,-1,-1,Yes,P,PGRE,S,Y,25 ft,-1.0,796,1922,40.9562,-74.0291,-1,12:00 AM,-1,-1
+WI,L,7/28/2020,Hydrologic/Flooding,Overtopping,Erosion,-1,No,P,PGRE,R,Y,12 ft,125.0,24,1901,45.2569,-89.2486,1950,-1,1 day,Yes
+CA,H,2/7/2017,Deterioration or Poor Condition,Erosion,-1,-1,Yes,S,ERRE,CHIRS,Y,770 ft,3540000.0,15800,1968,39.5388,-121.485,-1,-1,"2 days - Evacation order initiated February 12, 2017 and the order lifted February 14, 2017",Yes
+OH,S,3/5/2011,Deterioration or Poor Condition,Erosion,-1,-1,Yes,PP,RE,R,Y,28 ft,146.0,11,1955,41.06,-81.77,-1,-1,-1,-1
+KY,H,3/1/2018,Structural Stability,Slope Stability,-1,-1,-1,P,RE,R,Y,28 ft,695.0,26,1959,37.4066,-87.518,-1,-1,-1,Yes
+WI,L,4/1/2019,Seepage/Internal Erosion,Excessive/Increased Seepage,Piping,-1,Yes,S,RE,R,Y,8 ft,100.0,28,-1,45.1701,-89.4056,-1,-1,10 days,No
+WI,-1,4/6/2022,Seepage/Internal Erosion,Piping,-1,-1,Yes,-1,-1,-1,-1,0 ft,0.0,0,0,0.0,0.0,-1,-1,-1,-1
+WI,-1,4/19/2023,Seepage/Internal Erosion,Piping,-1,-1,Yes,-1,-1,-1,-1,0 ft,0.0,0,0,0.0,0.0,-1,-1,-1,-1
+WI,-1,6/27/2023,Deterioration or Poor Condition,Spillway Pipe Failure,-1,-1,-1,-1,-1,-1,-1,0 ft,0.0,0,0,0.0,0.0,-1,-1,-1,-1
+NC,H,5/5/2013,Malfunction of Equipment/Gate,Gate/Valve Failure,-1,-1,No,P,PGCNRE,H,Y,122 ft,127500.0,4110,1928,35.8214,-81.1922,-1,-1,-1,-1
+KY,S,3/2/2021,Hydrologic/Flooding,Excessive/Increased Seepage,Slope Stability,-1,No,S,ER,R,Y,46 ft,6200.0,98,1961,37.5584,-83.3696,-1,-1,-1,Yes
+WI,S,6/17/2018,Hydrologic/Flooding,Debris Clogging,Erosion,Overtopping,-1,L,PGRE,R,Y,20 ft,340.0,27,1931,46.5356,-92.1208,-1,-1,-1,Unknown
+OH,L,10/25/2018,Deterioration or Poor Condition,Spillway Pipe Failure,-1,-1,No,S,RE,R,Y,34 ft,215.1,5,1967,40.2289,-81.9467,-1,-1,-1,No
+PA,H,5/30/2007,Seepage/Internal Erosion,Sinkhole,-1,-1,No,S,CNMSRE,R,Y,7 ft,2067.0,420,1906,41.2808,-75.0869,2001,-1,-1,Yes
+TX,S,9/15/2009,Hydrologic/Flooding,Overtopping,-1,-1,-1,P,RE,-1,N,20 ft,96.0,12,1997,32.9279,-95.2115,-1,-1,-1,-1
+VA,H,8/23/2011,Seismic,Other,-1,-1,Yes,L,PG,RS,Y,87 ft,4300.0,125,1964,37.67,-79.2767,-1,12:00 AM,-1,-1
+SC,L,10/8/2016,Hydrologic/Flooding,Unknown,-1,-1,Yes,S,RE,R,N,10 ft,233.0,53,1930,34.3283,-79.2617,-1,-1,1 Day,No
+MS,L,6/10/2021,Deterioration or Poor Condition,-1,-1,-1,N,L,RE,C,N,42 ft,2052.0,116,1964,33.4602,-89.9398,-1,9:30 PM,-1,N
+GA,H,12/29/2018,Hydrologic/Flooding,Debris Clogging,Insufficient Spillway Capacity,Spillway Pipe Failure,No,P,RE,R,NR,15 ft,140.0,13,1991,33.4821,-84.5683,-1,-1,-1,Yes
+NY,S,8/28/2011,Hydrologic/Flooding,Overtopping,-1,-1,No,P,RE,PR,Y,15 ft,1100.0,150,1980,43.9219,-73.5356,-1,-1,-1,-1
+PA,H,5/13/1905,Seepage/Internal Erosion,Sinkhole,-1,-1,No,L,RCRE,S,Y,151 ft,27600.0,462,1998,40.9306,-75.5625,-1,-1,4 YEARS,-1
+PA,H,7/1/1994,Seepage/Internal Erosion,Excessive/Increased Seepage,-1,-1,Yes,L,RCRE,S,Y,151 ft,27600.0,462,1998,40.9306,-75.5625,-1,-1,-1,-1
+NJ,L,8/27/2011,Hydrologic/Flooding,Overtopping,-1,-1,-1,-1,-1,R,-1,6 ft,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+SC,S,10/8/2016,Hydrologic/Flooding,Unknown,-1,-1,No,P,RE,R,N,10 ft,48.0,7,1950,34.1467,-79.6067,-1,-1,1 Day,No
+MS,H,8/30/2012,Structural Stability,Slope Stability,-1,-1,Yes,S,RE,R,Y,34 ft,8112.0,700,1940,31.175,-90.5286,1990,-1,-1,-1
+TX,H,7/8/2007,Hydrologic/Flooding,Overtopping,-1,-1,-1,P,RE,R,Y,18 ft,50.0,7,1800,32.2065,-95.2822,-1,-1,-1,-1
+WA,-1,1/1/1970,Hydrologic/Flooding,Overtopping,-1,-1,No,-1,PG,-1,-1,25 ft,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+TX,S,6/3/2024,Hydrologic/Flooding,Sliding,-1,-1,Unknown,L,RE,C,N,31 ft,1584.0,34,1971,33.3175,-96.2546,2010,-1,-1,Yes
+OH,S,3/19/2012,Seepage/Internal Erosion,Piping,-1,-1,Yes,P,RE,R,N,22 ft,43.2,5,1965,38.93,-82.27,-1,12:00 AM,-1,-1
+CO,H,9/12/2013,Hydrologic/Flooding,Other,-1,-1,-1,P,RC,S,Y,84 ft,140.0,4,2006,40.0491,-105.312,-1,-1,-1,-1
+CA,L,4/1/2011,Seepage/Internal Erosion,Sinkhole,-1,-1,No,U,RE,S,NR,42 ft,324.0,9,1911,39.3191,-121.129,-1,-1,-1,-1
+NY,H,8/4/2020,Other,Vegetation,-1,-1,No,P,RE,R,Y,12 ft,26.0,5,1968,41.16,-74.1778,-1,-1,-1,No
+SC,S,10/4/2015,Hydrologic/Flooding,Overtopping,-1,-1,-1,P,RE,R,Y,14 ft,263.0,35,1900,33.9433,-80.91,-1,-1,-1,-1
+MS,L,11/20/2015,Deterioration or Poor Condition,Unknown,-1,-1,-1,P,RE,R,NR,23 ft,350.0,0,-1,32.0683,-89.9983,-1,-1,-1,-1
+TX,S,6/15/1989,Hydrologic/Flooding,Overtopping,-1,-1,-1,P,RE,-1,N,33 ft,250.0,22,1968,32.1681,-98.6749,2005,-1,-1,-1
+TX,S,6/20/1993,Hydrologic/Flooding,Overtopping,-1,-1,-1,P,RE,P,N,17 ft,30.0,4,1953,31.8054,-95.1914,-1,-1,-1,-1
+SD,L,9/12/2019,Hydrologic/Flooding,Overtopping,-1,-1,No,L,RE,R,NR,28 ft,1200.0,0,1935,43.385,-98.8867,1973,-1,-1,-1
+NJ,S,8/27/2011,Hydrologic/Flooding,Overtopping,-1,-1,Yes,P,PGRE,R,Y,16 ft,-1.0,45,-1,39.636,-74.6607,-1,-1,-1,-1
+TX,H,10/28/2015,Hydrologic/Flooding,Spillway Deficiency,-1,-1,-1,L,RE,CR,Y,33 ft,1706.0,24,1966,30.0194,-97.8791,-1,-1,-1,-1
+TX,H,10/28/2015,Hydrologic/Flooding,Spillway Deficiency,-1,-1,-1,L,RE,C,Y,36 ft,1309.0,33,1963,30.0631,-97.8003,-1,-1,-1,-1
+TX,L,10/28/2015,Hydrologic/Flooding,Spillway Deficiency,-1,-1,-1,L,RE,IR,NR,37 ft,2250.0,39,1962,30.0466,-97.7746,-1,-1,-1,-1
+TX,H,10/28/2015,Hydrologic/Flooding,Spillway Deficiency,-1,-1,-1,L,RE,C,Y,28 ft,2936.0,55,1963,30.0359,-97.7727,-1,-1,-1,-1
+TX,S,10/28/2015,Hydrologic/Flooding,Spillway Deficiency,-1,-1,-1,L,RE,C,N,41 ft,3642.0,20,1975,30.0037,-97.7399,-1,-1,-1,-1
+TX,H,10/28/2015,Hydrologic/Flooding,Spillway Deficiency,-1,-1,-1,L,RE,C,Y,35 ft,5312.0,51,1969,29.9999,-97.709,-1,-1,-1,-1
+TX,H,10/28/2015,Hydrologic/Flooding,Spillway Deficiency,-1,-1,-1,L,RE,C,Y,38 ft,1603.0,43,1969,29.9842,-97.8574,-1,-1,-1,-1
+TX,H,10/28/2015,Hydrologic/Flooding,Spillway Deficiency,-1,-1,-1,L,RE,CI,Y,38 ft,3368.0,41,1963,30.0024,-97.8395,2012,-1,-1,-1
+TX,H,10/28/2015,Hydrologic/Flooding,Spillway Deficiency,-1,-1,-1,L,RE,C,Y,36 ft,5663.0,142,1967,30.0022,-97.8229,-1,-1,-1,-1
+TX,H,10/28/2015,Hydrologic/Flooding,Spillway Deficiency,-1,-1,-1,L,RE,C,Y,40 ft,498.0,11,1975,29.9674,-97.7949,-1,-1,-1,-1
+OH,H,4/1/2014,Hydrologic/Flooding,High Reservoir Level,-1,-1,No,S,RE,R,Y,22 ft,96.0,4,1938,38.69,-83.17,-1,-1,-1,-1
+NY,S,8/28/2011,Hydrologic/Flooding,Overtopping,-1,-1,Yes,F,RECNMS,TSR,Y,32 ft,1030.0,0,-1,41.3553,-74.0525,1948,-1,-1,-1
+NJ,L,8/7/2020,Hydrologic/Flooding,Overtopping,Insufficient Spillway Capacity,-1,No,P,PGRE,R,NR,20 ft,76.0,18,1923,39.7001,-75.3319,-1,-1,1 day,Investigation
+NJ,L,3/31/2010,Deterioration or Poor Condition,Spillway Pipe Failure,Sinkhole,-1,-1,L,PGRE,R,NR,8 ft,-1.0,18,-1,40.3571,-74.0862,-1,-1,-1,-1
+ID,H,5/10/2023,Hydrologic/Flooding,Spillway Erosion/Head Cutting,Spillway Deficiency,-1,-1,P,RE,-1,Y,55 ft,20504.0,1593,1912,42.8787,-111.943,1949,-1,2 Days,Yes
+NY,H,8/28/2011,Hydrologic/Flooding,High Reservoir Level,-1,-1,Yes,U,RE,RS,Y,22 ft,1149.0,93,1800,41.1417,-74.2111,-1,-1,-1,-1
+ID,L,2/7/2017,Hydrologic/Flooding,Overtopping,Erosion,-1,No,S,PG,P,NR,28 ft,600.0,600,1941,42.7083,-115.477,-1,-1,-1,Yes
+TX,L,2/23/2000,Hydrologic/Flooding,Overtopping,-1,-1,-1,L,RE,SP,NR,35 ft,2988.0,0,1939,32.2093,-101.269,-1,-1,-1,-1
+OR,L,1/1/1948,Unknown,Unknown,-1,-1,No,F,RE,F,N,8 ft,50.0,0,1900,44.0,-121.0,-1,-1,-1,-1
+OR,L,6/14/1903,Unknown,Unknown,-1,-1,No,F,RE,F,N,8 ft,50.0,0,1900,44.0,-121.0,-1,-1,-1,-1
+TX,L,10/29/2018,Unknown,Unknown,-1,-1,-1,P,RE,R,NR,18 ft,52.0,0,1977,32.7699,-97.1434,-1,-1,-1,-1
+OH,L,8/20/2018,Deterioration or Poor Condition,Spillway Pipe Failure,-1,-1,No,P,RE,R,N,26 ft,56.0,6,1957,40.7083,-81.17,-1,-1,1 week,No
+IN,-1,6/1/2008,Hydrologic/Flooding,Overtopping,-1,-1,No,-1,-1,-1,-1,-1,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+CO,-1,2/10/1980,Unknown,Unknown,-1,-1,No,-1,-1,-1,-1,-1,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+VA,U,7/22/2022,Deterioration or Poor Condition,Spillway Riser Failure,Spillway Pipe Failure,-1,No,P,RE,R,Y,26 ft,180.0,15,1968,37.7873,-77.9736,-1,-1,-1,Unknown
+PA,L,6/26/2006,Hydrologic/Flooding,Spillway Chute Failure,-1,-1,-1,S,MSRE,R,NR,7 ft,62.0,12,1919,41.8617,-75.6667,-1,-1,3 DAYS,No
+NY,H,9/8/2017,Deterioration or Poor Condition,Erosion,Spillway Pipe Failure,-1,-1,L,RE,PR,Y,24 ft,2510.0,232,1931,41.4575,-73.5433,-1,-1,2 weeks,No
+VA,L,4/27/2014,Malfunction of Equipment/Gate,Gate/Valve Failure,-1,-1,-1,S,RE,R,Y,39 ft,109.0,2,1960,38.0067,-78.4883,-1,-1,-1,-1
+CO,S,7/20/2017,Seepage/Internal Erosion,Excessive/Increased Seepage,Erosion,-1,No,P,RE,FIR,Y,25 ft,32690.0,1930,1896,38.2717,-102.636,-1,-1,-1,Yes
+PA,H,2/16/2018,Hydrologic/Flooding,Other,-1,-1,Yes,L,RE,S,Y,100 ft,57400.0,845,1912,40.1822,-78.9431,2005,12:28:00 PM,-1,-1
+SD,L,3/26/2019,Unknown,Unknown,-1,-1,No,L,RE,R,NR,17 ft,865.0,87,1937,43.9967,-102.132,-1,-1,-1,No
+VT,L,7/10/2023,Hydrologic/Flooding,Unknown,-1,-1,No,P,RE,-1,NR,14 ft,90.0,8,-1,43.4182,-72.9319,-1,-1,-1,No
+TX,H,5/30/2015,Hydrologic/Flooding,Overtopping,-1,-1,-1,P,RE,IR,N,30 ft,272.0,29,1912,33.7916,-96.6105,-1,-1,-1,-1
+WA,S,8/21/2014,Hydrologic/Flooding,Overtopping,-1,-1,-1,P,RE,R,N,24 ft,150.0,11,1940,48.3228,-119.998,1992,-1,-1,Yes
+CO,L,9/12/2013,Hydrologic/Flooding,Unknown,-1,-1,-1,-1,-1,-1,-1,-1,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+WI,L,6/17/2018,Hydrologic/Flooding,Overtopping,Debris Clogging,-1,No,L,PGRE,R,N,12 ft,420.0,150,1938,46.2174,-92.2255,1964,-1,-1,Unknown
+CO,L,9/12/2013,Hydrologic/Flooding,Unknown,-1,-1,-1,-1,-1,-1,-1,-1,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+VA,U,3/19/2019,Deterioration or Poor Condition,Spillway Riser Failure,Overtopping,-1,-1,-1,-1,-1,-1,-1,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+RI,-1,3/11/1901,Unknown,Spillway Deficiency,-1,-1,No,-1,-1,-1,-1,-1,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+TX,S,10/17/1994,Seepage/Internal Erosion,Piping,-1,-1,-1,P,RE,-1,Y,16 ft,115.0,7,1994,30.1497,-95.6966,1995,-1,-1,-1
+NC,H,10/8/2016,Hydrologic/Flooding,Overtopping,-1,-1,No,P,RE,RP,N,19 ft,20.0,0,-1,35.0267,-79.0222,2003,-1,1 day,-1
+TX,S,5/8/1989,Seepage/Internal Erosion,Piping,-1,-1,-1,P,RE,O,N,27 ft,80.0,1,1986,32.8258,-97.6353,-1,-1,-1,-1
+NY,S,8/28/2011,Hydrologic/Flooding,Overtopping,-1,-1,No,P,OT,R,N,26 ft,104.0,12,-1,42.0106,-73.8728,-1,-1,-1,-1
+MD,L,12/19/2016,Deterioration or Poor Condition,Animal Activity,Sinkhole,-1,No,F,RE,F,NR,13 ft,348.1,0,1940,39.0269,-76.7967,1989,-1,-1,-1
+VA,U,5/21/2018,Hydrologic/Flooding,Spillway Erosion/Head Cutting,-1,-1,No,-1,-1,-1,-1,-1,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+ND,H,5/21/2013,Hydrologic/Flooding,High Reservoir Level,-1,-1,Yes,L,RE,CR,Y,49 ft,11658.0,223,1962,48.7779,-97.7494,-1,-1,-1,-1
+WI,H,9/30/2022,Seepage/Internal Erosion,Piping,-1,-1,No,U,PGRE,R,Y,25 ft,68000.0,4200,1925,46.1385,-89.8854,-1,-1,-1,-1
+TX,L,1/1/2008,Seepage/Internal Erosion,Piping,-1,-1,-1,P,RE,S,NR,22 ft,2949.0,300,1948,32.4961,-95.6764,2010,-1,-1,-1
+NC,S,6/8/2013,Hydrologic/Flooding,Overtopping,-1,-1,No,S,RE,R,Y,15 ft,2304.0,0,-1,35.2258,-78.6528,2011,-1,-1,-1
+NC,S,9/25/2016,Hydrologic/Flooding,Overtopping,-1,-1,No,S,RE,R,Y,15 ft,2304.0,0,-1,35.2258,-78.6528,2011,-1,2 day,-1
+MD,L,6/28/2016,Deterioration or Poor Condition,Spillway Pipe Failure,Piping,-1,No,S,RE,R,NR,12 ft,91.0,12,1950,38.3678,-75.6749,1996,-1,-1,-1
+MD,L,9/29/2016,Hydrologic/Flooding,Overtopping,-1,-1,No,S,RE,R,NR,12 ft,91.0,12,1950,38.3678,-75.6749,1996,-1,-1,-1
+TX,L,10/25/2015,Hydrologic/Flooding,Spillway Deficiency,-1,-1,-1,P,RE,RP,NR,20 ft,544.0,22,1960,32.2407,-96.4891,-1,-1,-1,-1
+TX,L,5/30/2015,Hydrologic/Flooding,Sliding,-1,-1,-1,L,RE,CR,NR,27 ft,1513.0,66,1957,31.778,-96.6645,-1,-1,-1,-1
+TX,L,10/25/2015,Hydrologic/Flooding,Spillway Deficiency,-1,-1,-1,L,RE,C,NR,31 ft,2466.0,50,1972,32.0227,-96.835,-1,-1,-1,-1
+TX,L,6/10/2010,Hydrologic/Flooding,Overtopping,-1,-1,No,L,RE,C,NR,44 ft,533.0,12,1970,31.9329,-96.699,-1,-1,-1,-1
+TX,L,6/10/2010,Hydrologic/Flooding,Overtopping,-1,-1,No,L,RE,C,NR,31 ft,886.0,19,1970,31.8655,-96.7147,-1,-1,-1,-1
+TX,L,10/25/2015,Hydrologic/Flooding,Spillway Deficiency,-1,-1,-1,L,RE,C,NR,31 ft,886.0,19,1970,31.8655,-96.7147,-1,-1,-1,-1
+TX,L,6/10/2010,Hydrologic/Flooding,Overtopping,-1,-1,No,L,RE,PF,NR,35 ft,595.0,27,1964,31.8752,-96.7061,-1,-1,-1,-1
+TX,L,10/25/2015,Hydrologic/Flooding,Spillway Deficiency,-1,-1,-1,L,RE,PF,NR,29 ft,595.0,27,1964,31.8752,-96.7061,-1,-1,-1,-1
+TX,L,6/10/2010,Hydrologic/Flooding,Overtopping,-1,-1,No,L,RE,C,NR,22 ft,237.0,8,1970,31.8878,-96.6949,2005,-1,-1,-1
+TX,L,6/10/2010,Hydrologic/Flooding,Overtopping,-1,-1,No,L,RE,C,NR,30 ft,791.0,36,1970,31.8914,-96.6901,-1,-1,-1,-1
+TX,L,10/25/2015,Hydrologic/Flooding,Spillway Deficiency,-1,-1,-1,L,RE,C,NR,30 ft,791.0,36,1970,31.8914,-96.6901,-1,-1,-1,-1
+TX,L,10/25/2015,Hydrologic/Flooding,Spillway Deficiency,-1,-1,-1,L,RE,C,NR,30 ft,281.0,12,1970,31.8939,-96.684,2005,-1,-1,-1
+TX,L,6/10/2010,Hydrologic/Flooding,Overtopping,-1,-1,No,L,RE,C,NR,26 ft,638.0,30,1970,31.9069,-96.6653,-1,-1,-1,-1
+TX,L,10/25/2015,Hydrologic/Flooding,Overtopping,-1,-1,-1,L,RE,C,NR,26 ft,638.0,30,1970,31.9069,-96.6653,-1,-1,-1,-1
+TX,L,10/25/2015,Hydrologic/Flooding,Overtopping,-1,-1,-1,L,RE,C,NR,21 ft,340.0,16,1970,31.9011,-96.6474,-1,-1,-1,-1
+TX,L,6/10/2010,Hydrologic/Flooding,Overtopping,-1,-1,No,L,RE,C,NR,22 ft,2149.0,53,1966,31.8111,-96.6272,-1,-1,-1,-1
+TX,L,10/25/2015,Hydrologic/Flooding,Spillway Deficiency,-1,-1,-1,L,RE,C,NR,25 ft,926.0,18,1961,31.969,-96.5914,-1,-1,-1,-1
+TX,L,10/25/2015,Hydrologic/Flooding,Spillway Deficiency,-1,-1,-1,L,RE,C,NR,34 ft,753.0,21,1977,32.0257,-96.603,-1,-1,-1,-1
+TX,H,10/25/2015,Hydrologic/Flooding,Spillway Deficiency,-1,-1,-1,L,RE,C,Y,29 ft,5380.0,70,1971,32.0595,-96.578,2011,-1,-1,-1
+TX,L,6/10/2010,Hydrologic/Flooding,Overtopping,-1,-1,No,L,RE,C,NR,22 ft,1298.0,50,1965,31.8308,-96.5963,-1,-1,-1,-1
+TX,L,10/25/2015,Hydrologic/Flooding,Spillway Deficiency,-1,-1,-1,L,RE,C,NR,22 ft,1298.0,50,1965,31.8308,-96.5963,-1,-1,-1,-1
+TX,L,6/10/2010,Hydrologic/Flooding,Overtopping,-1,-1,No,L,RE,C,NR,22 ft,974.0,42,1964,31.8398,-96.608,2005,-1,-1,-1
+TX,L,10/25/2015,Hydrologic/Flooding,Spillway Deficiency,-1,-1,-1,L,RE,C,NR,22 ft,974.0,42,1964,31.8398,-96.608,2005,-1,-1,-1
+TX,L,6/10/2010,Hydrologic/Flooding,Overtopping,-1,-1,-1,L,RE,C,NR,30 ft,1764.0,30,1963,31.8507,-96.5642,-1,-1,-1,-1
+TX,L,6/10/2010,Hydrologic/Flooding,Overtopping,-1,-1,No,L,RE,C,NR,31 ft,796.0,29,1962,31.7883,-96.6242,-1,-1,-1,-1
+TX,L,6/10/2010,Hydrologic/Flooding,Overtopping,-1,-1,No,L,RE,C,NR,20 ft,303.0,8,1963,31.7907,-96.6186,-1,-1,-1,-1
+TX,L,6/10/2010,Hydrologic/Flooding,Overtopping,-1,-1,No,L,RE,I,NR,35 ft,5838.0,56,1963,31.8705,-96.5676,2010,-1,-1,-1
+TX,L,10/25/2015,Hydrologic/Flooding,Spillway Deficiency,-1,-1,-1,L,RE,I,NR,35 ft,5838.0,56,1963,31.8705,-96.5676,2010,-1,-1,-1
+TX,L,10/25/2015,Hydrologic/Flooding,Spillway Deficiency,-1,-1,-1,L,RE,C,NR,30 ft,414.0,0,1961,32.0568,-96.9137,-1,-1,-1,-1
+TX,L,10/25/2015,Hydrologic/Flooding,Spillway Deficiency,-1,-1,-1,L,RE,C,NR,27 ft,309.0,11,1961,32.0436,-96.9001,-1,-1,-1,-1
+TX,L,10/25/2015,Hydrologic/Flooding,Spillway Deficiency,-1,-1,-1,L,RE,C,NR,28 ft,329.0,13,1961,32.0036,-96.8563,-1,-1,-1,-1
+TX,L,10/25/2015,Hydrologic/Flooding,Spillway Deficiency,-1,-1,-1,L,RE,C,NR,30 ft,516.0,17,1964,31.8284,-96.7323,-1,-1,-1,-1
+TX,L,10/25/2015,Hydrologic/Flooding,Spillway Deficiency,-1,-1,-1,L,RE,C,NR,58 ft,2778.0,32,1965,32.0001,-96.9873,-1,-1,-1,-1
+TX,L,10/25/2015,Hydrologic/Flooding,Spillway Deficiency,-1,-1,-1,L,RE,C,NR,33 ft,440.0,12,1977,31.9848,-96.9399,-1,-1,-1,-1
+TX,L,10/25/2015,Hydrologic/Flooding,Spillway Deficiency,-1,-1,-1,L,RE,C,NR,24 ft,284.0,12,1964,31.9827,-96.8903,-1,-1,-1,-1
+TX,L,6/10/2010,Hydrologic/Flooding,Overtopping,-1,-1,No,L,RE,C,NR,24 ft,1036.0,35,1964,31.8203,-96.7322,-1,-1,-1,-1
+TX,L,10/25/2015,Hydrologic/Flooding,Spillway Deficiency,-1,-1,-1,L,RE,C,NR,24 ft,1036.0,35,1964,31.8203,-96.7322,-1,-1,-1,-1
+TX,S,10/25/2015,Hydrologic/Flooding,Spillway Deficiency,-1,-1,-1,L,RE,C,N,33 ft,535.0,21,1981,31.9498,-96.935,-1,-1,-1,-1
+TX,S,10/25/2015,Hydrologic/Flooding,Spillway Deficiency,-1,-1,-1,L,RE,C,N,25 ft,704.0,16,1979,31.9619,-96.9201,-1,-1,-1,-1
+TX,L,10/25/2015,Hydrologic/Flooding,Spillway Deficiency,-1,-1,-1,L,RE,C,NR,34 ft,703.0,32,1974,31.8944,-96.9638,1992,-1,-1,-1
+TX,S,10/25/2015,Hydrologic/Flooding,Spillway Deficiency,-1,-1,-1,L,RE,C,N,32 ft,1222.0,44,1974,31.8999,-96.9482,-1,-1,-1,-1
+TX,L,10/25/2015,Hydrologic/Flooding,Spillway Deficiency,-1,-1,-1,L,RE,C,NR,25 ft,429.0,16,1974,31.8854,-96.8571,-1,-1,-1,-1
+TX,L,10/25/2015,Hydrologic/Flooding,Spillway Deficiency,-1,-1,-1,L,RE,C,NR,32 ft,1474.0,37,1979,31.8732,-96.8663,-1,-1,-1,-1
+TX,L,10/25/2015,Hydrologic/Flooding,Spillway Deficiency,-1,-1,-1,L,RE,C,NR,30 ft,734.0,12,1977,31.817,-96.8798,-1,-1,-1,-1
+TX,L,10/25/2015,Hydrologic/Flooding,Spillway Deficiency,-1,-1,-1,L,RE,PF,NR,30 ft,450.0,13,1986,31.8544,-96.926,-1,-1,-1,-1
+TX,L,10/25/2015,Hydrologic/Flooding,Spillway Deficiency,-1,-1,-1,L,RE,C,NR,36 ft,4391.0,126,1972,32.0185,-96.844,-1,-1,-1,-1
+VA,L,7/3/2014,Deterioration or Poor Condition,Spillway Riser Failure,-1,-1,-1,P,RE,R,NR,16 ft,50.0,0,1956,37.3412,-77.4463,-1,-1,-1,-1
+PA,H,3/28/2013,Seepage/Internal Erosion,Excessive/Increased Seepage,Erosion,-1,No,L,RE,S,Y,62 ft,1200.0,38,1914,40.8428,-76.2475,2011,-1,-1,-1
+OH,H,7/1/2015,Seepage/Internal Erosion,Spillway Chute Failure,-1,-1,No,L,RE,O,N,30 ft,135.0,7,1959,38.8839,-82.3892,-1,-1,1 week,Yes
+NJ,L,9/3/2021,Hydrologic/Flooding,Overtopping,-1,-1,Unknown,P,RE,R,NR,10 ft,-1.0,2,0,40.945,-73.948,-1,-1,-1,-1
+TX,S,9/22/1967,Hydrologic/Flooding,Overtopping,-1,-1,-1,P,RE,S,NR,11 ft,106.0,15,1968,28.9694,-98.4431,-1,-1,-1,-1
+MD,L,7/25/2018,Hydrologic/Flooding,Overtopping,-1,-1,No,L,RE,-1,NR,10 ft,119.0,8,1964,39.7067,-76.08,2012,-1,1 year,No
+CO,S,7/8/2020,Seepage/Internal Erosion,Excessive/Increased Seepage,-1,-1,Yes,S,RE,FR,Y,50 ft,766.0,41,1956,37.8914,-107.176,-1,-1,5 days,Yes
+NE,L,1/1/2019,Unknown,Unknown,-1,-1,No,P,RE,P,NR,13 ft,123.0,8,1960,42.0682,-98.4091,-1,-1,-1,No
+TX,S,4/19/1977,Hydrologic/Flooding,Overtopping,-1,-1,-1,P,RE,R,N,13 ft,22.0,0,1800,30.1242,-97.3424,-1,-1,-1,-1
+MS,U,1/2/2020,Hydrologic/Flooding,Overtopping,Insufficient Spillway Capacity,Erosion,N,L,RE,R,NR,32 ft,886.0,36,1973,31.432,-91.4046,-1,7:30 PM,-1,Y
+TX,L,7/14/1996,Seepage/Internal Erosion,Piping,-1,-1,-1,P,RE,C,NR,20 ft,560.0,0,1938,31.5887,-106.107,-1,-1,-1,-1
+MS,H,11/6/2015,Hydrologic/Flooding,Overtopping,-1,-1,-1,P,RE,R,N,17 ft,84.0,8,1964,32.2011,-89.9617,-1,-1,-1,-1
+OH,L,4/1/2016,Deterioration or Poor Condition,Spillway Pipe Failure,Sinkhole,-1,No,P,RE,O,N,34 ft,109.9,8,1964,41.0717,-80.7958,-1,-1,-1,Yes
+PA,H,10/1/2007,Seepage/Internal Erosion,Excessive/Increased Seepage,-1,-1,No,S,CNPG,S,Y,53 ft,50.0,2,-1,40.8331,-77.7556,-1,-1,10 MONTHS,Yes
+MD,H,4/30/2014,Hydrologic/Flooding,High Reservoir Level,-1,-1,Yes,L,CBCN,SR,Y,134 ft,22000.0,773,1953,39.1167,-76.8751,2014,-1,-1,-1
+TX,L,1/3/2019,Unknown,Unknown,-1,-1,-1,P,RE,S,NR,20 ft,216.0,18,1962,30.9065,-97.2317,-1,-1,-1,-1
+IN,H,4/27/2015,Unknown,Under Investigation,-1,-1,-1,-1,RE,-1,-1,1991 ft,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+SD,L,7/30/2010,Hydrologic/Flooding,Overtopping,-1,-1,No,S,RE,R,NR,38 ft,950.0,32,1935,0.0,0.0,-1,-1,-1,No
+MD,L,8/4/2020,Hydrologic/Flooding,Insufficient Spillway Capacity,Overtopping,Erosion,No,P,RE,F,NR,20 ft,91.0,6,1970,38.5047,-76.6134,1970,-1,17 days,Yes
+TX,L,3/29/1989,Hydrologic/Flooding,Overtopping,-1,-1,-1,L,RE,R,NR,23 ft,680.0,0,1953,31.8003,-95.1967,-1,-1,-1,-1
+TX,L,6/20/1993,Hydrologic/Flooding,Overtopping,-1,-1,-1,L,RE,R,NR,23 ft,680.0,0,1953,31.8003,-95.1967,-1,-1,-1,-1
+PA,H,6/28/2005,Seepage/Internal Erosion,Cracking,Excessive/Increased Seepage,-1,Yes,S,CNPG,R,N,42 ft,3500.0,62,1960,39.89,-80.4494,-1,-1,-1,-1
+NJ,S,8/27/2011,Hydrologic/Flooding,Piping,-1,-1,No,L,PGRE,R,Y,24 ft,147.0,14,1930,41.0043,-74.587,-1,-1,-1,-1
+MT,U,2/14/2011,Hydrologic/Flooding,Spillway Erosion/Head Cutting,-1,-1,No,-1,RE,-1,-1,-1,-1.0,0,-1,47.0,108.0,-1,-1,-1,-1
+SC,L,10/8/2016,Hydrologic/Flooding,Unknown,-1,-1,No,P,RE,R,N,25 ft,228.0,20,1965,34.245,-79.67,-1,-1,1 Day,No
+CA,L,6/17/2011,Seepage/Internal Erosion,Erosion,-1,-1,-1,-1,-1,I,-1,16 ft,-1.0,0,2006,37.0,-122.0,-1,-1,-1,-1
+ME,S,5/11/2022,Other,Other,-1,-1,No,L,CNPGRE,FPR,Y,11 ft,4680.0,1158,1896,44.5224,-69.7971,1956,-1,-1,Yes
+VA,-1,12/24/1924,Unknown,Unknown,-1,-1,No,-1,RE,T,-1,100 ft,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+CA,-1,2/9/1971,Seismic,Unknown,-1,-1,Yes,-1,HF,-1,-1,142 ft,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+TX,S,9/8/2010,Hydrologic/Flooding,Overtopping,-1,-1,No,-1,RE,R,-1,25 ft,-1.0,0,1960,0.0,0.0,-1,-1,-1,-1
+MS,L,3/11/2016,Hydrologic/Flooding,Overtopping,-1,-1,-1,P,RE,R,NR,16 ft,200.0,14,2006,33.7639,-88.3619,-1,12:00 PM,-1,-1
+PA,-1,7/1/1977,Unknown,Unknown,-1,-1,No,-1,-1,-1,-1,-1,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+MI,H,5/19/2020,Hydrologic/Flooding,Overtopping,-1,-1,Yes,P,CNMV,H,Y,36 ft,15000.0,1526,1925,43.6769,-84.3803,-1,-1,-1,Yes
+UT,H,9/11/2012,Deterioration or Poor Condition,Animal Activity,-1,-1,Yes,L,RE,C,Y,40 ft,70.0,0,1919,37.1292,-113.637,-1,-1,-1,-1
+MD,-1,1/1/2008,Unknown,Unknown,-1,-1,No,-1,-1,-1,-1,-1,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+NJ,L,8/27/2011,Hydrologic/Flooding,Piping,-1,-1,No,P,PGRE,R,NR,35 ft,96.0,8,-1,41.1837,-74.5632,-1,-1,-1,-1
+NY,S,8/28/2011,Hydrologic/Flooding,High Reservoir Level,-1,-1,Yes,P,CNPG,H,Y,28 ft,795.0,150,1909,42.8936,-73.5887,2000,-1,-1,-1
+NE,L,2/1/2019,Seepage/Internal Erosion,Piping,-1,-1,-1,P,RE,I,NR,21 ft,260.0,11,2018,40.1993,-97.098,-1,-1,-1,No
+WI,L,5/10/2018,Seepage/Internal Erosion,Animal Activity,Piping,-1,No,L,PGRE,OR,N,8 ft,700.0,117,1937,42.9828,-88.5088,1938,-1,-1,Unknown
+NY,S,8/28/2011,Hydrologic/Flooding,Overtopping,-1,-1,Yes,P,EROT,R,Y,16 ft,16.0,2,1912,41.4047,-74.1514,-1,-1,-1,-1
+SC,L,10/4/2015,Hydrologic/Flooding,Overtopping,-1,-1,-1,P,RE,R,N,14 ft,85.0,12,1945,33.595,-81.2867,-1,-1,-1,-1
+SC,L,10/4/2015,Hydrologic/Flooding,Overtopping,-1,-1,-1,P,RE,R,N,17 ft,308.0,35,1955,33.6467,-81.2117,-1,-1,-1,-1
+SC,L,10/4/2015,Hydrologic/Flooding,Overtopping,-1,-1,-1,P,RE,R,N,36 ft,132.0,18,1963,33.5883,-81.345,-1,-1,-1,-1
+SC,L,10/4/2015,Hydrologic/Flooding,Overtopping,-1,-1,-1,P,RE,R,N,18 ft,106.0,25,1938,33.5833,-80.5967,-1,-1,-1,-1
+SC,L,10/4/2015,Hydrologic/Flooding,Overtopping,-1,-1,-1,P,RE,R,N,15 ft,109.0,21,1930,33.56,-80.7383,-1,-1,-1,-1
+SC,L,10/4/2015,Hydrologic/Flooding,Overtopping,-1,-1,-1,P,RE,R,N,15 ft,263.0,36,1900,33.8133,-80.09,-1,-1,-1,-1
+SC,L,10/4/2015,Hydrologic/Flooding,Overtopping,-1,-1,-1,P,RE,R,N,15 ft,91.0,26,1960,33.6533,-80.4433,-1,-1,-1,-1
+SC,L,10/4/2015,Hydrologic/Flooding,Overtopping,-1,-1,-1,P,RE,R,N,13 ft,320.0,34,1900,33.8483,-80.005,-1,-1,-1,-1
+SC,L,10/4/2015,Hydrologic/Flooding,Overtopping,-1,-1,-1,P,RE,R,N,16 ft,92.0,34,1875,33.6533,-80.495,-1,-1,-1,-1
+SC,L,10/8/2016,Hydrologic/Flooding,Overtopping,-1,-1,No,P,RE,R,N,9 ft,144.0,24,1955,33.7333,-80.0917,-1,-1,1 Day,No
+SC,S,10/4/2015,Hydrologic/Flooding,Overtopping,-1,-1,-1,P,RE,R,N,20 ft,357.0,28,1957,34.42,-79.9417,-1,-1,-1,-1
+SC,L,10/8/2016,Hydrologic/Flooding,Unknown,-1,-1,No,P,RE,R,N,15 ft,209.0,22,1961,34.2533,-79.835,-1,-1,1 Day,No
+SC,L,10/4/2015,Hydrologic/Flooding,Overtopping,-1,-1,-1,P,RE,R,N,20 ft,112.0,7,1955,34.1117,-80.7517,-1,-1,-1,-1
+SC,S,10/4/2015,Hydrologic/Flooding,Overtopping,-1,-1,-1,P,RE,I,Y,15 ft,312.0,24,1930,0.0,0.0,1998,-1,-1,-1
+SC,S,10/4/2015,Hydrologic/Flooding,Overtopping,-1,-1,-1,L,RE,R,Y,14 ft,359.0,64,1900,33.9583,-81.26,-1,-1,-1,-1
+SC,L,10/4/2015,Hydrologic/Flooding,Overtopping,-1,-1,-1,P,RE,R,N,14 ft,72.0,10,1910,33.73,-81.0367,-1,-1,-1,-1
+SC,H,3/30/2011,Deterioration or Poor Condition,Animal Activity,-1,-1,-1,P,RE,R,Y,23 ft,93.0,6,1950,34.0633,-81.19,1989,-1,-1,-1
+SC,S,10/4/2015,Hydrologic/Flooding,Overtopping,-1,-1,-1,P,RE,R,Y,13 ft,108.0,15,1920,33.525,-80.935,-1,-1,-1,-1
+SC,L,10/4/2015,Hydrologic/Flooding,Overtopping,-1,-1,-1,P,RE,R,N,10 ft,181.0,32,1960,33.5217,-80.515,-1,-1,-1,-1
+SC,S,10/4/2015,Hydrologic/Flooding,Overtopping,-1,-1,-1,P,RE,R,Y,13 ft,182.0,25,1960,33.5333,-81.2367,-1,-1,-1,-1
+SC,L,10/4/2015,Hydrologic/Flooding,Overtopping,-1,-1,-1,P,RE,R,N,14 ft,87.0,12,1960,33.6367,-81.16,-1,-1,-1,-1
+SC,H,10/4/2015,Hydrologic/Flooding,Overtopping,-1,-1,-1,P,RE,R,N,11 ft,260.0,32,1900,34.115,-80.9833,-1,-1,-1,-1
+SC,H,10/4/2015,Hydrologic/Flooding,Overtopping,-1,-1,-1,P,RE,R,Y,20 ft,960.0,68,1938,34.0483,-80.9583,1988,-1,-1,-1
+SC,H,10/4/2015,Hydrologic/Flooding,Overtopping,-1,-1,-1,P,RE,R,Y,20 ft,230.0,21,1900,34.0367,-80.955,-1,-1,-1,-1
+SC,H,10/4/2015,Hydrologic/Flooding,Overtopping,-1,-1,-1,P,RE,R,Y,20 ft,297.0,25,1955,34.04,-80.9517,-1,-1,-1,-1
+CA,H,2/4/2021,Seepage/Internal Erosion,Excessive/Increased Seepage,-1,-1,No,L,RE,ST,N,24 ft,210.0,30,1910,40.4786,-124.108,-1,-1,-1,Yes
+MD,-1,1/1/2008,Unknown,Unknown,-1,-1,No,-1,-1,-1,-1,-1,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+MI,H,5/19/2020,Hydrologic/Flooding,High Reservoir Level,-1,-1,Yes,P,PG,CH,Y,57 ft,15000.0,1100,1925,44.0411,-84.3419,-1,-1,-1,Yes
+NJ,S,8/14/2011,Hydrologic/Flooding,Overtopping,-1,-1,No,-1,PGRE,I,N,18 ft,-1.0,69,-1,39.4876,-75.2584,-1,-1,-1,-1
+MS,L,3/12/2015,Deterioration or Poor Condition,Spillway Pipe Failure,-1,-1,No,P,RE,R,NR,14 ft,75.0,0,1970,34.625,-89.875,-1,-1,-1,-1
+MS,L,7/1/2015,Structural Stability,Slope Stability,-1,-1,-1,P,RE,R,NR,14 ft,75.0,0,1970,34.625,-89.875,-1,-1,-1,-1
+WI,-1,11/1/2023,Hydrologic/Flooding,Erosion,-1,-1,No,-1,-1,-1,-1,0 ft,0.0,0,0,0.0,0.0,-1,-1,-1,-1
+MO,H,4/30/2011,Structural Stability,Sliding,-1,-1,No,P,RE,R,Y,45 ft,1300.0,61,1944,37.2544,-90.6352,-1,-1,-1,-1
+VA,-1,1/1/2008,Unknown,Unknown,-1,-1,No,-1,-1,-1,-1,-1,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+PA,L,1/1/2014,Other,Animal Activity,Debris Clogging,-1,-1,S,RE,F,-1,-1,-1.0,0,-1,41.3808,-79.5348,-1,-1,-1,-1
+NJ,S,8/27/2011,Hydrologic/Flooding,Overtopping,-1,-1,No,L,PGRE,R,Y,16 ft,-1.0,83,1931,40.3528,-74.085,-1,-1,-1,-1
+NH,S,6/28/2023,Hydrologic/Flooding,Spillway Erosion/Head Cutting,-1,-1,No,P,RE,R,N,20 ft,21.0,4,1969,43.7322,-71.3225,-1,-1,1 Day,No
+NJ,L,8/27/2011,Hydrologic/Flooding,Overtopping,-1,-1,No,-1,RE,R,-1,9 ft,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+CA,-1,6/1/1925,Seismic,Other,-1,-1,No,-1,HF,-1,-1,25 ft,92.0,0,1917,0.0,0.0,-1,-1,-1,Yes
+NH,L,8/28/2011,Hydrologic/Flooding,Overtopping,-1,-1,-1,P,CNPG,HC,NR,17 ft,960.0,210,1906,44.4042,-71.1157,1990,-1,-1,-1
+WI,L,10/25/2023,Hydrologic/Flooding,Overtopping,-1,-1,No,L,PGRE,R,Y,13 ft,600.0,117,1936,44.4262,-90.3693,-1,-1,-1,-1
+MD,-1,1/1/2008,Unknown,Unknown,-1,-1,No,-1,-1,-1,-1,-1,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+OH,H,9/1/2014,Deterioration or Poor Condition,Spillway Pipe Failure,Sinkhole,-1,No,S,RE,R,Y,25 ft,855.0,59,1962,40.68,-82.04,-1,-1,-1,-1
+MN,L,4/11/2022,Seepage/Internal Erosion,Erosion,Excessive/Increased Seepage,Piping,No,L,OT,C,NR,14 ft,132.0,0,1965,44.4619,-94.1772,2019,-1,-1,No
+WA,-1,5/1/1971,Seepage/Internal Erosion,Piping,-1,-1,No,-1,-1,-1,-1,-1,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+NH,S,7/1/2022,Deterioration or Poor Condition,Gate/Valve Failure,-1,-1,-1,L,RE,R,NR,9 ft,29.0,3,1935,42.8227,-72.1869,-1,-1,1 day,-1
+NH,S,7/18/2021,Hydrologic/Flooding,High Reservoir Level,Overtopping,Insufficient Spillway Capacity,-1,L,RE,R,NR,9 ft,29.0,3,1935,42.8227,-72.1869,-1,-1,1 day,-1
+KY,S,5/8/2023,Seepage/Internal Erosion,Piping,-1,-1,No,P,RE,R,NR,15 ft,100.0,10,1950,38.1065,-85.7334,-1,-1,-1,Yes
+NC,S,10/8/2016,Hydrologic/Flooding,Overtopping,-1,-1,No,P,REPGCN,R,N,13 ft,538.0,0,-1,35.802,-77.949,-1,-1,1 day,-1
+MO,H,5/1/2017,Seepage/Internal Erosion,Excessive/Increased Seepage,Erosion,-1,No,P,RE,T,Y,80 ft,4900.0,118,1981,38.1893,-90.7567,-1,-1,2 weeks,No
+DE,H,7/6/2017,Deterioration or Poor Condition,Gate/Valve Failure,Insufficient Spillway Capacity,-1,No,S,PGRE,R,Y,18 ft,591.0,39,1945,39.438,-75.6934,-1,-1,-1,Yes
+DE,H,7/27/2022,Seepage/Internal Erosion,Piping,Sinkhole,Excessive/Increased Seepage,Yes,S,PGRE,R,Y,18 ft,591.0,39,1945,39.438,-75.6934,-1,-1,-1,No
+KY,S,4/7/2015,Structural Stability,Foundation Deficiency,-1,-1,No,P,RE,R,NR,15 ft,91.4,10,1950,38.105,-85.7333,-1,-1,-1,No
+OH,H,3/17/2017,Deterioration or Poor Condition,Spillway Chute Failure,Piping,-1,-1,L,RE,R,N,19 ft,82.5,4,-1,40.805,-81.5083,-1,-1,6 days,Yes
+CO,H,9/14/2013,Hydrologic/Flooding,Spillway Erosion/Head Cutting,-1,-1,-1,P,RE,IR,Y,52 ft,2186.0,124,1892,40.0675,-105.218,-1,-1,-1,-1
+CO,H,5/27/2015,Seepage/Internal Erosion,Excessive/Increased Seepage,-1,-1,-1,L,RE,RI,Y,40 ft,220.0,15,1900,39.6567,-104.944,1901,-1,-1,-1
+NY,S,8/28/2011,Hydrologic/Flooding,Overtopping,-1,-1,No,P,RE,R,N,24 ft,25.0,3,1952,41.3133,-74.1653,-1,-1,-1,-1
+KY,S,2/25/2018,Deterioration or Poor Condition,Erosion,-1,-1,-1,P,RE,O,NR,18 ft,260.0,13,1890,37.4785,-87.4925,-1,-1,-1,Yes
+NJ,L,5/23/2011,Hydrologic/Flooding,Overtopping,-1,-1,-1,-1,RE,R,-1,21 ft,-1.0,0,1930,0.0,0.0,-1,12:00 AM,-1,-1
+MI,H,5/19/2020,Hydrologic/Flooding,High Reservoir Level,-1,-1,Yes,P,PGRE,CH,Y,36 ft,9000.0,500,1925,43.9586,-84.3361,-1,-1,-1,Yes
+TX,S,8/31/2017,Hydrologic/Flooding,Unknown,-1,-1,-1,P,RE,-1,N,16 ft,70.0,55,1950,31.0061,-93.708,-1,-1,-1,-1
+NC,L,10/8/2016,Hydrologic/Flooding,Overtopping,-1,-1,No,P,RE,R,NR,10 ft,77.0,0,-1,34.863,-78.73,-1,-1,1 day,-1
+NC,L,10/8/2016,Hydrologic/Flooding,Overtopping,-1,-1,No,P,RE,-1,NR,10 ft,73.0,0,-1,35.224,-78.815,-1,-1,1 day,-1
+SC,L,10/4/2015,Hydrologic/Flooding,Overtopping,-1,-1,-1,P,RE,R,N,26 ft,62.4,25,-1,34.0667,-79.3458,-1,-1,-1,-1
+NH,H,8/28/2011,Hydrologic/Flooding,High Reservoir Level,-1,-1,Yes,L,CN,R,Y,17 ft,40.8,5,1976,43.95,-71.5047,-1,-1,-1,-1
+MD,-1,9/8/2011,Unknown,Spillway Chute Failure,-1,-1,Yes,-1,RE,-1,-1,13 ft,10.0,0,-1,39.3108,-76.7248,-1,-1,-1,-1
+NE,L,5/1/2019,Deterioration or Poor Condition,Other,High Reservoir Level,-1,No,P,RE,P,NR,16 ft,132.0,18,1950,42.7245,-103.3,-1,-1,-1,No
+UT,H,12/21/2010,Hydrologic/Flooding,Slope Stability,-1,-1,Yes,P,RE,I,Y,91 ft,2250.0,0,1988,37.1472,-112.985,-1,12:00 AM,-1,-1
+PA,H,01/01/1889,Hydrologic/Flooding,Overtopping,-1,-1,No,-1,RE,R,-1,72 ft,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+MN,L,6/14/2014,Hydrologic/Flooding,Overtopping,-1,-1,No,S,PG,R,NR,24 ft,235.0,19,1940,43.7145,-96.1779,1940,Between 9 pm and midnight,<12 hours,Yes
+VT,S,7/10/2023,Hydrologic/Flooding,Unknown,-1,-1,No,P,MSREST,R,NR,16 ft,45.0,6,1875,44.4153,-72.4222,-1,-1,-1,No
+MS,L,1/3/2020,Manmade Action,Erosion Of Spillway Chute,-1,-1,N,P,RE,R,NR,25 ft,720.0,0,1969,31.4606,-91.2627,-1,-1,-1,Y
+NE,L,6/12/2010,Hydrologic/Flooding,Overtopping,-1,-1,No,-1,RE,H,-1,11 ft,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+CT,-1,3/6/1963,Unknown,Unknown,-1,-1,No,-1,-1,-1,-1,-1,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+PA,H,10/29/2012,Hydrologic/Flooding,Overtopping,-1,-1,Yes,S,RE,R,Y,35 ft,2372.0,106,1966,40.2039,-76.3075,-1,-1,-1,-1
+NE,S,3/14/2019,Other,Overtopping,Other,-1,No,U,RE,H,NR,45 ft,16487.0,864,1927,42.8088,-98.6566,-1,5:15 AM,-1,Yes
+OH,L,12/20/2019,Deterioration or Poor Condition,Spillway Riser Failure,-1,-1,Yes,S,RE,R,Y,15 ft,258.0,30,1960,41.115,-82.0858,-1,-1,-1,No
+VA,L,8/1/2018,Manmade Action,Accident Or Misoperation,-1,-1,No,P,RE,R,N,35 ft,270.0,5,-1,38.3785,-77.7805,-1,-1,-1,-1
+VA,L,11/12/2020,Structural Stability,Excessive/Increased Seepage,Erosion,Reservoir overfilling,-1,P,RE,R,N,35 ft,270.0,5,-1,38.3785,-77.7805,-1,-1,-1,Yes
+VA,U,11/30/2020,Deterioration or Poor Condition,Excessive/Increased Seepage,Spillway pipe failure,-1,-1,X,-1,-1,NR,30 ft,165.7,13,-1,38.2208,-77.6859,-1,-1,-1,Yes
+VA,U,12/7/2019,Deterioration or Poor Condition,Spillway Pipe Failure,Excessive/Increased Seepage,Erosion,-1,X,-1,-1,NR,30 ft,165.7,13,-1,38.2208,-77.6859,-1,-1,-1,Yes
+MS,L,1/1/2012,Deterioration or Poor Condition,Spillway Pipe Failure,-1,-1,No,P,RE,R,NR,26 ft,480.0,93,1971,30.5933,-88.6933,-1,-1,-1,-1
+TX,H,4/1/1982,Unknown,Spillway Deficiency,-1,-1,-1,P,RE,R,Y,23 ft,255.0,14,1952,30.4049,-95.3824,-1,-1,-1,-1
+OH,L,4/6/2019,Deterioration or Poor Condition,Spillway Pipe Failure,Sinkhole,Piping,No,P,RE,R,N,29 ft,63.3,5,1969,39.6486,-83.8289,-1,-1,-1,No
+TX,H,5/2/2024,Hydrologic/Flooding,Spillway Erosion/Head Cutting,-1,-1,Unknown,P,RE,R,Y,24 ft,575.0,0,1965,30.6724,-95.5594,2011,-1,-1,Yes
+TX,S,6/10/2010,Hydrologic/Flooding,Overtopping,-1,-1,No,P,RE,IR,N,23 ft,230.0,15,1920,32.4298,-95.301,-1,-1,-1,-1
+TX,H,6/13/1973,Hydrologic/Flooding,Overtopping,-1,-1,-1,P,RE,R,Y,23 ft,255.0,14,1952,30.4049,-95.3824,-1,-1,-1,-1
+TX,H,8/29/2017,Hydrologic/Flooding,Unknown,-1,-1,-1,P,RE,R,Y,23 ft,255.0,14,1952,30.4049,-95.3824,-1,-1,-1,-1
+SC,L,9/16/2018,Hydrologic/Flooding,Overtopping,Erosion,-1,No,P,RE,R,NR,16 ft,145.0,16,1958,34.4582,-79.8616,-1,-1,-1,-1
+TX,H,10/9/1992,Unknown,Spillway Deficiency,-1,-1,-1,P,RE,R,Y,23 ft,255.0,14,1952,30.4049,-95.3824,-1,-1,-1,-1
+PA,L,7/1/2013,Hydrologic/Flooding,Overtopping,-1,-1,-1,P,RE,R,-1,6 ft,-1.0,0,-1,41.1154,-79.5148,-1,2:00:00 PM,-1,-1
+VA,H,5/20/2020,Hydrologic/Flooding,Overtopping,-1,-1,-1,P,RE,R,Y,26 ft,80.0,5,-1,37.2564,-80.02,-1,-1,-1,Yes
+TN,L,5/2/2010,Hydrologic/Flooding,Spillway Erosion/Head Cutting,-1,-1,No,P,RE,-1,-1,-1,-1.0,0,1969,0.0,0.0,2012,-1,-1,-1
+SC,H,3/1/2018,Deterioration or Poor Condition,Spillway Pipe Failure,Piping,Sinkhole,No,P,RE,R,Y,19 ft,233.0,32,1954,34.0748,-80.9526,-1,-1,-1,-1
+NV,L,8/6/2022,Hydrologic/Flooding,Spillway Deficiency,Overtopping,-1,No,P,RE,I,NR,12 ft,21.5,5,-1,38.8497,-115.66,-1,-1,-1,No
+MD,S,4/18/2018,Deterioration or Poor Condition,Spillway Pipe Failure,-1,-1,No,P,RE,R,Y,18 ft,64.0,8,1968,39.3417,-77.2245,1968,-1,1 year,No
+MD,S,9/23/2003,Hydrologic/Flooding,Overtopping,-1,-1,No,P,RE,R,Y,18 ft,64.0,8,1968,39.3417,-77.2245,1968,-1,-1,-1
+CA,H,3/12/1928,Structural Stability,Foundation Deficiency,-1,-1,No,-1,-1,S,N,205 ft,38000.0,0,1926,0.0,0.0,-1,-1,-1,Yes
+NE,U,1/1/2011,Unknown,Unknown,-1,-1,-1,P,-1,C,NR,18 ft,64.0,2,1960,40.609,-96.9949,-1,-1,-1,No
+NJ,L,8/27/2011,Hydrologic/Flooding,Piping,-1,-1,No,-1,CN,R,-1,9 ft,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+OH,S,4/1/2015,Hydrologic/Flooding,High Reservoir Level,-1,-1,No,P,RE,O,Y,18 ft,183.0,19,1928,40.4656,-81.1153,-1,-1,1day,Yes
+CO,H,5/22/2015,Unknown,High Reservoir Level,-1,-1,Yes,U,CNVA,SHR,Y,299 ft,10600.0,98,1982,39.4327,-105.126,-1,-1,-1,-1
+SC,L,10/8/2016,Hydrologic/Flooding,Unknown,-1,-1,No,P,RE,R,N,7 ft,64.0,14,1875,34.1767,-79.13,-1,-1,1 Day,No
+WI,L,2/6/2021,Malfunction of Equipment/Gate,Gate/Valve Failure,-1,-1,No,L,PGRE,CR,Y,19 ft,430.0,54,1937,44.5548,-91.3923,-1,-1,1 day,Yes
+PA,L,9/8/2011,Hydrologic/Flooding,Overtopping,-1,-1,No,P,RE,R,NR,11 ft,123.0,3,1948,41.4767,-76.3767,-1,-1,1 DAY,No
+UT,L,4/29/2019,Seepage/Internal Erosion,Excessive/Increased Seepage,Abutment Failure,-1,No,P,RE,C,NR,23 ft,137.0,0,1913,39.9757,-111.813,-1,-1,2 days,Yes
+NY,H,8/28/2011,Hydrologic/Flooding,High Reservoir Level,-1,-1,Yes,L,OT,R,Y,28 ft,264.0,16,1914,42.2464,-73.6481,-1,-1,-1,-1
+CA,-1,4/4/2010,Seismic,Sinkhole,-1,-1,-1,-1,RE,R,-1,-1,-1.0,0,-1,33.0,-116.0,-1,-1,-1,-1
+PA,L,4/27/2011,Unknown,Overtopping,-1,-1,-1,S,STMS,F,-1,11 ft,-1.0,0,-1,40.1611,-76.1457,-1,-1,1 DAY,No
+OH,L,4/1/2021,Deterioration or Poor Condition,Spillway Pipe Failure,Sinkhole,-1,No,L,RE,R,N,10 ft,350.0,63,-1,41.2981,-81.3153,-1,-1,2-3 days,No
+TN,L,5/2/2010,Hydrologic/Flooding,Overtopping,-1,-1,No,P,RE,-1,NR,28 ft,295.0,21,1969,35.7169,-88.6619,-1,-1,-1,-1
+CO,L,9/12/2013,Hydrologic/Flooding,Unknown,-1,-1,-1,-1,-1,-1,-1,-1,-1.0,0,-1,0.0,0.0,-1,12:00 AM,-1,-1
+NJ,H,8/14/2011,Hydrologic/Flooding,Overtopping,-1,-1,Yes,L,PGRE,R,Y,20 ft,-1.0,94,1927,39.4468,-75.2353,-1,-1,-1,-1
+NJ,S,8/14/2011,Hydrologic/Flooding,Spillway Pipe Failure,Erosion,-1,Yes,P,PGRE,R,Y,8 ft,-1.0,50,1950,39.6349,-74.9644,-1,-1,-1,-1
+TX,S,8/29/2017,Hydrologic/Flooding,Unknown,-1,-1,-1,P,RE,R,Y,25 ft,960.0,45,1951,30.6464,-95.5798,2005,-1,-1,-1
+NJ,H,8/14/2011,Hydrologic/Flooding,Overtopping,-1,-1,Yes,L,PGRE,R,Y,11 ft,-1.0,103,1949,39.4319,-75.2371,-1,-1,-1,-1
+SC,S,10/4/2015,Hydrologic/Flooding,Overtopping,-1,-1,-1,P,RE,R,Y,11 ft,234.0,45,1949,33.9667,-80.9117,-1,-1,-1,-1
+TX,S,9/27/1996,Hydrologic/Flooding,Overtopping,-1,-1,-1,P,RE,R,N,13 ft,210.0,41,1915,30.7031,-94.4475,2000,-1,-1,-1
+ND,S,4/3/2019,Hydrologic/Flooding,High Reservoir Level,-1,-1,No,L,RE,C,Y,28 ft,1615.5,29,1960,46.9834,-97.3911,-1,-1,1 week,No
+NJ,H,8/27/2011,Hydrologic/Flooding,Overtopping,-1,-1,No,P,MS,R,Y,15 ft,-1.0,51,1914,41.0078,-74.5179,-1,-1,-1,-1
+CA,H,3/30/2023,Other,Landslide,-1,-1,No,L,RE,S,Y,86 ft,107.0,4,1931,38.0765,-122.227,-1,1:00 AM,-1,Yes
+WI,L,4/17/2023,Hydrologic/Flooding,Overtopping,-1,-1,No,S,RE,R,Y,7 ft,580.0,47,1964,45.3947,-91.9486,-1,-1,-1,-1
+CA,-1,1/27/1916,Unknown,Unknown,-1,-1,No,-1,-1,-1,-1,-1,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+CA,H,1/30/1916,Hydrologic/Flooding,Overtopping,-1,-1,-1,U,PG,ST,Y,112 ft,27689.0,936,1888,32.6921,-117.008,-1,-1,-1,-1
+VA,H,8/15/2020,Hydrologic/Flooding,Overtopping,-1,-1,-1,L,RE,RS,Y,44 ft,50590.0,1660,-1,37.4177,-77.648,-1,-1,-1,Yes
+MT,-1,6/8/1964,Unknown,Unknown,-1,-1,No,-1,-1,-1,-1,-1,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+OH,H,1/12/2018,Seepage/Internal Erosion,Piping,Vegetation,-1,Yes,L,RE,S,Y,39 ft,629.0,38,1876,40.1764,-84.2633,-1,-1,3 days,No
+NY,-1,1/1/1979,Unknown,Unknown,-1,-1,No,-1,-1,-1,-1,-1,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+ND,S,9/21/2019,Hydrologic/Flooding,High Reservoir Level,Erosion,-1,No,L,RE,S,Y,27 ft,3790.8,105,1908,47.4845,-99.3967,1936,-1,-1,No
+TX,L,12/30/2015,Hydrologic/Flooding,Overtopping,-1,-1,-1,L,RE,SR,NR,10 ft,76.0,15,1915,33.4661,-94.4452,-1,-1,-1,-1
+OH,S,4/1/2016,Seepage/Internal Erosion,Piping,-1,-1,No,P,RE,O,Y,31 ft,52.2,4,1945,39.3639,-84.5808,-1,-1,1 day,Yes
+NE,L,6/12/2010,Hydrologic/Flooding,Overtopping,-1,-1,No,-1,RE,I,NR,10 ft,170.0,1,1939,41.7947,-99.4603,-1,-1,-1,-1
+TX,L,10/25/2015,Hydrologic/Flooding,Overtopping,-1,-1,-1,L,RE,CPO,NR,17 ft,129.0,7,1977,31.886,-97.04,-1,-1,-1,-1
+TX,L,10/25/2015,Hydrologic/Flooding,Spillway Deficiency,-1,-1,-1,L,RE,C,NR,42 ft,2016.0,44,1979,31.8033,-96.9583,-1,-1,-1,-1
+TX,L,10/25/2015,Hydrologic/Flooding,Spillway Deficiency,-1,-1,-1,LP,RE,CP,NR,28 ft,1528.0,37,1964,31.7426,-96.9988,-1,-1,-1,-1
+CO,L,5/12/2015,Hydrologic/Flooding,High Reservoir Level,-1,-1,Yes,F,RE,R,Y,85 ft,1782.0,183,1908,38.4367,-104.812,1988,-1,-1,-1
+ID,-1,6/5/1976,Unknown,Unknown,-1,-1,Yes,-1,-1,-1,-1,-1,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+OH,S,5/10/2012,Seepage/Internal Erosion,Piping,-1,-1,Yes,-1,RE,C,N,22 ft,68.0,0,1975,41.17,-81.46,-1,12:00 AM,-1,-1
+MN,H,6/20/2012,Unknown,Under Investigation,-1,-1,Yes,X,PG,HR,Y,23 ft,4352.0,375,1907,46.665,-92.4067,-1,-1,-1,-1
+WI,L,4/18/2019,Hydrologic/Flooding,Spillway Deficiency,Erosion,Debris Clogging,No,P,PGRE,HR,N,16 ft,250.0,61,1886,44.9868,-91.4184,1913,-1,1 day,No
+MD,-1,1/1/2008,Unknown,Unknown,-1,-1,No,-1,-1,-1,-1,-1,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+ND,S,3/13/2015,Deterioration or Poor Condition,Spillway Chute Failure,-1,-1,-1,L,RE,R,Y,36 ft,3080.0,166,1936,47.8045,-98.3943,1941,-1,-1,-1
+TX,H,4/7/1900,Hydrologic/Flooding,Overtopping,-1,-1,-1,L,CNPG,IHSR,Y,85 ft,115404.0,1830,1939,30.2941,-97.7864,2005,-1,-1,-1
+TX,H,9/1/1915,Hydrologic/Flooding,Overtopping,-1,-1,-1,L,CNPG,IHSR,Y,85 ft,115404.0,1830,1939,30.2941,-97.7864,2005,-1,-1,-1
+NJ,S,8/27/2011,Hydrologic/Flooding,Sinkhole,-1,-1,No,L,PGRE,R,Y,11 ft,-1.0,10,-1,39.8656,-74.8948,-1,-1,-1,-1
+SC,L,10/4/2015,Hydrologic/Flooding,Overtopping,-1,-1,-1,P,RE,R,N,9 ft,73.0,15,1958,33.6967,-80.53,-1,-1,-1,-1
+TX,-1,12/28/2018,Unknown,Spillway Deficiency,-1,-1,-1,-1,RE,-1,-1,15 ft,42.0,0,-1,0.0,0.0,-1,-1,-1,-1
+MS,H,1/29/2016,Structural Stability,Slope Stability,-1,-1,-1,S,RE,R,Y,47 ft,12925.0,565,1974,34.2367,-88.895,-1,-1,-1,-1
+MS,H,2/1/2016,Seepage/Internal Erosion,Piping,-1,-1,-1,S,RE,R,Y,47 ft,12925.0,565,1974,34.2367,-88.895,-1,-1,-1,-1
+DE,H,12/25/2023,Deterioration or Poor Condition,Spillway Chute Failure,-1,-1,-1,S,PGRE,R,Y,14 ft,4343.0,94,1938,38.5278,-75.4824,-1,-1,-1,-1
+MO,H,7/22/2015,Deterioration or Poor Condition,Animal Activity,Excessive/Increased Seepage,-1,No,P,RE,R,NR,20 ft,1314.0,105,1963,40.0798,-93.5887,-1,-1,-1,No
+MS,L,3/10/2016,Structural Stability,Slope Stability,-1,-1,-1,P,RE,R,NR,19 ft,267.0,0,-1,31.0572,-89.3397,-1,-1,-1,-1
+DE,S,9/30/2016,Hydrologic/Flooding,Spillway Erosion/Head Cutting,Overtopping,-1,No,S,REPG,R,N,12 ft,665.0,38,-1,38.5258,-75.5117,-1,18:00,1 day,Yes
+PA,H,1/25/2018,Seepage/Internal Erosion,Excessive/Increased Seepage,-1,-1,Yes,L,MSPG,S,Y,40 ft,696.0,41,1907,40.3306,-79.0894,-1,-1,-1,-1
+CO,H,9/13/2013,Hydrologic/Flooding,High Reservoir Level,-1,-1,-1,P,RE,I,Y,29 ft,882.0,56,1899,39.8254,-105.197,-1,-1,-1,-1
+NC,H,10/8/2016,Hydrologic/Flooding,Overtopping,-1,-1,No,P,RE,R,N,8 ft,518.0,0,-1,35.155,-77.734,9999,-1,1 day,-1
+MO,H,4/30/2011,Hydrologic/Flooding,Overtopping,-1,-1,No,P,RE,R,N,35 ft,988.0,50,1977,37.1409,-90.2424,-1,-1,-1,-1
+OH,H,7/8/2021,Seepage/Internal Erosion,Other,-1,-1,No,S,RE,R,Y,26 ft,1740.0,83,1956,41.0117,-81.515,-1,-1,1 day,No
+CA,S,8/3/2014,Unknown,Under Investigation,-1,-1,-1,P,MV,RS,NR,36 ft,143.0,12,1928,38.0291,-120.244,-1,-1,-1,-1
+CA,S,12/23/2021,Other,Abutment Failure,-1,-1,No,P,MV,RS,N,36 ft,143.0,12,1928,38.0291,-120.244,-1,-1,-1,Yes
+NV,L,2/8/2017,Hydrologic/Flooding,Overtopping,Reservoir Overfilling,-1,No,P,RE,CIP,NR,47 ft,8700.0,100,-1,41.53,-114.363,-1,-1,-1,Yes
+TX,S,9/27/1996,Hydrologic/Flooding,Overtopping,-1,-1,-1,P,RE,S,NR,10 ft,125.0,25,1915,30.7147,-94.4514,-1,-1,-1,-1
+TX,L,5/30/2016,Hydrologic/Flooding,Overtopping,-1,-1,-1,P,RE,R,NR,21 ft,121.0,13,1948,29.7787,-99.0667,-1,-1,-1,-1
+CO,H,4/30/2015,Seepage/Internal Erosion,Piping,-1,-1,-1,S,RE,RF,Y,106 ft,40654.0,1182,1908,37.6359,-102.538,-1,-1,-1,-1
+CO,H,8/8/2013,Hydrologic/Flooding,Insufficient Spillway Capacity,-1,-1,Yes,S,RE,RF,Y,106 ft,40654.0,1182,1908,37.6359,-102.538,-1,-1,-1,-1
+OH,H,2/20/2019,Structural Stability,Slope Stability,-1,-1,Yes,S,RE,R,Y,29 ft,4078.0,176,1961,38.9222,-82.3533,-1,-1,-1,No
+TX,-1,9/12/1963,Unknown,Unknown,-1,-1,No,-1,-1,-1,-1,-1,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+NM,-1,10/13/1980,Unknown,Unknown,-1,-1,No,-1,-1,-1,-1,-1,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+SC,H,10/4/2015,Hydrologic/Flooding,Overtopping,-1,-1,-1,P,RE,R,Y,17 ft,96.0,17,1940,33.9683,-80.8967,1994,-1,-1,-1
+WI,-1,1/1/2008,Hydrologic/Flooding,Overtopping,-1,-1,No,-1,RE,-1,-1,-1,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+NJ,S,8/27/2011,Hydrologic/Flooding,Sinkhole,-1,-1,No,P,RE,R,N,13 ft,73.0,4,-1,39.8528,-74.9102,-1,-1,-1,-1
+NM,-1,7/1/1979,Unknown,Unknown,-1,-1,No,-1,-1,-1,-1,-1,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+VT,-1,1/1/2008,Hydrologic/Flooding,Overtopping,-1,-1,No,-1,TC,-1,-1,-1,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+MS,L,8/30/2012,Unknown,Unknown,-1,-1,-1,-1,RE,-1,-1,15 ft,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+TN,-1,3/28/1902,Unknown,Spillway Deficiency,-1,-1,No,-1,-1,-1,-1,-1,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+NC,-1,7/1/1916,Unknown,Unknown,-1,-1,Yes,-1,-1,-1,-1,-1,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+WV,-1,8/9/1916,Unknown,Unknown,-1,-1,No,-1,-1,-1,-1,-1,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+WV,-1,8/9/1916,Unknown,Spillway Deficiency,-1,-1,No,-1,-1,-1,-1,-1,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+WV,-1,8/9/1916,Unknown,Spillway Deficiency,-1,-1,No,-1,-1,-1,-1,-1,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+IA,L,3/1/2019,Deterioration or Poor Condition,Spillway Erosion/Head Cutting,Accident or Misoperation,-1,-1,L,RE,PC,NR,60 ft,194.0,8,1967,42.0612,-95.8452,-1,-1,-1,-1
+TX,H,5/26/2015,Hydrologic/Flooding,Sliding,-1,-1,-1,L,RE,CP,Y,21 ft,615.6,11,1959,30.4906,-97.5402,-1,-1,-1,-1
+TX,S,1/4/2019,Structural Stability,Sliding,-1,-1,-1,L,RE,CP,N,35 ft,1728.0,36,1975,30.5774,-97.4827,-1,-1,-1,-1
+NY,L,8/28/2011,Hydrologic/Flooding,Piping,-1,-1,No,L,-1,O,N,7 ft,55.0,11,1920,42.235,-76.3428,-1,-1,-1,-1
+CO,L,9/23/2013,Hydrologic/Flooding,Spillway Erosion/Head Cutting,-1,-1,-1,-1,-1,-1,-1,-1,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+CO,H,8/27/2013,Malfunction of Equipment/Gate,Gate/Valve Failure,-1,-1,-1,S,RE,R,Y,98 ft,7125.0,155,1967,39.27,-108.846,1969,-1,-1,-1
+PA,H,05/20/1894,Hydrologic/Flooding,Overtopping,Erosion,-1,No,L,RE,S,Y,45 ft,212.0,12,1887,40.4969,-78.4789,-1,-1,1 DAY,Yes
+IN,-1,6/1/2008,Hydrologic/Flooding,Overtopping,-1,-1,No,-1,-1,-1,-1,-1,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+NE,L,6/5/2015,Seepage/Internal Erosion,Spillway Pipe Failure,Piping,-1,No,L,RE,O,NR,23 ft,91.0,6,1960,40.5814,-96.6754,-1,8:00 AM,-1,No
+OH,H,4/18/2018,Seepage/Internal Erosion,Piping,Spillway Pipe Failure,-1,No,L,RE,R,Y,30 ft,155.0,11,1852,41.4831,-81.5606,-1,-1,-1,No
+OH,H,6/26/2019,Seepage/Internal Erosion,Sinkhole,Piping,Other,No,L,RE,R,Y,30 ft,155.0,11,1852,41.4831,-81.5606,-1,-1,-1,No
+OH,H,7/29/2021,Deterioration or Poor Condition,Spillway Pipe Failure,Sinkhole,-1,No,L,RE,R,Y,30 ft,155.0,11,1852,41.4831,-81.5606,-1,-1,2-3 days,No
+NY,L,8/28/2011,Hydrologic/Flooding,Overtopping,-1,-1,No,L,RE,S,N,40 ft,80.0,5,1912,41.2289,-74.3608,-1,-1,-1,-1
+CO,L,11/1/2012,Seepage/Internal Erosion,Excessive/Increased Seepage,-1,-1,-1,P,RE,S,NR,119 ft,429.0,12,1976,39.8394,-106.094,1997,-1,-1,-1
+NY,-1,9/13/1902,Structural Stability,Slope Stability,-1,-1,No,-1,-1,-1,-1,-1,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+OH,S,5/8/2019,Structural Stability,Abutment Failure,Landslide,-1,No,S,RE,R,Y,23 ft,903.0,55,1939,41.1339,-83.6444,-1,-1,-1,No
+TX,L,12/29/2015,Structural Stability,Sliding,-1,-1,-1,L,RE,S,NR,36 ft,2050.0,0,1949,32.5483,-95.5883,-1,-1,-1,-1
+MT,-1,3/26/1951,Unknown,Unknown,-1,-1,No,-1,-1,-1,-1,-1,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+TX,H,10/13/2009,Hydrologic/Flooding,Overtopping,-1,-1,-1,P,RE,R,N,20 ft,56.0,7,1930,32.7392,-95.4779,-1,-1,-1,-1
+TX,H,12/21/1969,Structural Stability,Cracking,Sliding,-1,-1,L,RE,HRO,Y,76 ft,32324.0,1350,1963,29.2461,-98.3645,-1,-1,-1,-1
+CO,L,9/14/2013,Hydrologic/Flooding,High Reservoir Level,-1,-1,-1,L,RE,RFC,NR,24 ft,240.0,20,1967,39.9733,-105.249,-1,-1,-1,-1
+NH,S,7/29/2021,Hydrologic/Flooding,High Reservoir Level,Overtopping,Insufficient Spillway Capacity,Unknown,L,CN,R,Y,31 ft,72.0,6,1925,43.1536,-72.3488,-1,-1,2 days,Unknown
+NY,H,8/28/2011,Hydrologic/Flooding,High Reservoir Level,-1,-1,Yes,S,CNPG,HN,Y,30 ft,27400.0,1050,1913,42.8048,-73.8455,1990,-1,-1,-1
+MD,S,9/1/2021,Hydrologic/Flooding,Debris Clogging,Insufficient Spillway Capacity,Overtopping,Yes,P,RE,C,Y,10 ft,48.0,0,1961,39.675,-77.723,-1,4:51 PM,-1,Yes
+NE,L,3/1/2019,Hydrologic/Flooding,Overtopping,-1,-1,No,L,RE,CO,NR,20 ft,109.9,2,1958,42.5963,-98.3165,-1,-1,-1,No
+TX,H,10/10/1961,Structural Stability,Sliding,-1,-1,-1,F,RE,SRC,Y,140 ft,969000.0,7270,1965,31.6,-97.2167,-1,-1,-1,-1
+WY,L,3/20/2019,Hydrologic/Flooding,High Reservoir Level,Reservoir Overfilling,Insufficient Spillway Capacity,No,P,RE,I,NR,30 ft,331.0,30,1946,43.4542,-106.746,-1,-1,1 day,No
+OH,S,7/1/2015,Hydrologic/Flooding,Overtopping,-1,-1,No,P,RE,O,N,14 ft,118.57,16,-1,38.9328,-84.0086,-1,-1,1 day,Yes
+SC,H,10/4/2015,Hydrologic/Flooding,Overtopping,-1,-1,-1,P,RE,R,Y,25 ft,280.0,8,1950,34.1167,-80.8467,-1,-1,-1,-1
+MI,L,4/13/2012,Malfunction of Equipment/Gate,Gate/Valve Failure,Sinkhole,-1,No,-1,RE,R,NR,17 ft,850.0,41,1965,43.7167,-84.9917,-1,-1,-1,-1
+FL,L,9/13/2017,Hydrologic/Flooding,Unknown,-1,-1,-1,P,RE,PR,N,22 ft,850.0,0,1965,30.77,-81.97,-1,-1,-1,-1
+AZ,H,01/01/1890,Unknown,Spillway Deficiency,-1,-1,No,-1,ER,-1,-1,110 ft,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+NE,L,7/9/2019,Hydrologic/Flooding,Overtopping,-1,-1,No,P,RE,I,NR,19 ft,78.6,7,1944,40.7174,-99.2459,-1,-1,-1,No
+IL,S,6/26/2011,Unknown,Under Investigation,-1,-1,No,L,RE,R,N,22 ft,153.0,18,-1,38.2083,-89.0417,-1,12:00 AM,-1,-1
+WA,H,2/28/2014,Unknown,Under Investigation,-1,-1,Yes,U,PGERCN,HCR,Y,206 ft,796000.0,14590,1965,46.8731,-119.97,-1,-1,-1,-1
+NY,H,8/28/2011,Hydrologic/Flooding,High Reservoir Level,-1,-1,Yes,L,MS,HPNR,Y,20 ft,700.0,100,1872,41.6006,-73.92,1992,-1,-1,-1
+SC,L,10/4/2015,Hydrologic/Flooding,Overtopping,-1,-1,-1,P,RE,R,N,11 ft,198.0,12,1970,33.5667,-80.2867,-1,-1,-1,-1
+WI,L,5/20/2021,Deterioration or Poor Condition,Spillway Pipe Failure,-1,-1,Yes,P,PGRE,R,N,25 ft,100.0,6,1974,42.9096,-89.9476,-1,-1,1 day,Yes
+NV,H,6/16/2018,Seepage/Internal Erosion,Piping,-1,-1,Yes,P,MSPG,IR,Y,12 ft,400.0,45,-1,39.33,-119.801,-1,8:00 AM,5 Days,No
+IA,L,5/29/2019,Deterioration or Poor Condition,Sinkhole,Spillway Pipe Failure,-1,No,P,RE,P,NR,40 ft,97.0,4,1966,41.6748,-93.7419,-1,-1,-1,-1
+IA,L,5/29/2019,Deterioration or Poor Condition,Spillway Pipe Failure,Sinkhole,-1,-1,P,RE,P,NR,40 ft,97.0,4,1966,41.6748,-93.7419,-1,-1,-1,-1
+OH,L,1/23/2023,Deterioration or Poor Condition,Spillway Pipe Failure,Debris Clogging,Erosion,No,S,RE,R,Y,19 ft,51.0,6,-1,38.94,-82.5425,-1,-1,1 day,Yes
+NY,S,10/31/2019,Hydrologic/Flooding,Overtopping,Debris Clogging,Insufficient Spillway Capacity,No,L,MS,S,Y,10 ft,7.0,3,1917,42.9283,-75.3383,-1,20:00,1 day,Yes
+WI,L,7/14/2020,Hydrologic/Flooding,Erosion,Other,-1,Yes,F,RE,F,NR,11 ft,562.0,95,1944,45.2317,-88.3805,-1,-1,1 day,Yes
+OK,H,5/19/2021,Seepage/Internal Erosion,Spillway Chute Failure,-1,-1,Yes,L,RE,S,Y,50 ft,2900.0,140,1955,36.554,-96.1164,-1,-1,-1,Investigation
+WI,H,4/22/2023,Malfunction of Equipment/Gate,Gate/Valve Failure,-1,-1,No,P,RE,OR,Y,13 ft,75.0,11,1977,45.1511,-90.3374,-1,-1,-1,-1
+OH,L,4/1/2015,Hydrologic/Flooding,Unknown,-1,-1,No,P,RE,O,N,13 ft,191.3,4,2013,40.6358,-81.0247,-1,-1,1 day,Yes
+VA,H,1/15/2019,Deterioration or Poor Condition,Spillway Pipe Failure,-1,-1,No,-1,-1,-1,N,-1,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+OH,L,1/27/2012,Seepage/Internal Erosion,Piping,-1,-1,Yes,-1,RE,R,N,15 ft,119.0,0,1970,40.0,-83.0,-1,12:00 AM,-1,-1
+WI,L,9/8/2015,Hydrologic/Flooding,Overtopping,-1,-1,-1,L,PGRE,R,Y,14 ft,110.0,20,1930,44.5739,-90.7222,1994,-1,-1,-1
+WI,L,4/19/2022,Seepage/Internal Erosion,Piping,-1,-1,No,L,RE,R,Y,9 ft,1760.0,480,1960,45.0961,-88.457,-1,-1,-1,-1
+NY,-1,5/15/1916,Seepage/Internal Erosion,Unknown,-1,-1,No,-1,-1,-1,-1,-1,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+TX,L,5/30/2015,Hydrologic/Flooding,Spillway Pipe Failure,-1,-1,-1,L,RE,C,NR,46 ft,8855.0,481,1951,33.4222,-98.1051,-1,-1,-1,-1
+WI,H,8/28/2018,Hydrologic/Flooding,Erosion,-1,-1,Yes,L,RE,CR,Y,63 ft,2345.0,51,1969,43.6889,-90.7987,2000,-1,1 day,Yes
+TX,S,9/27/1996,Hydrologic/Flooding,Overtopping,-1,-1,-1,P,RE,ISR,Y,24 ft,360.0,20,1949,30.7002,-94.426,1997,-1,-1,-1
+OH,H,10/1/2021,Seepage/Internal Erosion,Excessive/Increased Seepage,Other,-1,No,S,RE,S,Y,22 ft,8796.0,900,1840,40.9978,-81.5439,-1,-1,1 day,No
+SC,L,10/4/2015,Hydrologic/Flooding,Overtopping,-1,-1,-1,P,RE,R,N,13 ft,324.0,40,1932,33.8833,-80.7683,-1,-1,-1,-1
+OK,-1,4/13/1945,Unknown,Unknown,-1,-1,No,-1,-1,-1,-1,-1,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+NE,L,1/1/2019,Deterioration or Poor Condition,Spillway Erosion/Head Cutting,High Reservoir Level,-1,No,P,RE,P,NR,16 ft,339.4,35,1963,40.5255,-99.8,-1,-1,-1,No
+MD,H,7/28/2017,Hydrologic/Flooding,Insufficient Spillway Capacity,-1,-1,Yes,L,RE,C,Y,27 ft,196.0,3,1979,39.0247,-77.0383,1990,-1,-1,-1
+MD,H,8/12/2014,Hydrologic/Flooding,High Reservoir Level,-1,-1,Yes,L,RE,C,Y,27 ft,196.0,3,1979,39.0247,-77.0383,1990,-1,one day,-1
+NC,H,6/7/2013,Deterioration or Poor Condition,Spillway Pipe Failure,Sinkhole,-1,No,P,RE,RI,N,13 ft,17.0,0,-1,35.2351,-79.3668,-1,-1,-1,-1
+TX,L,7/18/1990,Unknown,Spillway Erosion/Head Cutting,-1,-1,-1,P,RE,R,NR,21 ft,5600.0,212,1970,33.2873,-95.1451,2003,-1,-1,-1
+IN,S,4/3/2013,Deterioration or Poor Condition,Spillway Pipe Failure,-1,-1,No,P,RE,R,N,27 ft,509.0,32,1964,38.4172,-87.225,-1,-1,-1,-1
+OH,H,10/10/2017,Deterioration or Poor Condition,Spillway Pipe Failure,Sinkhole,-1,-1,P,RE,R,Y,42 ft,183.5,10,1968,39.1961,-82.9897,-1,-1,1 week,Yes
+TX,H,8/1/2017,Unknown,Unknown,-1,-1,-1,P,RE,PR,Y,30 ft,192.0,4,1951,30.9082,-98.3887,-1,-1,-1,-1
+SC,S,10/4/2015,Hydrologic/Flooding,Overtopping,-1,-1,-1,P,RE,R,Y,24 ft,281.0,27,1963,34.0967,-80.8867,2010,-1,-1,-1
+NY,S,8/28/2011,Hydrologic/Flooding,Other,-1,-1,No,P,RE,R,Y,15 ft,10.0,2,1898,41.4075,-74.1544,-1,-1,-1,-1
+CO,H,8/19/2017,Manmade Action,Other,-1,-1,Yes,S,RE,R,Y,100 ft,36900.0,1011,1966,40.7917,-106.947,-1,-1,-1,Yes
+NV,L,4/19/2011,Hydrologic/Flooding,Other,-1,-1,Yes,P,CNER,IRFC,Y,58 ft,8000.0,480,-1,41.21,-116.536,1912,-1,-1,-1
+CO,L,9/12/2013,Hydrologic/Flooding,Unknown,-1,-1,-1,-1,-1,-1,-1,-1,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+TX,L,6/4/1989,Hydrologic/Flooding,Overtopping,-1,-1,-1,L,RE,O,NR,19 ft,638.0,46,1914,32.15,-94.7842,-1,-1,-1,-1
+MN,S,7/13/2016,Hydrologic/Flooding,Overtopping,-1,-1,No,S,PG,O,NR,26 ft,672.0,84,1941,46.3236,-92.8392,2002,-1,-1,-1
+GA,L,4/7/2014,Unknown,Under Investigation,-1,-1,No,P,RE,R,NR,39 ft,309.0,12,1954,33.93,-84.9222,-1,-1,-1,-1
+OK,L,6/17/2015,Manmade Action,Overtopping,Accident or Misoperation,-1,No,P,-1,O,NR,24 ft,72.0,4,1970,35.1954,-97.0536,-1,-1,-1,No
+SC,S,10/4/2015,Hydrologic/Flooding,Overtopping,-1,-1,-1,P,RE,R,Y,14 ft,134.0,20,1960,34.0,-80.7417,-1,-1,-1,-1
+PA,L,4/1/2015,Deterioration or Poor Condition,Spillway Pipe Failure,Sinkhole,-1,-1,P,RE,R,-1,10 ft,-1.0,0,-1,41.4112,-79.4619,-1,-1,-1,-1
+TX,S,5/1/1965,Seepage/Internal Erosion,Piping,-1,-1,-1,L,RE,S,Y,32 ft,3268.0,0,1964,33.5459,-98.3938,1985,-1,-1,-1
+OH,S,4/3/2017,Seepage/Internal Erosion,Spillway Chute Failure,-1,-1,-1,S,RE,R,Y,14 ft,3429.0,460,1916,41.0183,-81.3736,-1,-1,1 day,Yes
+NY,L,8/28/2011,Hydrologic/Flooding,Erosion,-1,-1,No,P,RE,R,Y,42 ft,135.0,6,-1,42.0156,-74.4119,-1,-1,-1,-1
+NC,-1,11/2/1904,Unknown,Unknown,-1,-1,No,-1,OT,S,-1,-1,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+WI,L,4/19/2019,Hydrologic/Flooding,Overtopping,Erosion,Accident or Misoperation,No,P,PGRE,R,Y,22 ft,360.0,40,1885,44.8411,-89.1575,1908,-1,1 day,No
+WI,L,11/1/2019,Seepage/Internal Erosion,Piping,Excessive/Increased Seepage,Animal Activity,No,L,RE,R,N,8 ft,125.0,21,-1,46.1409,-91.7505,-1,-1,-1,No
+VA,U,2/27/2022,Seepage/Internal Erosion,Unknown,-1,-1,No,X,RE,R,N,22 ft,189.0,0,-1,37.5875,-77.7774,-1,-1,-1,Unknown
+NJ,H,7/6/2011,Seepage/Internal Erosion,Excessive/Increased Seepage,-1,-1,Yes,P,PGRE,S,Y,38 ft,-1.0,117,1906,41.0128,-74.0493,-1,12:00 AM,-1,-1
+MI,L,4/14/2014,Hydrologic/Flooding,Overtopping,-1,-1,No,-1,RE,R,NR,9 ft,1100.0,452,1928,44.221,-84.7741,-1,-1,-1,-1
+TN,S,4/3/2020,Manmade Action,Debris Clogging,Excessive/Increased Seepage,Overtopping,No,P,RE,O,NR,25 ft,30.0,3,-1,36.1258,-85.2539,-1,-1,1 day,Yes
+TN,S,4/3/2020,Seepage/Internal Erosion,Spillway Erosion/Head Cutting,Excessive/Increased Seepage,-1,No,P,RE,O,NR,25 ft,30.0,3,-1,36.1258,-85.2539,-1,-1,1 day,Yes
+FL,S,7/5/2013,Hydrologic/Flooding,Unknown,-1,-1,-1,P,RE,OP,N,25 ft,874.0,0,1973,30.02,-81.75,-1,-1,-1,-1
+FL,S,9/13/2017,Hydrologic/Flooding,Unknown,-1,-1,-1,P,RE,OP,N,25 ft,874.0,0,1973,30.02,-81.75,-1,-1,-1,-1
+WI,-1,1/1/2008,Hydrologic/Flooding,Overtopping,-1,-1,No,-1,RE,-1,-1,-1,-1.0,0,-1,0.0,0.0,-1,-1,-1,-1
+TX,S,5/30/2015,Hydrologic/Flooding,Sliding,-1,-1,-1,LP,RE,CRPD,Y,31 ft,877.0,26,1962,29.7394,-97.9746,-1,-1,-1,-1
+IN,S,3/1/2023,Structural Stability,Slope Stability,Sliding,-1,Yes,P,RE,R,Y,36 ft,94.0,5,1945,39.1694,-86.0508,-1,-1,-1,No
